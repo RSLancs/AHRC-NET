@@ -1,0 +1,1445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+<meta>
+<attr name="docdate" id="docdate" year="2021" month="08" date="08" sdate="2021-08-08" day-number="738009" day="Sunday" wdaynum="7">20210808</attr>
+<attr name="tokeniser_version" date="20151216"/></meta>
+<text>
+<p><s id="s2"><w l="﻿" pws="yes" id="w13" p="NNP" headn="yes" group="B-NP">﻿</w>
+<w l="&lt;" pws="yes" id="w15" p="NNP" headn="yes" group="I-NP">&lt;</w><w wlastn="true" common="true" l="ray" pws="no" id="w16" p="NNP" pername="true" wfirstn="true" headn="yes" group="I-NP">Ray</w><w l="_" pws="no" id="w19" p="NNP" headn="yes" group="I-NP">_</w><w l="synopsis" pws="no" id="w20" p="NN" headn="yes" group="I-NP">synopsis</w><w l="_" pws="no" id="w28" p="NN" headn="yes" group="I-NP">_</w><w pws="no" id="w29" p="CD" quty="209" headn="yes" group="I-NP">209</w><w l=">" pws="no" id="w32" p="NNS" headn="yes" group="B-NP">&gt;</w></s></p>
+
+<p><s id="s3"><w l="sttrpium" pws="yes" id="w35" p="NNP" headn="yes" group="B-NP">STtRPIUM</w> <w l="b" pws="yes" id="w44" p="NNP" headn="yes" group="I-NP">B</w><w pws="no" id="w45" p="CC" headn="yes" group="I-NP">&amp;</w><w l="itannlcarum" pws="no" id="w46" p="NNP" headn="yes" group="I-NP">ITANNlCARUM</w><w pws="no" id="w57" p="," group="O">,</w> <w pws="yes" id="w59" p="CD" quty="109" group="O">109</w></s></p> 
+
+<p><s id="s4"><w l="§" pws="yes" id="w65" p="NN" headn="yes" group="B-NP">§</w><w sb="true" pws="no" id="w66" p="." group="O">.</w></s> <s id="s5"><w l="graminifolium" pws="yes" id="w68" p="NNP" headn="yes" group="B-NP">Graminifolia</w> <w l="paluftri" pws="yes" id="w81" p="VBZ" headv="yes" group="B-VP">paluftris</w> <w l="rcpen" pws="yes" id="w91" p="NNS" headn="yes" group="B-NP">rcpens</w><w pws="no" id="w97" p="," group="O">,</w> <w l="vafculi" pws="yes" id="w99" p="VBZ" headv="yes" group="B-VP">vafculis</w> <w l="granorum" pws="yes" id="w108" p="NNP" headn="yes" group="B-NP">granorum</w> <w common="true" l="pipe" pws="yes" id="w117" p="NNP" headn="yes" group="I-NP">Pipe</w><w pws="no" id="w121" p=":" group="O">-</w> 
+<w l="ri" pws="yes" id="w124" p="VBZ" headv="yes" group="B-VP">ris</w> <w l="semuli" pws="yes" id="w128" p="NNS" headn="yes" group="B-NP">semulis</w><w sb="true" pws="no" id="w135" p="." group="O">.</w></s> <s id="s6"><w l="pepper-graf" pws="yes" id="w137" p="NNP" headn="yes" group="B-NP">Pepper-grafs</w><w sb="true" pws="no" id="w149" p="." group="O">.</w></s> <s id="s7"><w l="perexigua" pws="yes" id="w151" p="NNP" headn="yes" group="B-NP">Perexigua</w> <w l="hsec" pws="yes" id="w161" p="NNP" headn="yes" group="I-NP">hsec</w> <w l="plantulum" pws="yes" id="w166" p="NN" headn="yes" group="I-NP">plantula</w> <w pws="yes" id="w175" p="IN" group="B-PP">per</w> <w l="tcr" pws="yes" id="w179" p="NN" headn="yes" group="B-NP">tcr</w><w pws="no" id="w182" p=":" group="O">-</w> 
+<w l="ram" pws="yes" id="w185" p="NN" headn="yes" group="B-NP">ram</w> <w l="rcpit" pws="yes" id="w189" p="NN" headn="yes" group="I-NP">rcpit</w> <w l="folii" pws="yes" id="w195" p="VBZ" headv="yes" group="B-VP">foliis</w> <w l="capillacei" pws="yes" id="w202" p="NNS" headn="yes" group="B-NP">capillaceis</w><w sb="true" pws="no" id="w213" p="." group="O">.</w></s> <s id="s8"><w pws="yes" id="w215" p="IN" group="B-PP">In</w> <w l="ali" pws="yes" id="w218" p="NN" headn="yes" group="B-NP">alis</w> <w l="foliorum" pws="yes" id="w223" p="NN" headn="yes" group="I-NP">foliorum</w> <w l="globulo" pws="yes" id="w232" p="VBZ" headv="yes" group="B-VP">globulos</w> <w pws="yes" id="w241" p="JJ" group="B-NP">fc</w><w l="/" pws="no" id="w243" p="NN" headn="yes" group="I-NP">/</w><w l="tiie" pws="no" id="w244" p="VBZ" headv="yes" group="B-VP">TiIes</w> 
+<w pws="yes" id="w251" p="JJ" group="B-NP">profert</w> <w l="granorum" pws="yes" id="w259" p="NN" headn="yes" group="I-NP">granorum</w> <w l="piperi" pws="yes" id="w268" p="NNP" headn="yes" group="I-NP">Piperis</w> <w l="magnitudine" pws="yes" id="w276" p="NN" headn="yes" group="I-NP">magnitudine</w> <w l="fere" pws="yes" id="w288" p="NN" headn="yes" group="I-NP">fere</w><w pws="no" id="w292" p=":" group="O">-</w><w pws="no" id="w293" p="," group="O">,</w> <w pws="yes" id="w295" p="JJ" group="B-NP">fcminibus</w> <w l="albi" pws="yes" id="w305" p="NNS" headn="yes" group="I-NP">albis</w> 
+<w l="refefto" pws="yes" id="w312" p="NNS" headn="yes" group="I-NP">refeftos</w><w sb="true" pws="no" id="w320" p="." group="O">.</w></s> <s id="s9"><w l="arabi" pws="yes" id="w322" p="NNP" headn="yes" group="B-NP">Arabis</w> <w l="hirsuta" pws="yes" id="w329" p="NNP" headn="yes" group="I-NP">hirsuta</w> <w l="bare" pws="yes" id="w337" p="NN" headn="yes" group="I-NP">bare</w> <w l="lane" pws="yes" id="w342" p="NN" headn="yes" group="I-NP">lane</w> <w l="sta" pws="yes" id="w347" p="NN" headn="yes" group="I-NP">sta</w></s></p>
+
+<p><s id="s10"><w l="§" pws="yes" id="w352" p="NN" headn="yes" group="B-NP">§</w><w sb="true" pws="no" id="w353" p="." group="O">.</w></s> <s id="s11"><w l="perflcarium" pws="yes" id="w355" p="NNP" headn="yes" group="B-NP">Perflcaria</w> <w l="filiquofa" pws="yes" id="w366" p="NNP" headn="yes" group="I-NP">filiquofa</w> <w locname="single" l="ger" pws="yes" id="w376" p="NNP" wfirstn="true" group="B-NP">Ger</w><w sb="true" pws="no" id="w379" p="." group="O">.</w></s> <s id="s12"><w locname="single" l="nolus" pws="yes" id="w381" p="NNP" group="B-NP">Noli</w> <w pws="yes" id="w386" p="PRP" group="B-NP">me</w> <w l="tangere" pws="yes" id="w389" p="VBD" headv="yes" group="B-VP">tangere</w> <w l="j." pws="yes" id="w397" p="NNP" group="B-NP">J.</w> <w l="b." pws="yes" id="w400" p="NNP" group="I-NP">B.</w> <w l="mercu" pws="yes" id="w403" p="NNP" group="I-NP">Mercu</w><w pws="no" id="w408" p=":" group="O">-</w> 
+<w l="riali" pws="yes" id="w411" p="VBZ" headv="yes" group="B-VP">rialis</w> <w l="fylveftri" pws="yes" id="w418" p="NNS" headn="yes" group="B-NP">fylveftris</w><w pws="no" id="w428" p="," group="O">,</w> <w locname="single" l="nolus" pws="yes" id="w430" p="NNP" group="B-NP">Noli</w> <w pws="yes" id="w435" p="PRP" group="B-NP">me</w> <w l="tangere" pws="yes" id="w438" p="VBD" headv="yes" group="B-VP">tangere</w> <w l="dus" pws="yes" id="w446" p="NNP" headn="yes" group="B-NP">di</w><w pws="no" id="w448" p="CC" group="O">&amp;</w><w pws="no" id="w449" p="DT" group="O">a</w><w pws="no" id="w450" p="," group="O">,</w> <w pws="yes" id="w452" p="CD" quty="5" group="B-NP">five</w> <w l="perficarium" pws="yes" id="w457" p="NNP" headn="yes" group="I-NP">Perficaria</w> <w l="filiquo" pws="yes" id="w468" p="NN" headn="yes" group="I-NP">filiquo</w><w pws="no" id="w475" p=":" group="O">-</w> 
+<w l="fa" pws="yes" id="w478" p="NNP" headn="yes" group="B-NP">fa</w> <w wlastn="true" common="true" l="park" pws="yes" id="w481" p="NNP" wfirstn="true" headn="yes" group="I-NP">Park</w><w pws="no" id="w485" p=":" group="O">;</w> <w l="balfamine" pws="yes" id="w487" p="NNP" headn="yes" group="B-NP">Balfamine</w> <w l="lutea" pws="yes" id="w497" p="NN" headn="yes" group="I-NP">lutea</w> <w pws="yes" id="w503" p="CD" quty="5" headn="yes" group="I-NP">five</w> <w locname="single" l="nolus" pws="yes" id="w508" p="NNP" group="B-NP">Noli</w> <w pws="yes" id="w513" p="PRP" group="B-NP">me</w> <w l="tangere" pws="yes" id="w516" p="VBD" headv="yes" group="B-VP">tangere</w> <w l="c." pws="yes" id="w524" p="NNP" headn="yes" group="B-NP">C.</w> <w l="b" pws="yes" id="w527" p="NNP" headn="yes" group="I-NP">B</w><w pws="no" id="w528" p="," group="O">,</w> <w l="quick" pws="yes" id="w530" p="NNP" headn="yes" group="B-NP">Quick</w> 
+<w pws="yes" id="w537" p="IN" group="B-PP">in</w> <w l="hand" pws="yes" id="w540" p="NN" tmln="true" headn="yes" group="B-NP">hand</w><w sb="true" pws="no" id="w544" p="." group="O">.</w></s> <s id="s13"><w vstem="touch" l="touch" pws="yes" id="w546" p="NNP" headn="yes" group="B-NP">Touch</w> <w pws="yes" id="w552" p="PRP" group="B-NP">me</w> <w pws="yes" id="w555" p="RB" group="B-ADVP">not</w><w sb="true" pws="no" id="w558" p="." group="O">.</w></s> <s id="s14"><w pws="yes" id="w560" p="PRP" group="B-NP">We</w> <w l="go" pws="yes" id="w563" p="VBD" headv="yes" group="B-VP">went</w> <w pws="yes" id="w568" p="TO" group="B-PP">to</w> <w locname="single" l="coniston" pws="yes" id="w571" p="NNP" group="B-NP">Coniston</w> <w pws="yes" id="w580" p="TO" group="B-VP">to</w> <w l="see" pws="yes" id="w583" p="VB" class="istate" headv="yes" group="I-VP">see</w> <w l="stuff" pws="yes" id="w587" p="NN" headn="yes" group="B-NP">stuff</w><w sb="true" pws="no" id="w592" p="." group="O">.</w></s> <s id="s15"><w l="obferve" pws="yes" id="w594" p="NNP" headn="yes" group="B-NP">obferveS</w><w sb="true" pws="no" id="w602" p="." group="O">.</w></s> <s id="s16"><w pws="yes" id="w604" p="PRP" group="B-NP">it</w> <w pws="yes" id="w607" p="IN" group="B-PP">on</w> <w pws="yes" id="w610" p="DT" group="B-NP">the</w> <w l="bankj" pws="yes" id="w614" p="NNP" headn="yes" group="I-NP">Bankj</w> <w pws="yes" id="w620" p="IN" group="B-PP">of</w> 
+<w l="winandermere" pws="yes" id="w624" p="NNP" headn="yes" group="B-NP">Winandermere</w> <w pws="yes" id="w637" p="IN" group="B-PP">near</w> <w l="amblefide" pws="yes" id="w642" p="NNP" headn="yes" group="B-NP">Amblefide</w><w sb="true" pws="no" id="w651" p="." group="O">.</w></s> <s id="s17"><w pws="yes" id="w653" p="IN" group="B-PP">By</w> <w pws="yes" id="w656" p="DT" group="O">the</w> <w pws="yes" id="w660" p="PRP" group="B-NP">s</w> <w pws="yes" id="w662" p="." group="O">.</w> <w l="carvifolium" pws="yes" id="w664" p="NN" headn="yes" group="B-NP">carvifolium</w> <w l="cloth-mill" pws="yes" id="w676" p="NN" headn="yes" group="I-NP">Cloth-Mill</w> <w pws="yes" id="w687" p="IN" group="B-PP">in</w> 
+<w l="sajterthwait" pws="yes" id="w691" p="NNP" headn="yes" group="B-NP">Sajterthwait</w> <w l="parifh" pws="yes" id="w704" p="NNP" headn="yes" group="I-NP">Parifh</w><w pws="no" id="w710" p="," group="O">,</w> <w l="lancafhire" pws="yes" id="w712" p="NNP" headn="yes" group="B-NP">Lancafhire</w><w pws="no" id="w722" p="," group="O">,</w> <w pws="yes" id="w724" p="CC" group="O">and</w> <w pws="yes" id="w728" p="IN" group="B-PP">in</w> <w pws="yes" id="w731" p="JJ" group="B-NP">many</w> <w l="fiace" pws="yes" id="w736" p="NNS" headn="yes" group="I-NP">fiaces</w> <w pws="yes" id="w743" p="IN" group="B-PP">of</w> <w l="weft" pws="yes" id="w746" p="NNP" headn="yes" group="B-NP">Weft</w><w pws="no" id="w750" p=":" group="O">-</w> 
+<w l="morland" pws="yes" id="w753" p="NN" headn="yes" group="B-NP">morland</w><w pws="no" id="w760" p="," group="O">,</w> <w l="mr." pws="yes" id="w762" p="NNP" group="B-NP">Mr.</w> <w l="lawfon" pws="yes" id="w766" p="NNP" group="I-NP">Lawfon</w><w sb="true" pws="no" id="w772" p="." group="O">.</w></s> <s id="s18"><w l="arabi" pws="yes" id="w774" p="NN" headn="yes" group="B-NP">arabis</w> <w l="hirsuta" pws="yes" id="w781" p="NNS" headn="yes" group="I-NP">hirsuta</w>  <w pws="yes" qut="s" id="w790" p="POS" group="I-NP">'</w><w l="grafmire" pws="no" id="w791" p="NNP" headn="yes" group="I-NP">Grafmire</w><w qut="s" pws="no" id="w799" p="POS" group="O">'</w><w pws="no" id="w800" p="," group="O">,</w></s></p>
+
+<p><s id="s19"><w l="§" pws="yes" id="w803" p="NN" headn="yes" group="B-NP">§</w><w sb="true" pws="no" id="w804" p="." group="O">.</w></s> <s id="s20"><w l="myofuro" pws="yes" id="w806" p="NNP" headn="yes" group="B-NP">Myofuros</w> <w l="j." pws="yes" id="w815" p="NNP" headn="yes" group="I-NP">J.</w> <w l="b" pws="yes" id="w818" p="NNP" headn="yes" group="I-NP">B</w><w sb="true" pws="no" id="w819" p="." group="O">.</w></s> <s id="s21"><w l="cauda" pws="yes" id="w821" p="NNP" headn="yes" group="B-NP">Cauda</w> <w l="muri" pws="yes" id="w827" p="VBZ" headv="yes" group="B-VP">muris</w> <w locname="single" l="ger" pws="yes" id="w833" p="NNP" wfirstn="true" group="B-NP">Ger</w><w sb="true" pws="no" id="w836" p="." group="O">.</w></s> <s id="s22"><w wlastn="true" locname="single" l="london" pws="yes" id="w838" p="NNP" wfirstn="true" group="B-NP">London</w> <w l="holoftco" pws="yes" id="w845" p="NNP" headn="yes" group="I-NP">Holoftco</w> <w l="afhni" pws="yes" id="w854" p="NNP" headn="yes" group="I-NP">afHnis</w> 
+<w l="cauda" pws="yes" id="w862" p="NNP" headn="yes" group="I-NP">Cauda</w> <w l="muri" pws="yes" id="w868" p="NNP" headn="yes" group="I-NP">muris</w> <w l="c." pws="yes" id="w874" p="NNP" group="B-NP">C.</w> <w l="b." pws="yes" id="w877" p="NNP" group="I-NP">B.</w> <w l="holofteum" pws="yes" id="w880" p="NNP" group="I-NP">Holofteum</w> <w l="m" pws="yes" id="w890" p="NNP" headn="yes" group="I-NP">M</w> <w pws="yes" id="w892" p="." group="O">.</w> <w l="handroana" pws="yes" id="w894" p="NNP" headn="yes" group="B-NP">handroana</w> <w l="lonicerus" pws="yes" id="w904" p="NNP" headn="yes" group="I-NP">Loniceri</w><w pws="no" id="w912" p="," group="O">,</w> <w l="cauda" pws="yes" id="w914" p="NNP" headn="yes" group="B-NP">Cauda</w> <w l="muri" pws="yes" id="w920" p="VBZ" headv="yes" group="B-VP">muris</w> <w pws="yes" id="w926" p="SYM" group="O">voca</w><w pws="no" id="w930" p=":" group="O">-</w> 
+<w l="tum" pws="yes" id="w933" p="NN" headn="yes" group="B-NP">tum</w> <w wlastn="true" common="true" l="park" pws="yes" id="w937" p="NNP" wfirstn="true" headn="yes" group="B-NP">Park</w><w l="»" pws="no" id="w941" p="NNP" headn="yes" group="I-NP">»</w> <w l="moufe-tail" pws="yes" id="w943" p="NNP" headn="yes" group="I-NP">Moufe-tail</w><w sb="true" pws="no" id="w953" p="." group="O">.</w></s> <s id="s23"><w pws="yes" id="w955" p="IN" group="B-PP">In</w> <w l="arvi" pws="yes" id="w958" p="NN" headn="yes" group="B-NP">arvis</w><w pws="no" id="w963" p="," headn="yes" group="I-NP">,</w> <w l="horti" pws="yes" id="w965" p="NN" headn="yes" group="I-NP">hortis</w><w pws="no" id="w971" p="," headn="yes" group="I-NP">,</w> <w l="ad" pws="yes" id="w973" p="NN" headn="yes" group="I-NP">ad</w> <w l="via" pws="yes" id="w976" p="NNS" headn="yes" group="I-NP">vias</w> <w pws="yes" id="w981" p="CC" headn="yes" group="I-NP">&amp;</w> <w l="inter" pws="yes" id="w983" p="NN" headn="yes" group="I-NP">inter</w> <w l="fe" pws="yes" id="w989" p="NN" headn="yes" group="I-NP">fe</w><w pws="no" id="w991" p=":" group="O">-</w> 
+<w l="gete" pws="yes" id="w994" p="NNS" headn="yes" group="B-NP">getes</w> <w l="feed" pws="yes" id="w1000" p="VBN" headv="yes" group="B-NP">fed</w> <w l="rarius" pws="yes" id="w1004" p="NN" headn="yes" group="I-NP">rarius</w><w sb="true" pws="no" id="w1010" p="." group="O">.</w></s></p> 
+
+<p><s id="s24"><w l="flofculus" pws="yes" id="w1014" p="NNP" headn="yes" group="B-NP">Flofculi</w> <w l="herbaceus" pws="yes" id="w1023" p="NNP" headn="yes" group="I-NP">herbacei</w> <w l="pentapetalus" pws="yes" id="w1032" p="NNS" headn="yes" group="I-NP">pentapetali</w><w sb="true" pws="no" id="w1043" p="." group="O">.</w></s> <s id="s25"><w l="sison" pws="yes" id="w1045" p="NN" headn="yes" group="B-NP">sison</w> <w l="flexuosum" pws="yes" id="w1051" p="NN" headn="yes" group="I-NP">flexuosum</w> <w locname="single" l="semina" pws="yes" id="w1061" p="NNP" group="B-NP">Semina</w> <w pws="yes" id="w1068" p="IN" group="B-PP">in</w> <w l="fpicam" pws="yes" id="w1071" p="NN" headn="yes" group="B-NP">fpicam</w> <w l="oblongam" pws="yes" id="w1078" p="NN" headn="yes" group="I-NP">oblongam</w> 
+<w l="cauda" pws="yes" id="w1088" p="NN" headn="yes" group="I-NP">cauda</w><w sb="true" pws="no" id="w1093" p="." group="O">?</w></s> <s id="s26"><w l="muri" pws="yes" id="w1095" p="NNS" headn="yes" group="B-NP">muris</w> <w l="aemulam" pws="yes" id="w1101" p="VBP" headv="yes" group="B-VP">aemulam</w> <w l="excurrunt" pws="yes" id="w1109" p="NN" headn="yes" group="B-NP">excurrunt</w><w sb="true" pws="no" id="w1118" p="." group="O">.</w></s> <s id="s27"><w locname="single" l="briza" pws="yes" id="w1120" p="NNP" headn="yes" group="B-NP">Briza</w> <w l="media" pws="yes" id="w1126" p="NNS" headn="yes" group="I-NP">media</w></s></p>
+
+<p><s id="s28"><w l="§" pws="yes" id="w1133" p="NN" headn="yes" group="B-NP">§</w><w sb="true" pws="no" id="w1134" p="." group="O">.</w></s> <s id="s29"><w l="polygalum" pws="yes" id="w1136" p="NNP" headn="yes" group="B-NP">Polygala</w> <w locname="single" l="ger" pws="yes" id="w1145" p="NNP" wfirstn="true" headn="yes" group="I-NP">Ger</w><w sb="true" pws="no" id="w1148" p="." group="O">.</w></s> <s id="s30"><w pws="yes" id="w1150" p="JJ" group="B-NP">minor</w> <w wlastn="true" common="true" l="park" pws="yes" id="w1156" p="NNP" wfirstn="true" headn="yes" group="I-NP">Park</w><w pws="no" id="w1160" p=":" group="O">-</w> <w l="vulgari" pws="yes" id="w1162" p="VBZ" headv="yes" group="B-VP">vulgaris</w> <w l="c." pws="yes" id="w1171" p="NNP" group="B-NP">C.</w> <w l="b." pws="yes" id="w1174" p="NNP" group="I-NP">B.</w> <w l="polygalcn" pws="yes" id="w1177" p="NNP" group="I-NP">Polygalcn</w> 
+<w l="multi" pws="yes" id="w1188" p="NNP" headn="yes" group="I-NP">multis</w> <w l="j." pws="yes" id="w1195" p="NNP" headn="yes" group="I-NP">J.</w> <w l="b." pws="yes" id="w1198" p="NNP" headn="yes" group="I-NP">B.</w> <w common="true" l="milk" pws="yes" id="w1201" p="NNP" headn="yes" group="I-NP">Milk</w><w l="^" pws="no" id="w1205" p="NNP" headn="yes" group="I-NP">^</w><w l="wort" pws="no" id="w1206" p="NN" headn="yes" group="I-NP">wort</w><w sb="true" pws="no" id="w1210" p="." group="O">.</w></s> <s id="s31"><w pws="yes" id="w1212" p="IN" group="B-PP">In</w> <w locname="single" l="coniston" pws="yes" id="w1215" p="NNP" group="B-NP">Coniston</w> <w pws="yes" id="w1224" p="PRP" group="B-NP">we</w> <w l="see" pws="yes" id="w1227" p="VBD" class="istate" headv="yes" group="B-VP">saw</w> <w l="wallenia" pws="yes" id="w1231" p="NNP" headn="yes" group="B-NP">Wallenia</w> <w l="gracili" pws="yes" id="w1240" p="NNP" headn="yes" group="I-NP">gracilis</w> <w l="stuff" pws="yes" id="w1249" p="NN" headn="yes" group="I-NP">stuff</w><w sb="true" pws="no" id="w1254" p="." group="O">.</w></s> <s id="s32"><w l="pafcui" pws="yes" id="w1256" p="NNS" headn="yes" group="B-NP">pafcuis</w><w pws="no" id="w1263" p="," group="O">,</w> <w l="ficcioribus" pws="yes" id="w1265" p="VBZ" headv="yes" group="B-VP">ficcioribus</w> <w l="praefertim" pws="yes" id="w1277" p="NNP" headn="yes" group="B-NP">praefertim</w> 
+<w pws="yes" id="w1289" p="CC" headn="yes" group="I-NP">&amp;</w> <w l="montofi" pws="yes" id="w1291" p="NNP" headn="yes" group="I-NP">montofis</w><w pws="no" id="w1299" p="," group="O">,</w> <w l="ubique" pws="yes" id="w1301" p="NN" headn="yes" group="B-NP">ubique</w><w sb="true" pws="no" id="w1307" p="." group="O">.</w></s> 
+<s id="s33"><w l="pulsatillum" pws="yes" id="w1310" p="NNP" headn="yes" group="B-NP">Pulsatilla</w> <w l="nemorosa" pws="yes" id="w1321" p="NNP" headn="yes" group="I-NP">nemorosa</w> <w l="plantago" pws="yes" id="w1330" p="NNP" headn="yes" group="I-NP">Plantago</w> <w l="lanceola" pws="yes" id="w1339" p="NN" headn="yes" group="I-NP">lanceolata</w> <w l="dogber" pws="yes" id="w1350" p="NN" headn="yes" group="I-NP">dogber</w> <w l="tarn" pws="yes" id="w1357" p="NN" headn="yes" group="I-NP">tarn</w></s></p> 
+
+<p><s id="s34"><w l="vafculum" pws="yes" id="w1364" p="NNP" headn="yes" group="B-NP">Vafcula</w> <w l="feminalium" pws="yes" id="w1372" p="NNP" headn="yes" group="I-NP">feminalia</w> <w l="thlafpeo" pws="yes" id="w1382" p="NNP" headn="yes" group="I-NP">Thlafpeos</w><w pws="no" id="w1391" p="," group="O">,</w> <w l="compreflum" pws="yes" id="w1393" p="NN" headn="yes" group="B-NP">comprefla</w><w pws="no" id="w1402" p="," group="O">,</w> <w l="didyma" pws="yes" id="w1404" p="NN" headn="yes" group="B-NP">didyma</w><w pws="no" id="w1410" p="," group="O">,</w> <w l="bina" pws="yes" id="w1412" p="NN" headn="yes" group="B-NP">bina</w> <w pws="yes" id="w1417" p="IN" group="B-PP">in</w><w pws="no" id="w1419" p=":" group="O">-</w> 
+<w l="tus" pws="yes" id="w1422" p="NN" headn="yes" group="B-NP">tus</w> <w l="femina" pws="yes" id="w1426" p="NN" headn="yes" group="I-NP">femina</w> <w l="claudentium" pws="yes" id="w1433" p="NN" headn="yes" group="I-NP">claudentia</w> <w pws="yes" id="w1444" p=":" group="O">:</w> <w common="true" vstem="hang" l="hanging" pws="yes" id="w1446" p="NNP" group="B-NP">Hanging</w> <w common="true" l="stone" pws="yes" id="w1454" p="NNP" group="I-NP">Stone</w> <w l="flore" pws="yes" id="w1460" p="VBZ" headv="yes" group="B-VP">flores</w> <w pws="yes" id="w1467" p="IN" group="B-PP">in</w> <w l="fpici" pws="yes" id="w1470" p="NNP" headn="yes" group="B-NP">fpicis</w> <w l="labiatus" pws="yes" id="w1477" p="NNP" headn="yes" group="I-NP">labiati</w> <w pws="yes" id="w1485" p="CC" headn="yes" group="I-NP">&amp;</w> <w l="quodammodo" pws="yes" id="w1487" p="NNP" headn="yes" group="I-NP">quodammodo</w> 
+<w l="galeatus" pws="yes" id="w1499" p="NNS" headn="yes" group="I-NP">galeati</w><w sb="true" pws="no" id="w1506" p="." group="O">.</w></s></p> 
+
+<p><s id="s35"><w l="fiorum" pws="yes" id="w1510" p="NNP" headn="yes" group="B-NP">Fiorum</w> <w l="alac" pws="yes" id="w1517" p="NNP" headn="yes" group="I-NP">alac</w> <w l="non" pws="yes" id="w1522" p="NN" headn="yes" group="I-NP">non</w> <w l="defluunt" pws="yes" id="w1526" p="NN" headn="yes" group="I-NP">defluunt</w><w pws="no" id="w1534" p="," group="O">,</w> <w l="feed" pws="yes" id="w1536" p="VBN" headv="yes" group="B-VP">fed</w> <w l="paulatim" pws="yes" id="w1540" p="NN" headn="yes" group="B-NP">paulatim</w> <w l="audse" pws="yes" id="w1549" p="NN" headn="yes" group="I-NP">audse</w> <w pws="yes" id="w1555" p="IN" group="B-PP">in</w> <w l="colo" pws="yes" id="w1558" p="NN" headn="yes" group="B-NP">colo</w><w pws="no" id="w1562" p=":" group="O">-</w> 
+<w l="rem" pws="yes" id="w1565" p="NN" headn="yes" group="B-NP">rem</w> <w l="viridem" pws="yes" id="w1569" p="NN" headn="yes" group="I-NP">viridem</w> <w l="degenerant" pws="yes" id="w1577" p="NN" headn="yes" group="I-NP">degenerant</w><w pws="no" id="w1587" p="," headn="yes" group="I-NP">,</w> <w pws="yes" id="w1589" p="CC" headn="yes" group="I-NP">&amp;</w> <w l="vafculum" pws="yes" id="w1591" p="NNP" headn="yes" group="I-NP">vafculum</w> <w pws="yes" id="w1600" p="JJ" group="B-NP">feminale</w> <w l="utrinque" pws="yes" id="w1609" p="NN" headn="yes" group="I-NP">utrinque</w> <w l="ob" pws="yes" id="w1618" p="NN" headn="yes" group="I-NP">ob</w><w pws="no" id="w1620" p=":" group="O">-</w> 
+<w l="tegunt" pws="yes" id="w1623" p="NN" headn="yes" group="B-NP">tegunt</w><w sb="true" pws="no" id="w1629" p="." group="O">.</w></s> 
+<s id="s36"><w pws="yes" qut="s" id="w1632" p="POS" group="O">'</w> <w wlastn="true" locname="single" common="true" l="flore" pws="yes" id="w1634" p="NNS" headn="yes" group="B-NP">Flores</w> <w pws="yes" id="w1641" p="JJ" group="B-NP">plerumque</w> <w l="caeruleus" pws="yes" id="w1651" p="NN" headn="yes" group="I-NP">caerulei</w><w pws="no" id="w1659" p="," group="O">,</w> <w l="interdum" pws="yes" id="w1661" p="NN" headn="yes" group="B-NP">interdum</w> <w l="albus" pws="yes" id="w1670" p="NNS" headn="yes" group="I-NP">albi</w><w pws="no" id="w1674" p="," group="O">,</w> <w l="carneus" pws="yes" id="w1676" p="NN" headn="yes" group="B-NP">carnei</w> <w l="aut" pws="yes" id="w1683" p="NN" headn="yes" group="I-NP">aut</w> <w l="varius" pws="yes" id="w1687" p="NN" headn="yes" group="I-NP">varii</w><w sb="true" pws="no" id="w1692" p="." group="O">.</w></s></p> 
+
+<p><s id="s37"><w l="§" pws="yes" id="w1696" p="NN" headn="yes" group="B-NP">§</w><w sb="true" pws="no" id="w1697" p="." group="O">.</w></s> <s id="s38"><w l="cufcuta" pws="yes" id="w1699" p="NNP" group="B-NP">Cufcuta</w> <w l="maj" pws="yes" id="w1707" p="NNP" headn="yes" group="I-NP">maj</w><w sb="true" pws="no" id="w1710" p="." group="O">.</w></s> <s id="s39"><w l="c." pws="yes" id="w1712" p="NNP" group="B-NP">C.</w> <w l="b." pws="yes" id="w1715" p="NNP" group="I-NP">B.</w> <w l="cufcuta" pws="yes" id="w1718" p="NNP" group="I-NP">Cufcuta</w> <w pws="yes" id="w1726" p="CD" quty="5" group="B-NP">five</w> <w l="caftutha" pws="yes" id="w1731" p="NNP" headn="yes" group="I-NP">CafTutha</w> <w locname="single" l="ger" pws="yes" id="w1740" p="NNP" wfirstn="true" headn="yes" group="I-NP">Ger</w><w sb="true" pws="no" id="w1743" p="." group="O">.</w></s> <s id="s40"><w l="pa" pws="yes" id="w1745" p="NNP" wfirstn="true" headn="yes" group="B-NP">Pa</w><w pws="no" id="w1747" p=")" group="O">)</w><w l="%" pws="no" id="w1748" p="NN" headn="yes" group="B-NP">%</w> 
+<w l="j.b." pws="yes" id="w1751" p="NNP" headn="yes" group="B-NP">J.B.</w> <w l="dodder." pws="yes" id="w1756" p="NNP" headn="yes" group="I-NP">Dodder.</w> <w pws="yes" id="w1764" p="IN" group="B-PP">In</w> <w l="ericeti" pws="yes" id="w1767" p="NNP" headn="yes" group="B-NP">Ericetis</w> <w pws="yes" id="w1776" p="CC" headn="yes" group="I-NP">&amp;</w> <w l="inter" pws="yes" id="w1778" p="NNP" headn="yes" group="I-NP">inter</w> <w l="legumina" pws="yes" id="w1784" p="NN" headn="yes" group="I-NP">legumina</w><w sb="true" pws="no" id="w1792" p="." group="O">.</w></s> <s id="s41"><w l="longiftimi" pws="yes" id="w1794" p="NNP" headn="yes" group="B-NP">LongifTimis</w> <w pws="yes" id="w1806" p="SYM" group="O">fi</w><w pws="no" id="w1808" p=":" group="O">-</w> 
+<w l="lamenti" pws="yes" id="w1811" p="VBZ" headv="yes" group="B-VP">lamentis</w> <w l="conftat" pws="yes" id="w1820" p="NN" headn="yes" group="B-NP">conftat</w><w pws="no" id="w1827" p="," group="O">,</w> <w l="poftquam" pws="yes" id="w1829" p="NN" headn="yes" group="B-NP">poftquam</w> <w l="fuccreverit" pws="yes" id="w1838" p="NN" headn="yes" group="I-NP">fuccreverit</w> <w l="lilium-convallium" pws="yes" id="w1850" p="NN" headn="yes" group="I-NP">lilium-convallium</w> <w l="majale" pws="yes" id="w1868" p="NN" headn="yes" group="I-NP">majale</w> <w l="radice" pws="yes" id="w1875" p="NN" headn="yes" group="I-NP">radice</w><w pws="no" id="w1881" p="," group="O">,</w> <w l="contigui" pws="yes" id="w1883" p="VBZ" headv="yes" group="B-VP">contiguis</w> <w l="plan" pws="yes" id="w1893" p="NN" tmln="true" class="istate" headn="yes" group="B-NP">plan</w><w pws="no" id="w1897" p=":" group="O">-</w> 
+<w l="ti" pws="yes" id="w1900" p="VBZ" headv="yes" group="B-VP">tis</w> <w pws="yes" id="w1904" p="JJ" group="B-NP">fefe</w> <w l="circumvolven" pws="yes" id="w1909" p="NNS" headn="yes" group="I-NP">circumvolvens</w><w pws="no" id="w1922" p="," group="O">,</w> <w l="alimentum" pws="yes" id="w1924" p="NN" headn="yes" group="B-NP">alimentum</w> <w l="inde" pws="yes" id="w1934" p="NN" headn="yes" group="I-NP">inde</w> <w l="exugen" pws="yes" id="w1939" p="VBZ" headv="yes" group="B-VP">exugens</w> <w pws="yes" id="w1947" p=":" group="O">;</w> <w l="unde" pws="yes" id="w1949" p="NN" headn="yes" group="B-NP">unde</w> <w locname="single" l="heil" pws="yes" id="w1954" p="NNP" group="B-NP">Heil</w><w pws="no" id="w1958" p=":" group="O">-</w> 
+<w l="weed" pws="yes" id="w1961" p="VBD" headv="yes" group="B-VP">Weed</w> <w pws="yes" id="w1966" p="JJ" group="B-ADJP">al</w><w sb="true" pws="no" id="w1968" p="." group="O">.</w></s> <s id="s42"><w pws="yes" id="w1970" p="JJ" group="B-NP">Devil-guts</w> <w l="audit" pws="yes" id="w1981" p="NN" headn="yes" group="I-NP">audit</w><w sb="true" pws="no" id="w1986" p="." group="O">.</w></s> <s id="s43"><w wlastn="true" locname="single" common="true" l="flore" pws="yes" id="w1988" p="NNS" headn="yes" group="B-NP">Flores</w> <w pws="yes" id="w1995" p="JJ" group="B-NP">monopetali</w> <w l="funt" pws="yes" id="w2006" p="NN" headn="yes" group="I-NP">funt</w> <w pws="yes" id="w2011" p="IN" group="B-PP">in</w> <w l="qua" pws="yes" id="w2014" p="NN" headn="yes" group="B-NP">qua</w><w pws="no" id="w2017" p=":" group="O">-</w> 
+<w l="tuor" pws="yes" id="w2020" p="NN" headn="yes" group="B-NP">tuor</w> <w pws="yes" id="w2025" p="(" group="O">(</w><w pws="no" id="w2026" p="JJ" group="B-NP">rarius</w> <w l="quinque" pws="yes" id="w2033" p="NN" headn="yes" group="I-NP">quinque</w><w pws="no" id="w2040" p=")" group="O">)</w> <w l="fegmenta" pws="yes" id="w2042" p="NN" headn="yes" group="B-NP">fegmenta</w> <w l="brevium" pws="yes" id="w2051" p="NN" headn="yes" group="I-NP">brevia</w> <w l="acuta" pws="yes" id="w2058" p="NN" headn="yes" group="I-NP">acuta</w> <w l="divifus" pws="yes" id="w2064" p="NN" headn="yes" group="I-NP">divifi</w><w pws="no" id="w2070" p="," group="O">,</w> <w l="colore" pws="yes" id="w2072" p="NN" headn="yes" group="B-NP">colore</w> <w l="albo" pws="yes" id="w2079" p="NN" headn="yes" group="I-NP">albo</w><w pws="no" id="w2083" p="," group="O">,</w> 
+<w l="calyce" pws="yes" id="w2086" p="NN" headn="yes" group="B-NP">calyce</w> <w l="viridus" pws="yes" id="w2093" p="NN" headn="yes" group="I-NP">viridi</w> <w l="fucculento" pws="yes" id="w2100" p="NN" headn="yes" group="I-NP">fucculento</w> <w pws="yes" id="w2111" p="IN" group="B-PP">in</w> <w locname="single" l="duddon" pws="yes" id="w2114" p="NNP" group="B-NP">Duddon</w> <w l="quatuor" pws="yes" id="w2121" p="NNP" headn="yes" group="I-NP">quatuor</w> <w l="pariter" pws="yes" id="w2129" p="NN" headn="yes" group="I-NP">pariter</w> <w l="fegmenta" pws="yes" id="w2137" p="NN" headn="yes" group="I-NP">fegmenta</w> <w l="divifo" pws="yes" id="w2146" p="NN" headn="yes" group="I-NP">divifo</w> 
+<w l="exceptus" pws="yes" id="w2154" p="NNS" headn="yes" group="I-NP">excepti</w> <w pws="yes" id="w2162" p=":" group="O">;</w> <w l="quibus" pws="yes" id="w2164" p="VBZ" headv="yes" group="B-VP">quibus</w> <w pws="yes" id="w2171" p="JJ" group="B-NP">fuccedunt</w> <w l="vafculum" pws="yes" id="w2181" p="NN" headn="yes" group="I-NP">vafcula</w> <w l="feminalium" pws="yes" id="w2189" p="NN" headn="yes" group="I-NP">feminalia</w> <w l="rotunda" pws="yes" id="w2199" p="NN" headn="yes" group="I-NP">rotunda</w> <w l="fingulum" pws="yes" id="w2207" p="NN" headn="yes" group="I-NP">fingula</w> 
+<w l="quatuor" pws="yes" id="w2216" p="NN" headn="yes" group="I-NP">quatuor</w> <w l="femina" pws="yes" id="w2224" p="NN" headn="yes" group="I-NP">femina</w> <w l="oblongo-rotunda" pws="yes" id="w2231" p="NN" headn="yes" group="I-NP">oblongo-rotunda</w> <w l="continentium" pws="yes" id="w2247" p="NN" headn="yes" group="I-NP">continentia</w><w sb="true" pws="no" id="w2258" p="." group="O">.</w></s> <s id="s44"><w l="v." pws="yes" id="w2260" p="NNP" group="B-NP">V.</w> <w l="hiitor" pws="yes" id="w2263" p="NNP" group="I-NP">Hiitor</w><w sb="true" pws="no" id="w2269" p="." group="O">.</w></s> 
+<s id="s45"><w l="noftr" pws="yes" id="w2272" p="NN" headn="yes" group="B-NP">noftr</w><w sb="true" pws="no" id="w2277" p="." group="O">.</w></s> <s id="s46"><w l="p" pws="yes" id="w2279" p="NN" headn="yes" group="B-NP">p</w><w sb="true" pws="no" id="w2280" p="." group="O">.</w></s> <s id="s47"><w pws="yes" id="w2282" p="CD" quty="1904" group="B-NP">1904</w><w sb="true" pws="no" id="w2286" p="." group="O">.</w></s> <s id="s48"><w l="p" pws="yes" id="w2288" p="NNP" group="B-NP">P</w> <w locname="single" l="gramus" pws="yes" id="w2290" p="NNP" group="I-NP">Grami</w><w pws="no" id="w2295" p=":" group="O">-</w>
+<w l="anemone" pws="yes" id="w2297" p="NNP" headn="yes" group="B-NP">Anemone</w> <w l="pentaphyllum" pws="yes" id="w2305" p="NN" headn="yes" group="I-NP">pentaphylla</w>
+<w l="&lt;" pws="yes" id="w2317" p="NNP" headn="yes" group="B-NP">&lt;</w><w wlastn="true" common="true" l="baker" pws="no" id="w2318" p="NNP" headn="yes" group="I-NP">Baker</w><w l="_" pws="no" id="w2323" p="NNP" headn="yes" group="I-NP">_</w><w common="true" l="flora" pws="no" id="w2324" p="NNP" pername="true" wfirstn="true" headn="yes" group="I-NP">Flora</w><w l="_" pws="no" id="w2329" p="VBD" headv="yes" group="B-VP">_</w><w pws="no" id="w2330" p="CD" quty="64" group="B-NP">64</w><w l=">" pws="no" id="w2332" p="NNS" headn="yes" group="I-NP">&gt;</w></s></p>
+
+<p><s id="s49"><w pws="yes" id="w2335" p="CD" quty="64" group="B-NP">64</w> <w common="true" l="flora" pws="yes" id="w2338" p="NNP" group="I-NP">FLORA</w> <w pws="yes" id="w2344" p="IN" group="I-NP">OF</w> <w pws="yes" id="w2347" p="DT" group="I-NP">THE</w> <w common="true" l="lake" pws="yes" id="w2351" p="NN" group="I-NP">LAKE</w> <w common="true" l="district" pws="yes" id="w2356" p="NN" group="I-NP">DISTRICT</w><w sb="true" pws="no" id="w2364" p="." group="O">.</w></s></p> 
+
+<p><s id="s50"><w l="order" pws="yes" id="w2368" p="NNP" tmln="true" headn="yes" group="B-NP">ORDER</w> <w l="balsaminaceye" pws="yes" id="w2374" p="NNP" headn="yes" group="I-NP">BALSAMINACEyE</w><w sb="true" pws="no" id="w2387" p="." group="O">.</w></s></p> 
+
+<p><s id="s51"><w pws="yes" id="w2391" p="CD" quty="242" headn="yes" group="B-NP">242</w><w sb="true" pws="no" id="w2394" p="." group="O">.</w></s> <s id="s52"><w l="linpatien" pws="yes" id="w2396" p="VBZ" headv="yes" group="B-VP">linpatiens</w> <w pws="yes" id="w2407" p="DT" group="B-NP">No</w><w l="/" pws="no" id="w2409" p="NN" headn="yes" group="I-NP">/</w><w l="i-me-tangere" pws="no" id="w2410" p="NN" headn="yes" group="I-NP">i-me-tangere</w><w pws="no" id="w2422" p="," group="O">,</w> <w l="l." pws="yes" id="w2424" p="NNP" group="B-NP">L.</w> <w wlastn="true" locname="single" l="london" pws="yes" id="w2427" p="NNP" wfirstn="true" group="I-NP">London</w> <w pws="yes" id="w2434" p="(" group="O">(</w><w state="true" common="true" l="wild" pws="no" id="w2435" p="NNP" wfirstn="true" headn="yes" group="B-NP">Wild</w> <w common="true" l="balsam" pws="yes" id="w2440" p="NNP" headn="yes" group="I-NP">Balsam</w><w pws="no" id="w2446" p="," headn="yes" group="I-NP">,</w> <w pws="yes" id="w2448" p="CC" headn="yes" group="I-NP">or</w> 
+<w l="touch-me-not" pws="yes" id="w2452" p="NN" headn="yes" group="I-NP">Touch-me-not</w> <w pws="yes" id="w2465" p=":" group="O">;</w> <w pws="yes" id="w2467" p="JJ" group="B-NP">local</w> <w l="name" pws="yes" id="w2473" p="NN" headn="yes" group="I-NP">name</w><w pws="no" id="w2477" p="," group="O">,</w> <w pws="yes" qut="s" id="w2479" p="''" group="O">'</w> <w common="true" l="old" pws="yes" id="w2481" p="NNP" headn="yes" group="B-NP">Old</w> <w common="true" l="woman" pws="yes" id="w2485" p="NNP" headn="yes" group="I-NP">Woman</w><w pws="no" id="w2490" p="POS" group="I-NP">'s</w> <w common="true" l="purse" pws="yes" id="w2493" p="NNP" headn="yes" group="I-NP">Purse</w> <w pws="yes" qut="s" id="w2499" p="POS" group="O">'</w><w pws="no" id="w2500" p=")" group="O">)</w><w sb="true" pws="no" id="w2501" p="." group="O">.</w></s> <s id="s53"><w locname="single" l="denus" pws="yes" id="w2503" p="NNP" group="B-NP">Deni</w><w pws="no" id="w2507" p=":" group="O">-</w> 
+<w l="zen" pws="yes" id="w2510" p="NN" headn="yes" group="B-NP">zen</w><w sb="true" pws="no" id="w2513" p="." group="O">.</w></s> <s id="s54"><w common="true" pws="yes" id="w2515" p="JJ" group="B-NP">Local</w> <w l="type" pws="yes" id="w2521" p="NN" headn="yes" group="I-NP">type</w><w sb="true" pws="no" id="w2525" p="." group="O">.</w></s> <s id="s55"><w common="true" l="range" pws="yes" id="w2527" p="NNP" headn="yes" group="B-NP">Range</w> <w l="i" pws="yes" id="w2533" p="NNP" headn="yes" group="I-NP">i</w><w sb="true" pws="no" id="w2534" p="." group="O">.</w></s> 
+<s id="s56"><w l="c." pws="yes" id="w2537" p="NNP" headn="yes" group="B-NP">C.</w> <w common="true" l="scale" pws="yes" id="w2540" p="NNP" group="B-NP">Scale</w> <w common="true" l="hill" pws="yes" id="w2546" p="NNP" group="I-NP">Hill</w><w pws="no" id="w2550" p="," group="O">,</w> <w pws="yes" id="w2552" p="IN" group="B-PP">over</w> <w l="crummock" pws="yes" id="w2557" p="NNP" group="B-NP">Crummock</w><w sb="true" pws="no" id="w2565" p="." group="O">.</w></s> <s id="s57"><w l="—" pws="yes" id="w2567" p="NNP" headn="yes" group="B-NP">—</w> <w pws="yes" id="w2569" p="(" group="O">(</w><w wlastn="true" common="true" l="wood" pws="no" id="w2570" p="NNP" headn="yes" group="B-NP">Woods</w><w pws="no" id="w2575" p="." group="O">.</w><w pws="no" id="w2576" p=")" group="O">)</w> <w pws="yes" id="w2578" p="DT" group="B-NP">A</w> <w pws="yes" id="w2580" p="JJ" group="I-NP">little</w> <w pws="yes" id="w2587" p="NN" headn="yes" prevtag="JJ" group="I-NP">east</w> <w pws="yes" id="w2592" p="IN" group="B-PP">of</w> 
+<w locname="single" l="keswick" pws="yes" id="w2596" p="NNP" group="B-NP">Keswick</w> <w pws="yes" id="w2604" p="IN" group="B-PP">along</w> <w pws="yes" id="w2610" p="DT" group="B-NP">the</w> <w locname="single" l="penrith" pws="yes" id="w2614" p="NNP" group="I-NP">Penrith</w> <w l="road" pws="yes" id="w2622" p="NN" headn="yes" group="I-NP">road</w><w pws="no" id="w2626" p="," group="O">,</w> <w pws="yes" id="w2628" p="IN" group="B-PP">near</w> <w pws="yes" id="w2633" p="DT" group="B-NP">the</w> <w l="stream" pws="yes" id="w2637" p="NN" headn="yes" group="I-NP">stream</w> <w pws="yes" id="w2644" p="WDT" group="B-NP">that</w> <w l="run" pws="yes" id="w2649" p="VBZ" headv="yes" group="B-VP">runs</w> 
+<w pws="yes" id="w2655" p="IN" group="B-PP">past</w> <w pws="yes" id="w2660" p="DT" group="B-NP">a</w> <w l="garden" pws="yes" id="w2662" p="NN" headn="yes" group="I-NP">garden</w> <w pws="yes" id="w2669" p="RBR" group="B-NP">higher</w> <w pws="yes" id="w2676" p="JJ" group="I-NP">up.</w><w l="—" pws="no" id="w2679" p="NN" headn="yes" group="I-NP">—</w> <w pws="yes" id="w2681" p="(" group="O">(</w><w l="b" pws="no" id="w2682" p="NNP" headn="yes" group="B-NP">B</w><w pws="no" id="w2683" p="." group="O">.</w><w pws="no" id="w2684" p=")" group="O">)</w> <w l="duddon" pws="yes" id="w2686" p="NNP" group="B-NP">Duddon</w> <w common="true" l="bridge" pws="yes" id="w2693" p="NNP" group="I-NP">Bridge</w><w sb="true" pws="no" id="w2699" p="." group="O">.</w></s> <s id="s58"><w l="—" pws="yes" id="w2701" p="NNP" headn="yes" group="B-NP">—</w> <w pws="yes" id="w2703" p="(" group="O">(</w><w l="j." pws="no" id="w2704" p="NNP" group="B-NP">J.</w> <w wlastn="true" locname="single" l="robson" pws="yes" id="w2707" p="NNP" wfirstn="true" group="I-NP">Robson</w><w pws="no" id="w2713" p="." group="O">.</w><w pws="no" id="w2714" p=")" group="O">)</w> 
+<w l="w." pws="yes" id="w2717" p="NNP" headn="yes" group="B-NP">W.</w> <w wlastn="true" common="true" l="bank" pws="yes" id="w2720" p="NNS" headn="yes" group="I-NP">Banks</w> <w pws="yes" id="w2726" p="IN" group="B-PP">of</w> <w pws="yes" id="w2729" p="DT" group="B-NP">the</w> <w l="stream" pws="yes" id="w2733" p="NNS" headn="yes" group="I-NP">streams</w> <w pws="yes" id="w2741" p="IN" group="B-PP">about</w> <w locname="single" l="rydal" pws="yes" id="w2747" p="NNP" group="B-NP">Rydal</w> <w pws="yes" id="w2753" p="CC" group="O">and</w> <w locname="single" l="ambleside" pws="yes" id="w2757" p="NNP" group="B-NP">Ambleside</w><w pws="no" id="w2766" p="," group="O">,</w> <w pws="yes" id="w2768" p="IN" group="B-PP">in</w> 
+<w pws="yes" id="w2772" p="JJ" group="B-NP">several</w> <w l="place" pws="yes" id="w2780" p="NNS" tmln="true" headn="yes" group="I-NP">places</w><w pws="no" id="w2786" p="," group="O">,</w> <w pws="yes" id="w2788" p="RB" group="B-ADVP">especially</w> <w pws="yes" id="w2799" p="IN" group="B-PP">in</w> <w locname="single" l="scandale" pws="yes" id="w2802" p="NNP" group="B-NP">Scandale</w> <w pws="yes" id="w2811" p="CC" group="O">and</w> <w common="true" l="stock" pws="yes" id="w2815" p="NNP" group="B-NP">Stock</w> <w l="ghyll" pws="yes" id="w2821" p="NNP" group="I-NP">Ghyll</w><w sb="true" pws="no" id="w2826" p="." group="O">.</w></s> <s id="s59"><w state="true" common="true" l="first" pws="yes" id="w2828" p="NNP" quty="1" headn="yes" group="B-NP">First</w> <w l="re" pws="yes" id="w2834" p="NNP" headn="yes" group="I-NP">re</w><w pws="no" id="w2836" p=":" group="O">-</w> 
+<w l="cord" pws="yes" id="w2839" p="VBN" headv="yes" group="B-VP">corded</w> <w pws="yes" id="w2846" p="IN" group="B-PP">by</w> <w wlastn="true" l="lawson" pws="yes" id="w2849" p="NNP" pername="true" wfirstn="true" headn="yes" group="B-NP">Lawson</w><w sb="true" pws="no" id="w2855" p="." group="O">.</w></s> <s id="s60"><w l="ghyll" pws="yes" id="w2857" p="NNP" headn="yes" group="B-NP">Ghyll</w> <w pws="yes" id="w2863" p="IN" group="B-PP">near</w> <w l="avhittington" pws="yes" id="w2868" p="NNP" headn="yes" group="B-NP">AVhittington</w> <w wlastn="true" common="true" l="hall" pws="yes" id="w2881" p="NNP" wfirstn="true" headn="yes" group="I-NP">Hall</w><w sb="true" pws="no" id="w2885" p="." group="O">.</w></s> <s id="s61"><w l="—" pws="yes" id="w2887" p="NNP" headn="yes" group="B-NP">—</w> <w pws="yes" id="w2889" p="(" group="O">(</w><w l="hindson" pws="no" id="w2890" p="NNP" headn="yes" group="B-NP">Hindson</w><w pws="no" id="w2897" p="." group="O">.</w><w pws="no" id="w2898" p=")" group="O">)</w> 
+<w l="l." pws="yes" id="w2901" p="NNP" headn="yes" group="B-NP">L.</w> <w common="true" l="near" pws="yes" id="w2904" p="NNP" headn="yes" group="I-NP">Near</w> <w l="coniston" pws="yes" id="w2909" p="NNP" group="B-NP">Coniston</w> <w common="true" l="water" pws="yes" id="w2918" p="NNP" group="I-NP">Water</w><w sb="true" pws="no" id="w2923" p="." group="O">.</w></s> <s id="s62"><w l="—" pws="yes" id="w2925" p="NNP" headn="yes" group="B-NP">—</w> <w wlastn="true" locname="single" l="london" pws="yes" id="w2927" p="NNP" wfirstn="true" group="B-NP">London</w> <w pws="yes" id="w2934" p="(" group="O">(</w><w l="p." pws="no" id="w2935" p="NNP" group="B-NP">P.</w><w l="j." pws="no" id="w2937" p="NNP" group="I-NP">J.</w><w wlastn="true" locname="single" l="woodward" pws="no" id="w2939" p="NNP" group="I-NP">Woodward</w><w pws="no" id="w2947" p="." group="O">.</w><w pws="no" id="w2948" p=")" group="O">)</w> <w common="true" l="foot" pws="yes" id="w2950" p="NNP" headn="yes" group="B-NP">Foot</w> <w pws="yes" id="w2955" p="IN" group="B-PP">of</w> <w pws="yes" id="w2958" p="DT" group="B-NP">the</w> 
+<w locname="single" l="nite" pws="yes" id="w2963" p="NNP" group="I-NP">Nite</w><w pws="no" id="w2967" p="," group="O">,</w> <w pws="yes" id="w2969" p="IN" group="B-PP">near</w> <w pws="yes" id="w2974" p="JJ" group="B-ADJP">Yew-tree</w><w pws="no" id="w2982" p="," group="O">,</w> <w pws="yes" id="w2984" p="CC" group="O">and</w> <w pws="yes" id="w2988" p="IN" group="B-PP">near</w> <w pws="yes" id="w2993" p="DT" group="B-NP">the</w> <w l="railway" pws="yes" id="w2997" p="NN" headn="yes" group="I-NP">railway</w> <w l="station" pws="yes" id="w3005" p="NN" headn="yes" group="I-NP">station</w><w pws="no" id="w3012" p="," group="O">,</w> <w locname="single" l="coniston" pws="yes" id="w3014" p="NNP" group="B-NP">Coniston</w><w sb="true" pws="no" id="w3022" p="." group="O">.</w></s> <s id="s63"><w l="—" pws="yes" id="w3024" p="NNP" headn="yes" group="B-NP">—</w> 
+<w pws="yes" id="w3027" p="(" group="O">(</w><w common="true" l="miss" pws="no" id="w3028" p="NNP" group="B-NP">Miss</w> <w locname="single" l="beever" pws="yes" id="w3033" p="NNP" group="I-NP">Beever</w><w pws="no" id="w3039" p="." group="O">.</w><w pws="no" id="w3040" p=")" group="O">)</w> <w pws="yes" id="w3042" p="IN" group="B-PP">In</w> <w pws="yes" id="w3045" p="DT" group="B-NP">a</w> <w pws="yes" id="w3047" p="JJ" group="I-NP">small</w> <w l="gully" pws="yes" id="w3053" p="NN" headn="yes" group="I-NP">gully</w> <w pws="yes" id="w3059" p="IN" group="B-PP">at</w> <w locname="single" l="coniston" pws="yes" id="w3062" p="NNP" group="B-NP">Coniston</w> <w pws="yes" id="w3071" p="WDT" headn="yes" group="B-NP">which</w> <w l="be" pws="yes" id="w3077" p="VBZ" group="B-VP">is</w> <w l="pass" pws="yes" id="w3080" p="VBN" headv="yes" group="I-VP">passed</w> 
+<w pws="yes" id="w3088" p="IN" group="B-PP">on</w> <w pws="yes" id="w3091" p="DT" group="B-NP">the</w> <w vstem="ascend" l="ascent" pws="yes" id="w3095" p="NN" headn="yes" group="I-NP">ascent</w> <w pws="yes" id="w3102" p="IN" group="B-PP">of</w> <w pws="yes" id="w3105" p="DT" group="B-NP">the</w> <w common="true" l="old" pws="yes" id="w3109" p="NNP" group="I-NP">Old</w> <w l="man" pws="yes" id="w3113" p="NNP" group="I-NP">Man</w><w sb="true" pws="no" id="w3116" p="." group="O">.</w></s> <s id="s64"><w l="—" pws="yes" id="w3118" p="NNP" headn="yes" group="B-NP">—</w> <w pws="yes" id="w3120" p="(" group="O">(</w><w l="j" pws="no" id="w3121" p="NNP" headn="yes" group="B-NP">J</w><w pws="no" id="w3122" p="," group="O">,</w> <w l="c." pws="yes" id="w3124" p="NNP" group="B-NP">C.</w> <w locname="single" l="melvill" pws="yes" id="w3127" p="NNP" group="I-NP">Melvill</w><w pws="no" id="w3134" p="." group="O">.</w><w pws="no" id="w3135" p=")" group="O">)</w> <w l="roadside" pws="yes" id="w3137" p="NNP" headn="yes" group="B-NP">Roadside</w> 
+<w pws="yes" id="w3147" p="IN" group="B-PP">near</w> <w l="storr" pws="yes" id="w3152" p="NNP" group="B-NP">Storrs</w> <w common="true" l="hall" pws="yes" id="w3159" p="NNP" group="I-NP">Hall</w><w pws="no" id="w3163" p="," group="O">,</w> <w l="south" pws="yes" id="w3165" p="NN" headn="yes" group="B-NP">south</w> <w pws="yes" id="w3171" p="IN" group="B-PP">of</w> <w locname="single" l="bowness" pws="yes" id="w3174" p="NN" group="B-NP">Bowness</w><w sb="true" pws="no" id="w3181" p="." group="O">.</w></s> <s id="s65"><w l="—" pws="yes" id="w3183" p="NN" headn="yes" group="B-NP">—</w> <w pws="yes" id="w3185" p="(" group="O">(</w><w l="b" pws="no" id="w3186" p="NNP" headn="yes" group="B-NP">B</w><w pws="no" id="w3187" p="." group="O">.</w><w pws="no" id="w3188" p=")" group="O">)</w></s></p> 
+
+<p><s id="s66"><w l="order" pws="yes" id="w3192" p="NNP" tmln="true" headn="yes" group="B-NP">ORDER</w> <w l="oxalidace." pws="yes" id="w3198" p="NNP" headn="yes" group="I-NP">OXALIDACE.</w><w l="e" pws="no" id="w3208" p="NNP" headn="yes" group="I-NP">E</w><w sb="true" pws="no" id="w3209" p="." group="O">.</w></s></p> 
+
+<p><s id="s67"><w pws="yes" id="w3213" p="CD" quty="243" headn="yes" group="B-NP">243</w><w sb="true" pws="no" id="w3216" p="." group="O">.</w></s> <s id="s68"><w locname="single" l="oxali" pws="yes" id="w3218" p="NNP" headn="yes" group="B-NP">Oxalis</w> <w l="acetosellum" pws="yes" id="w3225" p="NNP" headn="yes" group="I-NP">Acetosella</w><w pws="no" id="w3235" p="," group="O">,</w> <w l="\" pws="yes" id="w3237" p="NNP" headn="yes" group="B-NP">\</w><w l=".." pws="no" id="w3238" p="NNP" headn="yes" group="I-NP">..</w> <w pws="yes" id="w3241" p="(" group="O">(</w><w wlastn="true" common="true" l="wood" pws="no" id="w3242" p="NNP" headn="yes" group="B-NP">Wood</w> <w l="sorrel" pws="yes" id="w3247" p="NNP" headn="yes" group="I-NP">Sorrel</w> <w pws="yes" id="w3254" p=":" group="O">;</w> <w pws="yes" id="w3256" p="JJ" group="B-NP">local</w> <w l="name" pws="yes" id="w3262" p="NN" headn="yes" group="I-NP">name</w><w pws="no" id="w3266" p="," group="O">,</w> 
+<w pws="yes" qut="s" id="w3269" p="''" group="O">'</w> <w l="cuckoo" pws="yes" id="w3271" p="NNP" headn="yes" group="B-NP">Cuckoo</w><w pws="no" id="w3277" p="POS" group="I-NP">'s</w> <w common="true" l="bread" pws="yes" id="w3280" p="NNP" group="B-NP">Bread</w> <w pws="yes" id="w3286" p="CC" group="O">and</w> <w common="true" l="cheese" pws="yes" id="w3290" p="NNP" group="B-NP">Cheese</w> <w pws="yes" qut="s" id="w3297" p="POS" group="I-NP">'</w><w pws="no" id="w3298" p=")" group="O">)</w><w sb="true" pws="no" id="w3299" p="." group="O">.</w></s> <s id="s69"><w common="true" pws="yes" id="w3301" p="JJ" group="B-ADJP">Native</w><w sb="true" pws="no" id="w3307" p="." group="O">.</w></s> <s id="s70"><w pws="yes" id="w3309" p="JJ" locadj="true" group="B-NP">British</w> <w l="type" pws="yes" id="w3317" p="NN" headn="yes" group="I-NP">type</w><w sb="true" pws="no" id="w3321" p="." group="O">.</w></s> 
+<s id="s71"><w common="true" l="range" pws="yes" id="w3324" p="NNP" headn="yes" group="B-NP">Range</w> <w pws="yes" id="w3330" p="CD" headn="yes" group="I-NP">1-4</w><w sb="true" pws="no" id="w3333" p="." group="O">.</w></s> <s id="s72"><w wlastn="true" common="true" l="wood" pws="yes" id="w3335" p="NNP" headn="yes" group="B-NP">Woods</w> <w pws="yes" id="w3341" p="CC" group="O">and</w> <w vstem="shade" l="shaded" pws="yes" id="w3345" p="JJ" group="B-NP">shaded</w> <w l="rock" pws="yes" id="w3352" p="NNS" headn="yes" group="I-NP">rocks</w><w sb="true" pws="no" id="w3357" p="." group="O">.</w></s> <s id="s73"><w common="true" l="common" pws="yes" id="w3359" p="NNP" headn="yes" group="B-NP">Common</w><w sb="true" pws="no" id="w3365" p="." group="O">.</w></s> <s id="s74"><w common="true" l="ascend" pws="yes" id="w3367" p="NNS" headn="yes" group="B-NP">Ascends</w> 
+<w pws="yes" id="w3376" p="TO" group="B-PP">to</w> <w pws="yes" id="w3379" p="CD" quty="850" group="B-NP">850</w> <w l="yard" pws="yes" id="w3383" p="NNS" headn="yes" group="I-NP">yards</w> <w pws="yes" id="w3389" p="IN" group="B-PP">on</w> <w locname="single" l="saddleback" pws="yes" id="w3392" p="NNP" group="B-NP">Saddleback</w> <w pws="yes" id="w3403" p="(" group="O">(</w><w wlastn="true" locname="single" l="watson" pws="no" id="w3404" p="NNP" orgname="brand" wfirstn="true" group="B-NP">Watson</w><w pws="no" id="w3410" p=")" group="O">)</w> <w pws="yes" id="w3412" p=":" group="O">;</w> <w pws="yes" id="w3414" p="CD" quty="900" group="B-NP">900</w> <w l="yard" pws="yes" id="w3418" p="NNS" headn="yes" group="I-NP">yards</w> <w pws="yes" id="w3424" p="IN" group="B-PP">on</w> 
+<w locname="single" l="helvellyn" pws="yes" id="w3428" p="NNP" group="B-NP">Helvellyn</w> <w pws="yes" id="w3438" p="(" group="O">(</w><w l="b" pws="no" id="w3439" p="NNP" headn="yes" group="B-NP">B</w><w pws="no" id="w3440" p="." group="O">.</w><w pws="no" id="w3441" p=")" group="O">)</w> <w pws="yes" id="w3443" p=":" group="O">;</w> <w pws="yes" id="w3445" p="CC" group="O">and</w> <w l="loio" pws="yes" id="w3449" p="NN" headn="yes" group="B-NP">loio</w><w sb="true" pws="no" id="w3453" p="." group="O">.</w></s> <s id="s75"><w wlastn="true" locname="single" l="london" pws="yes" id="w3455" p="NNP" wfirstn="true" group="B-NP">London</w> <w l="yard" pws="yes" id="w3462" p="NNS" headn="yes" group="I-NP">yards</w> <w pws="yes" id="w3468" p="IN" group="B-PP">on</w> <w l="scawfell" pws="yes" id="w3471" p="NNP" headn="yes" group="B-NP">Scawfell</w> <w common="true" l="pike" pws="yes" id="w3480" p="NNP" headn="yes" group="I-NP">Pike</w> <w pws="yes" id="w3485" p="(" group="O">(</w><w wlastn="true" locname="single" l="watson" pws="no" id="w3486" p="NNP" orgname="brand" wfirstn="true" group="B-NP">Watson</w><w pws="no" id="w3492" p=")" group="O">)</w><w sb="true" pws="no" id="w3493" p="." group="O">.</w></s> 
+<s id="s76"><w pws="yes" id="w3496" p="DT" group="B-NP">A</w> <w l="variety" pws="yes" id="w3498" p="NN" headn="yes" group="I-NP">variety</w> <w pws="yes" id="w3506" p="IN" group="B-PP">with</w> <w pws="yes" id="w3511" p="JJ" group="B-NP">pink</w> <w l="flower" pws="yes" id="w3516" p="NNS" headn="yes" group="I-NP">flowers</w> <w l="see" pws="yes" id="w3524" p="VBN" class="istate" headv="yes" group="B-NP">seen</w> <w pws="yes" id="w3529" p="DT" headn="yes" group="I-NP">both</w> <w pws="yes" id="w3534" p="IN" group="B-PP">at</w> <w locname="single" l="ambleside" pws="yes" id="w3537" p="NNP" group="B-NP">Ambleside</w> <w pws="yes" id="w3547" p="CC" group="O">and</w> 
+<w locname="single" l="coniston" pws="yes" id="w3552" p="NNP" group="B-NP">Coniston</w> <w pws="yes" id="w3561" p="(" group="O">(</w><w common="true" l="miss" pws="no" id="w3562" p="NNP" group="B-NP">Miss</w> <w locname="single" l="beever" pws="yes" id="w3567" p="NNP" group="I-NP">Beever</w><w pws="no" id="w3573" p=")" group="O">)</w><w pws="no" id="w3574" p="," group="O">,</w> <w pws="yes" id="w3576" p="CC" group="O">and</w> <w pws="yes" id="w3580" p="IN" group="B-PP">in</w> <w pws="yes" id="w3583" p="DT" group="B-NP">the</w> <w l="wood" pws="yes" id="w3587" p="NN" headn="yes" group="I-NP">wood</w> <w pws="yes" id="w3592" p="IN" group="B-PP">at</w> <w l="dunmallet" pws="yes" id="w3595" p="NNP" headn="yes" group="B-NP">Dunmallet</w> <w pws="yes" id="w3605" p="IN" group="B-PP">at</w> <w pws="yes" id="w3608" p="DT" group="B-NP">the</w> 
+<w l="foot" pws="yes" id="w3613" p="NN" headn="yes" group="I-NP">foot</w> <w pws="yes" id="w3618" p="IN" group="B-PP">of</w> <w l="uuswater" pws="yes" id="w3621" p="NNP" headn="yes" group="B-NP">UUswater</w> <w wlastn="true" common="true" l="lake" pws="yes" id="w3630" p="NNP" wfirstn="true" headn="yes" group="I-NP">Lake</w> <w pws="yes" id="w3635" p="(" group="O">(</w><w l="av." pws="no" id="w3636" p="NNP" headn="yes" group="B-NP">AV.</w> <w wlastn="true" locname="single" l="hodgson" pws="yes" id="w3640" p="NNP" group="B-NP">Hodgson</w><w pws="no" id="w3647" p=")" group="O">)</w><w sb="true" pws="no" id="w3648" p="." group="O">.</w></s></p> 
+
+<p><s id="s77"><w l="&lt;" pws="yes" id="w3652" p="NNP" headn="yes" group="B-NP">&lt;</w><w locname="single" l="nat" pws="no" id="w3653" p="NNP" wfirstn="true" headn="yes" group="I-NP">Nat</w><w l="_" pws="no" id="w3656" p="NNP" headn="yes" group="I-NP">_</w><w pws="no" id="w3657" p="CD" quty="1890" group="B-NP">1890</w><w l="_" pws="no" id="w3661" p="NNP" headn="yes" group="B-NP">_</w><w pws="no" id="w3662" p="CD" quty="280" headn="yes" group="I-NP">280</w><w l=">" pws="no" id="w3665" p="NN" headn="yes" group="B-NP">&gt;</w></s></p>
+
+<p><s id="s78"><w pws="yes" id="w3668" p="JJ" group="B-NP">28o</w> <w l="bibliogkaphy" pws="yes" id="w3672" p="NN" headn="yes" group="I-NP">BIBLIOGKAPHY</w> <w pws="yes" id="w3685" p=":" group="O">:</w> <w l="lepidoptera" pws="yes" id="w3687" p="NNP" headn="yes" group="B-NP">LEPIDOPTERA</w><w pws="no" id="w3698" p="," group="O">,</w> <w pws="yes" id="w3700" p="CD" quty="1888" group="B-NP">1888</w><w sb="true" pws="no" id="w3704" p="." group="O">.</w></s></p> 
+
+<p><s id="s79"><w common="true" l="anon" pws="yes" id="w3708" p="NNP" headn="yes" group="B-NP">Anon</w><w pws="no" id="w3712" p="," group="O">,</w> <w l="[" pws="yes" id="w3714" p="NNP" headn="yes" group="B-NP">[</w><w l="sign" pws="no" id="w3715" p="VBD" headv="yes" group="B-VP">signed</w> <w l="s.d.c." pws="yes" id="w3722" p="NNP" headn="yes" group="B-NP">S.D.C.</w> <w pws="yes" id="w3729" p="(" group="O">(</w><w locname="single" l="northallerton" pws="no" id="w3730" p="NNP" group="B-NP">Northallerton</w><w pws="no" id="w3743" p=")" group="O">)</w><w l="]" pws="no" id="w3744" p="NNP" headn="yes" group="B-NP">]</w><w sb="true" pws="no" id="w3745" p="." group="O">.</w></s> <s id="s80"><w wlastn="true" locname="single" l="york" pws="yes" id="w3747" p="NNP" group="B-NP">York</w> <w l="n.w." pws="yes" id="w3752" p="NNP" group="I-NP">N.W.</w> <w pws="yes" id="w3757" p="CC" group="O">and</w> <w l="n.e" pws="yes" id="w3761" p="NNP" headn="yes" group="B-NP">N.E</w><w sb="true" pws="no" id="w3764" p="." group="O">.</w></s></p> 
+
+<p><s id="s81"><w l="hybernate" pws="yes" id="w3768" p="VBG" headn="yes" group="B-NP">Hybernating</w> <w common="true" l="butterfly" pws="yes" id="w3780" p="NNS" headn="yes" group="I-NP">Butterflies</w> <w pws="yes" id="w3792" p="RB" group="B-ADVP">[</w><w pws="no" id="w3793" p="IN" group="B-PP">near</w> <w wlastn="true" locname="single" l="london" pws="yes" id="w3798" p="NNP" wfirstn="true" group="B-NP">London</w> <w l="house" pws="yes" id="w3805" p="NN" headn="yes" group="I-NP">house</w><w pws="no" id="w3810" p="," group="O">,</w> <w locname="single" l="northallerton" pws="yes" id="w3812" p="NNP" group="B-NP">Northallerton</w> <w pws="yes" id="w3826" p=":" group="O">;</w> <w pws="yes" id="w3828" p="DT" group="B-NP">a</w> <w pws="yes" id="w3830" p="JJ" group="I-NP">great</w> <w pws="yes" id="w3836" p="JJ" group="I-NP">many</w> <w l="vanessa" pws="yes" id="w3841" p="NNP" pername="true" wfirstn="true" headn="yes" group="I-NP">Vanessa</w> 
+<w l="carduus" pws="yes" id="w3850" p="NNS" headn="yes" group="I-NP">cardui</w> <w pws="yes" id="w3857" p="CC" group="O">and</w> <w pws="yes" id="w3861" p="DT" group="B-NP">some</w> <w tmla="true" pws="yes" id="w3866" p="JJ" group="I-NP">few</w> <w l="v." pws="yes" id="w3870" p="NNP" headn="yes" group="I-NP">V.</w> <w l="afa" pws="yes" id="w3873" p="NNP" headn="yes" group="I-NP">afa</w><w l="/" pws="no" id="w3876" p="VBD" headv="yes" group="B-VP">/</w><w pws="no" id="w3877" p="DT" group="B-NP">an</w><w l="/" pws="no" id="w3879" p="NN" headn="yes" group="I-NP">/</w><w pws="no" id="w3880" p="DT" group="B-NP">a</w><w l="]" pws="no" id="w3881" p="NN" headn="yes" group="I-NP">]</w><w sb="true" pws="no" id="w3882" p="." group="O">.</w></s> <s id="s82"><w wlastn="true" common="true" l="field" pws="yes" id="w3884" p="NNP" wfirstn="true" headn="yes" group="B-NP">Field</w><w pws="no" id="w3889" p="," group="O">,</w> <w l="june" pws="yes" id="w3891" p="NNP" month="06" group="B-NP">June</w> <w pws="yes" id="w3896" p="CD" date="23" group="I-NP">23rd</w><w pws="no" id="w3900" p="," group="I-NP">,</w> <w pws="yes" id="w3902" p="CD" quty="1888" year="1888" group="I-NP">1888</w><w pws="no" id="w3906" p="," group="O">,</w> <w l="p" pws="yes" id="w3908" p="NN" headn="yes" group="B-NP">p</w><w sb="true" pws="no" id="w3909" p="." group="O">.</w></s> <s id="s83"><w pws="yes" id="w3911" p="CD" quty="901" headn="yes" group="B-NP">901</w><w sb="true" pws="no" id="w3914" p="." group="O">.</w></s></p> 
+
+<p><s id="s84"><w common="true" l="anon" pws="yes" id="w3918" p="NNP" headn="yes" group="B-NP">Anon</w><w pws="no" id="w3922" p="," group="O">,</w> <w l="[" pws="yes" id="w3924" p="NNP" headn="yes" group="B-NP">[</w><w pws="no" id="w3925" p="RB" group="B-ADVP">not</w> <w l="sign" pws="yes" id="w3929" p="VBD" headv="yes" group="B-VP">signed</w><w l="]" pws="no" id="w3935" p="NN" headn="yes" group="B-NP">]</w><w sb="true" pws="no" id="w3936" p="." group="O">.</w></s> <s id="s85"><w wlastn="true" locname="single" l="york" pws="yes" id="w3938" p="NNP" group="B-NP">York</w> <w l="s.w" pws="yes" id="w3943" p="NNP" group="I-NP">S.W</w><w sb="true" pws="no" id="w3946" p="." group="O">.</w></s></p> 
+
+<p><s id="s86"><w pws="yes" id="w3950" p="DT" group="B-NP">The</w> <w locname="single" l="yorkshire" pws="yes" id="w3954" p="NNP" group="I-NP">Yorkshire</w> <w common="true" l="naturalist" pws="yes" id="w3964" p="NNPS" group="I-NP">Naturalists</w><w qut="s" pws="no" id="w3975" p="POS" group="I-NP">'</w> <w common="true" l="union" pws="yes" id="w3977" p="NNP" group="I-NP">Union</w> <w l="[" pws="yes" id="w3983" p="NNP" headn="yes" group="I-NP">[</w><w pws="no" id="w3984" p="IN" group="B-PP">at</w> <w locname="single" l="saddleworth" pws="yes" id="w3987" p="NNP" group="B-NP">Saddleworth</w><w pws="no" id="w3998" p="," group="O">,</w> <w pws="yes" id="w4000" p="JJ" group="B-ADJP">i6th</w> <w l="june" pws="yes" id="w4005" p="NNP" month="06" group="B-NP">June</w><w pws="no" id="w4009" p="," group="I-NP">,</w> <w pws="yes" id="w4011" p="CD" quty="1888" year="1888" group="I-NP">1888</w> <w pws="yes" id="w4016" p=":" group="O">;</w></s></p> 
+
+<p><s id="s87"><w l="phoxopteryx" pws="yes" id="w4020" p="NNP" headn="yes" group="B-NP">Phoxopteryx</w> <w l="uiyrtillaium" pws="yes" id="w4032" p="NNP" headn="yes" group="I-NP">uiyrtillaiia</w><w pws="no" id="w4044" p="," headn="yes" group="I-NP">,</w> <w l="larentium" pws="yes" id="w4046" p="NNP" headn="yes" group="I-NP">Larentia</w> <w l="didynia" pws="yes" id="w4055" p="NN" headn="yes" group="I-NP">didyniata</w><w pws="no" id="w4064" p="," headn="yes" group="I-NP">,</w> <w l="hypsipeti" pws="yes" id="w4066" p="NNP" headn="yes" group="I-NP">Hypsipetis</w> <w l="elida" pws="yes" id="w4077" p="NNP" headn="yes" group="I-NP">elidata</w><w pws="no" id="w4084" p="," headn="yes" group="I-NP">,</w> <w l="hadoium" pws="yes" id="w4086" p="NNP" headn="yes" group="I-NP">Hadoia</w> 
+<w l="glauca" pws="yes" id="w4094" p="NNP" headn="yes" group="I-NP">glauca</w><w pws="no" id="w4100" p="," headn="yes" group="I-NP">,</w> <w pws="yes" id="w4102" p="CC" headn="yes" group="I-NP">and</w> <w l="clepsis" pws="yes" id="w4106" p="NNP" headn="yes" group="I-NP">Clepsis</w> <w l="ritsticana" pws="yes" id="w4114" p="NNS" headn="yes" group="I-NP">ritsticana</w> <w l="note" pws="yes" id="w4125" p="VBD" class="reporting" headv="yes" group="B-VP">noted</w><w l="]" pws="no" id="w4130" p="NNS" headn="yes" group="B-NP">]</w><w sb="true" pws="no" id="w4131" p="." group="O">.</w></s> <s id="s88"><w common="true" l="research" pws="yes" id="w4133" p="NNP" event="true" headn="yes" group="B-NP">Research</w><w pws="no" id="w4141" p="," group="O">,</w> <w l="julj" pws="yes" id="w4143" p="NNP" headn="yes" group="B-NP">Julj</w><w qut="s" pws="no" id="w4147" p="POS" group="I-NP">'</w> <w pws="yes" id="w4149" p="CD" quty="1888" group="B-NP">1888</w><w pws="no" id="w4153" p="," group="I-NP">,</w> <w l="p" pws="yes" id="w4155" p="NN" headn="yes" group="I-NP">p</w><w sb="true" pws="no" id="w4156" p="." group="O">.</w></s> <s id="s89"><w pws="yes" id="w4158" p="CD" quty="14" headn="yes" group="B-NP">14</w><w sb="true" pws="no" id="w4160" p="." group="O">.</w></s></p> 
+
+<p><s id="s90"><w common="true" l="anon" pws="yes" id="w4164" p="NNP" headn="yes" group="B-NP">Anon</w><w pws="no" id="w4168" p="," group="O">,</w> <w l="[" pws="yes" id="w4170" p="NNP" headn="yes" group="B-NP">[</w><w pws="no" id="w4171" p="RB" group="B-ADVP">not</w> <w l="sign" pws="yes" id="w4175" p="VBD" headv="yes" group="B-VP">signed</w><w l="]" pws="no" id="w4181" p="NN" headn="yes" group="B-NP">]</w><w sb="true" pws="no" id="w4182" p="." group="O">.</w></s> <s id="s91"><w wlastn="true" locname="single" l="york" pws="yes" id="w4184" p="NNP" headn="yes" group="B-NP">York</w> <w common="true" l="mid" pws="yes" id="w4189" p="NNP" headn="yes" group="I-NP">Mid</w> <w l="w" pws="yes" id="w4193" p="NNP" headn="yes" group="I-NP">W</w><w pws="no" id="w4194" p="." group="O">.</w></s></p> 
+
+<p><s id="s92"><w locname="single" l="leed" pws="yes" id="w4198" p="NNP" group="B-NP">Leeds</w> <w common="true" l="naturalist" pws="yes" id="w4204" p="NNPS" group="I-NP">Naturalists</w><w qut="s" pws="no" id="w4215" p="POS" group="I-NP">'</w> <w common="true" l="club" pws="yes" id="w4217" p="NNP" group="I-NP">Club</w> <w l="[" pws="yes" id="w4222" p="NNP" headn="yes" group="I-NP">[</w><w pws="no" id="w4223" p="IN" group="B-PP">at</w> <w common="true" l="bishop" pws="yes" id="w4226" p="NNP" group="B-NP">Bishop</w> <w common="true" l="wood" pws="yes" id="w4233" p="NNP" group="I-NP">Wood</w> <w pws="yes" id="w4238" p=":" group="O">:</w> <w l="vanessa" pws="yes" id="w4240" p="NNP" pername="true" wfirstn="true" headn="yes" group="B-NP">Vanessa</w> <w l="alalanta" pws="yes" id="w4248" p="NNP" headn="yes" group="I-NP">alalanta</w><w pws="no" id="w4256" p="," group="O">,</w> <w l="lyarna" pws="yes" id="w4258" p="NNP" headn="yes" group="B-NP">Lyarna</w></s></p> 
+
+<p><s id="s93"><w pws="yes" id="w4267" p="(" group="O">(</w><w pws="no" id="w4268" p="JJ" group="B-NP">i</w><w l="/" pws="no" id="w4269" p="NN" headn="yes" group="I-NP">/</w><w l="ex" pws="no" id="w4270" p="NN" headn="yes" group="I-NP">ex</w><w l="/" pws="no" id="w4272" p="NN" headn="yes" group="I-NP">/</w><w l="s" pws="no" id="w4273" p="VBZ" headv="yes" group="B-VP">s</w><w pws="no" id="w4274" p="," group="O">,</w> <w l="satyrus" pws="yes" id="w4276" p="NNP" headn="yes" group="B-NP">Satyrus</w> <w l="jaiiira" pws="yes" id="w4284" p="NNP" headn="yes" group="I-NP">jaiiira</w><w pws="no" id="w4291" p="," group="O">,</w> <w l="pygicra" pws="yes" id="w4293" p="NNP" group="B-NP">Pygicra</w> <w wlastn="true" locname="single" l="london" pws="yes" id="w4301" p="NNP" wfirstn="true" group="I-NP">London</w> <w l="bticephalum" pws="yes" id="w4308" p="NN" headn="yes" group="I-NP">bticephala</w><w pws="no" id="w4318" p="," group="O">,</w> <w l="hihernium" pws="yes" id="w4320" p="NNP" headn="yes" group="B-NP">Hihernia</w> <w l="progeiiiiiiarium" pws="yes" id="w4329" p="NNP" headn="yes" group="I-NP">progeiiiiiiaria</w><w pws="no" id="w4344" p="," group="O">,</w> <w l="h" pws="yes" id="w4346" p="NNP" headn="yes" group="B-NP">H</w><w pws="no" id="w4347" p="." group="O">.</w></s></p> 
+
+<p><s id="s94"><w l="defoliarium" pws="yes" id="w4351" p="NN" headn="yes" group="B-NP">defoliaria</w><w pws="no" id="w4361" p="," group="O">,</w> <w l="h." pws="yes" id="w4363" p="NNP" headn="yes" group="B-NP">H.</w> <w l="pilosarium" pws="yes" id="w4366" p="NNP" headn="yes" group="I-NP">pilosaria</w><w pws="no" id="w4375" p="," group="O">,</w> <w l="larentium" pws="yes" id="w4377" p="NNP" headn="yes" group="B-NP">Larentia</w> <w l="allncilla" pws="yes" id="w4386" p="NNP" headn="yes" group="I-NP">allncillata</w><w pws="no" id="w4397" p="," group="O">,</w> <w l="l." pws="yes" id="w4399" p="NNP" headn="yes" group="B-NP">L.</w> <w l="montana" pws="yes" id="w4402" p="NNP" headn="yes" group="I-NP">montanata</w><w pws="no" id="w4411" p="," group="O">,</w> <w l="l" pws="yes" id="w4413" p="NNP" headn="yes" group="B-NP">L</w><w sb="true" pws="no" id="w4414" p="." group="O">.</w></s> <s id="s95"><w pws="yes" id="w4416" p="IN" group="B-PP">In</w><w qut="s" pws="no" id="w4418" p="POS" group="O">'</w><w l="linea" pws="no" id="w4419" p="NN" headn="yes" group="B-NP">linea</w><w l="/" pws="no" id="w4424" p="VBD" headv="yes" group="B-VP">/</w><w pws="no" id="w4425" p="DT" group="O">a</w><w pws="no" id="w4426" p="," group="O">,</w></s></p> 
+
+<p><s id="s96"><w l="lipari" pws="yes" id="w4430" p="NNP" headn="yes" group="B-NP">Liparis</w> <w l="aitrifltta" pws="yes" id="w4438" p="NNP" headn="yes" group="I-NP">aitrifltta</w> <w pws="yes" id="w4449" p="CC" headn="yes" group="I-NP">and</w> <w l="dicramcra" pws="yes" id="w4453" p="NNP" headn="yes" group="I-NP">Dicramcra</w> <w l="vinulum" pws="yes" id="w4463" p="NNP" headn="yes" group="I-NP">vinula</w> <w l="note" pws="yes" id="w4470" p="VBD" class="reporting" headv="yes" group="B-VP">noted</w><w l="]" pws="no" id="w4475" p="NNP" headn="yes" group="B-NP">]</w><w sb="true" pws="no" id="w4476" p="." group="O">.</w></s> <s id="s97"><w common="true" l="research" pws="yes" id="w4478" p="NNP" event="true" headn="yes" group="B-NP">Research</w><w pws="no" id="w4486" p="," group="O">,</w> <w l="aug." pws="yes" id="w4488" p="NNP" month="08" group="B-NP">Aug.</w> <w pws="yes" id="w4493" p="CD" quty="1888" year="1888" group="I-NP">1888</w><w pws="no" id="w4497" p="," group="O">,</w> <w l="p" pws="yes" id="w4499" p="NN" headn="yes" group="B-NP">p</w><w sb="true" pws="no" id="w4500" p="." group="O">.</w></s> <s id="s98"><w pws="yes" id="w4502" p="CD" quty="30" headn="yes" group="B-NP">30</w><w sb="true" pws="no" id="w4504" p="." group="O">.</w></s></p> 
+
+<p><s id="s99"><w common="true" l="anon" pws="yes" id="w4508" p="NNP" headn="yes" group="B-NP">Anon</w><w pws="no" id="w4512" p="," group="O">,</w> <w l="[" pws="yes" id="w4514" p="NNP" headn="yes" group="B-NP">[</w><w pws="no" id="w4515" p="RB" group="B-ADVP">not</w> <w l="sign" pws="yes" id="w4519" p="VBD" headv="yes" group="B-VP">signed</w><w l="]" pws="no" id="w4525" p="NN" headn="yes" group="B-NP">]</w><w sb="true" pws="no" id="w4526" p="." group="O">.</w></s> <s id="s100"><w locname="single" l="derbyshire" pws="yes" id="w4528" p="NNP" group="B-NP">Derbyshire</w><w sb="true" pws="no" id="w4538" p="." group="O">.</w></s></p> 
+
+<p><s id="s101"><w locname="single" l="liverpool" pws="yes" id="w4542" p="NNP" headn="yes" group="B-NP">Liverpool</w> <w common="true" l="naturalist" pws="yes" id="w4552" p="NNPS" headn="yes" group="I-NP">Naturalists</w><w qut="s" pws="no" id="w4563" p="POS" group="I-NP">'</w> <w wlastn="true" common="true" l="field" pws="yes" id="w4565" p="NNP" wfirstn="true" headn="yes" group="I-NP">Field</w> <w common="true" l="club" pws="yes" id="w4571" p="NNP" headn="yes" group="I-NP">Club</w> <w l="[" pws="yes" id="w4576" p="NNP" headn="yes" group="I-NP">[</w><w pws="no" id="w4577" p="IN" group="B-PP">at</w> <w common="true" l="miller" pws="yes" id="w4580" p="NNP" group="B-NP">Miller</w><w pws="no" id="w4586" p="POS" group="I-NP">'s</w> <w common="true" l="dale" pws="yes" id="w4589" p="NNP" pername="true" group="I-NP">Dale</w><w pws="no" id="w4593" p="," group="O">,</w> <w l="july" pws="yes" id="w4595" p="NNP" month="07" group="B-NP">July</w> <w pws="yes" id="w4600" p="CD" date="12" group="I-NP">12th</w><w pws="no" id="w4604" p="," group="I-NP">,</w> <w pws="yes" id="w4606" p="CD" quty="1888" year="1888" group="I-NP">1888</w><w pws="no" id="w4610" p=":" group="O">;</w></s></p> 
+
+<p><s id="s102"><w l="abraxa" pws="yes" id="w4614" p="NNP" headn="yes" group="B-NP">Abraxas</w> <w l="ulnia" pws="yes" id="w4622" p="NN" headn="yes" group="I-NP">ulniata</w> <w pws="yes" id="w4630" p="IN" group="B-PP">in</w> <w pws="yes" id="w4633" p="JJ" group="B-NP">enormous</w> <w l="quantity" pws="yes" id="w4642" p="NNS" headn="yes" group="I-NP">quantities</w><w l="]" pws="no" id="w4652" p="VBP" headv="yes" group="B-VP">]</w><w sb="true" pws="no" id="w4653" p="." group="O">.</w></s> <s id="s103"><w common="true" l="research" pws="yes" id="w4655" p="NNP" event="true" headn="yes" group="B-NP">Research</w><w pws="no" id="w4663" p="," group="O">,</w> <w l="aug." pws="yes" id="w4665" p="NNP" month="08" group="B-NP">Aug.</w> <w pws="yes" id="w4670" p="CD" quty="1888" year="1888" group="I-NP">1888</w><w pws="no" id="w4674" p="," group="O">,</w> <w l="p" pws="yes" id="w4676" p="NN" headn="yes" group="B-NP">p</w><w sb="true" pws="no" id="w4677" p="." group="O">.</w></s> <s id="s104"><w pws="yes" id="w4679" p="CD" quty="31" headn="yes" group="B-NP">31</w><w sb="true" pws="no" id="w4681" p="." group="O">.</w></s></p> 
+
+<p><s id="s105"><w l="r." pws="yes" id="w4685" p="NNP" group="B-NP">R.</w> <w l="adkin" pws="yes" id="w4688" p="NNP" group="I-NP">Adkin</w><w sb="true" pws="no" id="w4693" p="." group="O">.</w></s> <s id="s106"><w wlastn="true" common="true" l="lane" pws="yes" id="w4695" p="NNP" pername="true" wfirstn="true" group="B-NP">Lane</w><w sb="true" pws="no" id="w4699" p="." group="O">.</w></s> <s id="s107"><w l="s" pws="yes" id="w4701" p="NNP" headn="yes" group="B-NP">S</w><w pws="no" id="w4702" p="." group="O">.</w></s></p> 
+
+<p><s id="s108"><w common="true" l="president" pws="yes" id="w4706" p="NNP" headn="yes" group="B-NP">President</w><w pws="no" id="w4715" p="POS" group="I-NP">'s</w> <w common="true" l="address" pws="yes" id="w4718" p="NNP" tmln="true" headn="yes" group="I-NP">Address</w> <w l="[" pws="yes" id="w4726" p="VBD" headv="yes" group="B-VP">[</w><w pws="no" id="w4727" p="DT" group="B-NP">a</w> <w l="specimen" pws="yes" id="w4729" p="NN" headn="yes" group="I-NP">specimen</w> <w pws="yes" id="w4738" p="IN" group="B-PP">of</w> <w l="deilephilum" pws="yes" id="w4741" p="NNP" headn="yes" group="B-NP">Deilephila</w> <w l="euphorbiic" pws="yes" id="w4752" p="NNP" headn="yes" group="I-NP">euphorbiic</w> <w l="say" pws="yes" id="w4763" p="VBD" class="reporting" headv="yes" group="B-VP">said</w> <w pws="yes" id="w4768" p="TO" group="B-VP">to</w> <w l="have" pws="yes" id="w4771" p="VB" group="I-VP">have</w> <w l="be" pws="yes" id="w4776" p="VBN" group="I-VP">been</w> 
+<w l="record" pws="yes" id="w4782" p="VBN" headv="yes" group="I-VP">recorded</w> <w pws="yes" id="w4791" p="IN" group="B-PP">from</w> <w pws="yes" id="w4796" p="CD" group="B-NP">15o</w><w l="\" pws="no" id="w4799" p="NN" headn="yes" group="I-NP">\</w><w l="vden" pws="no" id="w4800" p="NN" headn="yes" group="I-NP">vden</w><w pws="no" id="w4804" p="," group="O">,</w> <w pws="yes" id="w4806" p="IN" group="B-PP">near</w> <w locname="single" l="manchester" pws="yes" id="w4811" p="NNP" group="B-NP">Manchester</w><w pws="no" id="w4821" p="," group="O">,</w> <w pws="yes" id="w4823" p="IN" group="B-PP">by</w> <w l="joseplus" pws="yes" id="w4826" p="NNP" headn="yes" group="B-NP">Josepli</w> <w locname="single" l="chappell" pws="yes" id="w4834" p="NNP" headn="yes" group="I-NP">Chappell</w><w l="]" pws="no" id="w4842" p="NNP" headn="yes" group="I-NP">]</w><w sb="true" pws="no" id="w4843" p="." group="O">.</w></s> <s id="s109"><w locname="single" common="true" l="proc" pws="yes" id="w4845" p="NNP" headn="yes" group="B-NP">Proc</w><w sb="true" pws="no" id="w4849" p="." group="O">.</w></s> <s id="s110"><w common="true" l="south" pws="yes" id="w4851" p="NNP" group="B-NP">South</w> 
+<w locname="single" l="lond" pws="yes" id="w4858" p="NNP" group="I-NP">Lond</w><w sb="true" pws="no" id="w4862" p="." group="O">.</w></s> <s id="s111"><w locname="single" l="ent" pws="yes" id="w4864" p="NNP" group="B-NP">Ent</w><w sb="true" pws="no" id="w4867" p="." group="O">.</w></s> <s id="s112"><w pws="yes" id="w4869" p="CC" group="O">and</w> <w locname="single" l="nat" pws="yes" id="w4873" p="NNP" wfirstn="true" group="B-NP">Nat</w><w sb="true" pws="no" id="w4876" p="." group="O">.</w></s> <s id="s113"><w l="hist" pws="yes" id="w4878" p="NN" headn="yes" group="B-NP">Hist</w><w sb="true" pws="no" id="w4882" p="." group="O">.</w></s> <s id="s114"><w locname="single" l="soc" pws="yes" id="w4884" p="NNP" group="B-NP">Soc</w><w sb="true" pws="no" id="w4887" p="." group="O">.</w></s> <s id="s115"><w pws="yes" id="w4889" p="IN" group="B-PP">for</w> <w pws="yes" id="w4893" p="CD" quty="1886" group="B-NP">1886</w> <w pws="yes" id="w4898" p="(" group="O">(</w><w l="pub." pws="no" id="w4899" p="NN" headn="yes" group="B-NP">pub.</w> <w pws="yes" id="w4904" p="CD" quty="1887" group="B-NP">1887</w><w pws="no" id="w4908" p=")" group="O">)</w><w pws="no" id="w4909" p="," group="O">,</w> <w l="p" pws="yes" id="w4911" p="NN" headn="yes" group="B-NP">p</w><w sb="true" pws="no" id="w4912" p="." group="O">.</w></s> <s id="s116"><w pws="yes" id="w4914" p="CD" quty="18" headn="yes" group="B-NP">18</w><w sb="true" pws="no" id="w4916" p="." group="O">.</w></s></p> 
+
+<p><s id="s117"><w l="r." pws="yes" id="w4920" p="NNP" group="B-NP">R.</w> <w l="adkin" pws="yes" id="w4923" p="NNP" group="I-NP">Adkin</w><w sb="true" pws="no" id="w4928" p="." group="O">.</w></s> <s id="s118"><w wlastn="true" common="true" l="lane" pws="yes" id="w4930" p="NNP" pername="true" wfirstn="true" group="B-NP">Lane</w><w sb="true" pws="no" id="w4934" p="." group="O">.</w></s> <s id="s119"><w l="w" pws="yes" id="w4936" p="NNP" headn="yes" group="B-NP">W</w><w pws="no" id="w4937" p="." group="O">.</w></s></p> 
+
+<p><s id="s120"><w l="crambus" pws="yes" id="w4941" p="NNP" headn="yes" group="B-NP">Crambus</w> <w l="eontaminellus" pws="yes" id="w4949" p="VBZ" headv="yes" group="B-VP">eontaminellus</w> <w pws="yes" id="w4963" p="JJ" group="B-ADJP">[</w><w l="exhibit" pws="no" id="w4964" p="VBN" headv="yes" group="B-VP">exhibited</w> <w pws="yes" id="w4974" p="IN" group="B-PP">from</w> <w wlastn="true" locname="single" l="preston" pws="yes" id="w4979" p="NNP" pername="true" wfirstn="true" headn="yes" group="B-NP">Preston</w><w l="]" pws="no" id="w4986" p="NNP" headn="yes" group="I-NP">]</w><w sb="true" pws="no" id="w4987" p="." group="O">.</w></s> <s id="s121"><w locname="single" common="true" l="proc" pws="yes" id="w4989" p="NNP" headn="yes" group="B-NP">Proc</w><w sb="true" pws="no" id="w4993" p="." group="O">.</w></s> <s id="s122"><w common="true" l="south" pws="yes" id="w4995" p="NNP" group="B-NP">South</w> <w wlastn="true" locname="single" l="london" pws="yes" id="w5001" p="NNP" wfirstn="true" group="I-NP">London</w> <w locname="single" l="ent" pws="yes" id="w5008" p="NNP" group="B-NP">Ent</w><w sb="true" pws="no" id="w5011" p="." group="O">.</w></s> 
+<s id="s123"><w pws="yes" id="w5014" p="CC" group="O">and</w> <w locname="single" l="nat" pws="yes" id="w5018" p="NNP" wfirstn="true" group="B-NP">Nat</w><w sb="true" pws="no" id="w5021" p="." group="O">.</w></s> <s id="s124"><w l="hist" pws="yes" id="w5023" p="NN" headn="yes" group="B-NP">Hist</w><w sb="true" pws="no" id="w5027" p="." group="O">.</w></s> <s id="s125"><w locname="single" l="soc" pws="yes" id="w5029" p="NNP" group="B-NP">Soc</w><w sb="true" pws="no" id="w5032" p="." group="O">.</w></s> <s id="s126"><w pws="yes" id="w5034" p="IN" group="B-PP">for</w> <w pws="yes" id="w5038" p="CD" quty="1886" group="B-NP">1886</w> <w pws="yes" id="w5043" p="(" group="O">(</w><w l="pub." pws="no" id="w5044" p="NN" headn="yes" group="B-NP">pub.</w> <w pws="yes" id="w5049" p="CD" quty="1887" group="B-NP">1887</w><w pws="no" id="w5053" p=")" group="O">)</w><w pws="no" id="w5054" p="," group="O">,</w> <w l="p" pws="yes" id="w5056" p="NN" headn="yes" group="B-NP">p</w><w sb="true" pws="no" id="w5057" p="." group="O">.</w></s> <s id="s127"><w pws="yes" id="w5059" p="CD" quty="31" headn="yes" group="B-NP">31</w><w sb="true" pws="no" id="w5061" p="." group="O">.</w></s></p> 
+
+<p><s id="s128"><w l="r." pws="yes" id="w5065" p="NNP" group="B-NP">R.</w> <w l="adkin" pws="yes" id="w5068" p="NNP" group="I-NP">Adkin</w><w sb="true" pws="no" id="w5073" p="." group="O">.</w></s> <s id="s129"><w wlastn="true" locname="single" l="york" pws="yes" id="w5075" p="NNP" group="B-NP">York</w> <w l="s.w" pws="yes" id="w5080" p="NNP" group="I-NP">S.W</w><w sb="true" pws="no" id="w5083" p="." group="O">.</w></s></p> 
+
+<p><s id="s130"><w pws="yes" id="w5087" p="JJ" group="B-NP">[</w><w common="true" vstem="exhibit" l="exhibition" pws="no" id="w5088" p="NN" event="true" headn="yes" group="I-NP">Exhibition</w> <w pws="yes" id="w5099" p="IN" group="B-PP">of</w> <w l="cleoceri" pws="yes" id="w5102" p="NNP" headn="yes" group="B-NP">Cleoceris</w> <w l="viminali" pws="yes" id="w5112" p="NNPS" headn="yes" group="I-NP">viminalis</w> <w l="fl." pws="yes" id="w5122" p="NNP" headn="yes" group="I-NP">Fl.</w> <w pws="yes" id="w5126" p=":" group="O">;</w> <w pws="yes" id="w5128" p="IN" group="B-PP">from</w> <w pws="yes" id="w5133" p="CD" quty="12" group="B-NP">twelve</w> <w l="larvse" pws="yes" id="w5140" p="NN" headn="yes" group="I-NP">larvse</w> <w l="send" pws="yes" id="w5147" p="VBN" headv="yes" group="B-VP">sent</w> <w pws="yes" id="w5152" p="IN" group="B-PP">from</w> 
+<w locname="single" l="barnsley" pws="yes" id="w5158" p="NNP" group="B-NP">Barnsley</w> <w pws="yes" id="w5167" p="PRP" group="B-NP">he</w> <w l="expect" pws="yes" id="w5170" p="VBD" class="istate" headv="yes" group="B-VP">expected</w> <w pws="yes" id="w5179" p="TO" group="B-PP">to</w> <w pws="yes" id="w5182" p="JJ" group="B-ADJP">rear</w> <w pws="yes" id="w5187" p="(" group="O">(</w><w pws="no" id="w5188" p="RB" group="B-ADVP">jnly</w> <w pws="yes" id="w5193" p="DT" group="B-NP">the</w> <w pws="yes" id="w5197" p="JJ" group="I-NP">black</w> <w l="form" pws="yes" id="w5203" p="NN" headn="yes" group="I-NP">form</w> <w pws="yes" id="w5208" p="IN" group="B-PP">of</w> <w pws="yes" id="w5211" p="DT" group="B-NP">the</w> <w l="species" pws="yes" id="w5215" p="NNS" headn="yes" group="I-NP">species</w> <w l="obtain" pws="yes" id="w5223" p="VBN" headv="yes" group="B-VP">obtained</w> <w pws="yes" id="w5232" p="IN" group="B-PP">in</w> 
+<w pws="yes" id="w5236" p="DT" headn="yes" group="B-NP">that</w> <w l="locality" pws="yes" id="w5241" p="NN" headn="yes" group="B-NP">locality</w> <w pws="yes" id="w5250" p=":" group="O">;</w> <w pws="yes" id="w5252" p="CC" group="O">but</w> <w pws="yes" id="w5256" p="IN" group="B-PP">among</w> <w pws="yes" id="w5262" p="PRP" group="B-NP">them</w> <w l="lie" pws="yes" id="w5267" p="VBP" headv="yes" group="B-VP">lie</w> <w l="have" pws="yes" id="w5271" p="VBD" group="B-VP">had</w> <w l="breed" pws="yes" id="w5275" p="VBN" headv="yes" group="I-VP">bred</w> <w pws="yes" id="w5280" p="CD" quty="1" headn="yes" group="B-NP">one</w> <w pws="yes" id="w5284" p="IN" group="I-NP">of</w> <w pws="yes" id="w5287" p="DT" group="I-NP">the</w> <w pws="yes" id="w5291" p="JJ" group="I-NP">ordinary</w> <w l="form" pws="yes" id="w5300" p="NNS" headn="yes" group="I-NP">forms</w> <w pws="yes" id="w5306" p="IN" group="B-PP">of</w> <w pws="yes" id="w5309" p="DT" group="B-NP">the</w> 
+<w l="species" pws="yes" id="w5314" p="NNS" headn="yes" group="I-NP">species</w> <w pws="yes" id="w5322" p="IN" group="B-PP">as</w> <w l="find" pws="yes" id="w5325" p="VBN" headv="yes" group="B-VP">found</w> <w pws="yes" id="w5331" p="IN" group="B-PP">in</w> <w pws="yes" id="w5334" p="DT" group="O">the</w> <w pws="yes" id="w5338" p="DT" headn="yes" group="B-NP">all</w> <w wlastn="true" locname="single" l="london" pws="yes" id="w5342" p="NNP" wfirstn="true" group="I-NP">London</w> <w common="true" l="south" pws="yes" id="w5349" p="NNP" headn="yes" group="I-NP">South</w> <w pws="yes" id="w5355" p="IN" group="B-PP">of</w> <w locname="single" l="england" pws="yes" id="w5358" p="NNP" country="true" group="B-NP">England</w><w l="]" pws="no" id="w5365" p="NNP" headn="yes" group="I-NP">]</w><w sb="true" pws="no" id="w5366" p="." group="O">.</w></s> <s id="s131"><w locname="single" common="true" l="proc" pws="yes" id="w5368" p="NNP" headn="yes" group="B-NP">Proc</w><w sb="true" pws="no" id="w5372" p="." group="O">.</w></s> <s id="s132"><w common="true" l="south" pws="yes" id="w5374" p="NNP" group="B-NP">South</w> <w locname="single" l="lond" pws="yes" id="w5380" p="NNP" group="I-NP">Lond</w><w sb="true" pws="no" id="w5384" p="." group="O">.</w></s> <s id="s133"><w locname="single" l="ent" pws="yes" id="w5386" p="NNP" group="B-NP">Ent</w><w sb="true" pws="no" id="w5389" p="." group="O">.</w></s> <s id="s134"><w pws="yes" id="w5391" p="CC" group="O">and</w> 
+<w locname="single" l="nat" pws="yes" id="w5396" p="NNP" wfirstn="true" group="B-NP">Nat</w><w sb="true" pws="no" id="w5399" p="." group="O">.</w></s> <s id="s135"><w l="hist" pws="yes" id="w5401" p="NN" headn="yes" group="B-NP">Hist</w><w sb="true" pws="no" id="w5405" p="." group="O">.</w></s> <s id="s136"><w locname="single" l="soc" pws="yes" id="w5407" p="NNP" group="B-NP">Soc</w><w sb="true" pws="no" id="w5410" p="." group="O">.</w></s> <s id="s137"><w pws="yes" id="w5412" p="IN" group="B-PP">for</w> <w pws="yes" id="w5416" p="CD" quty="1886" group="B-NP">1886</w> <w pws="yes" id="w5421" p="(" group="O">(</w><w l="pub." pws="no" id="w5422" p="NN" headn="yes" group="B-NP">pub.</w> <w pws="yes" id="w5427" p="CD" quty="1887" group="B-NP">1887</w><w pws="no" id="w5431" p=")" group="O">)</w><w pws="no" id="w5432" p="," group="O">,</w> <w l="p" pws="yes" id="w5434" p="NN" headn="yes" group="B-NP">p</w><w sb="true" pws="no" id="w5435" p="." group="O">.</w></s> <s id="s138"><w pws="yes" id="w5437" p="CD" quty="56" headn="yes" group="B-NP">56</w><w sb="true" pws="no" id="w5439" p="." group="O">.</w></s></p> 
+
+<p><s id="s139"><w l="r." pws="yes" id="w5443" p="NNP" group="B-NP">R.</w> <w l="adkin" pws="yes" id="w5446" p="NNP" group="I-NP">Adkin</w><w sb="true" pws="no" id="w5451" p="." group="O">.</w></s> <s id="s140"><w locname="single" l="westmorland" pws="yes" id="w5453" p="NNP" group="B-NP">Westmorland</w> <w pws="yes" id="w5465" p="CC" group="O">or</w> <w locname="single" l="furness" pws="yes" id="w5468" p="NNP" group="B-NP">Furness</w><w sb="true" pws="no" id="w5475" p="." group="O">.</w></s></p> 
+
+<p><s id="s141"><w l="[" pws="yes" id="w5479" p="NNP" headn="yes" group="B-NP">[</w><w l="cidarium" pws="no" id="w5480" p="NNP" headn="yes" group="I-NP">Cidaria</w> <w l="reticula" pws="yes" id="w5488" p="NN" headn="yes" group="I-NP">reticulata</w><w pws="no" id="w5498" p="," group="O">,</w> <w l="etc." pws="yes" id="w5500" p="NN" headn="yes" group="B-NP">etc.</w><w pws="no" id="w5504" p="," group="O">,</w> <w l="exhibit" pws="yes" id="w5506" p="VBN" headv="yes" group="B-VP">exhibited</w> <w pws="yes" id="w5516" p="IN" group="B-PP">from</w> <w pws="yes" id="w5521" p="IN" group="B-PP">near</w> <w locname="single" l="windermere" pws="yes" id="w5526" p="NNP" headn="yes" group="B-NP">Windermere</w><w l="]" pws="no" id="w5536" p="NNP" headn="yes" group="I-NP">]</w><w sb="true" pws="no" id="w5537" p="." group="O">.</w></s> <s id="s142"><w locname="single" common="true" l="proc" pws="yes" id="w5539" p="NNP" headn="yes" group="B-NP">Proc</w><w sb="true" pws="no" id="w5543" p="." group="O">.</w></s> <s id="s143"><w common="true" l="south" pws="yes" id="w5545" p="NNP" group="B-NP">South</w> 
+<w locname="single" l="lond" pws="yes" id="w5552" p="NNP" group="I-NP">Lond</w><w sb="true" pws="no" id="w5556" p="." group="O">.</w></s> <s id="s144"><w locname="single" l="ent" pws="yes" id="w5558" p="NNP" group="B-NP">Ent</w><w sb="true" pws="no" id="w5561" p="." group="O">.</w></s> <s id="s145"><w pws="yes" id="w5563" p="CC" group="O">and</w> <w locname="single" l="nat" pws="yes" id="w5567" p="NNP" wfirstn="true" group="B-NP">Nat</w><w sb="true" pws="no" id="w5570" p="." group="O">.</w></s> <s id="s146"><w l="hist" pws="yes" id="w5572" p="NN" headn="yes" group="B-NP">Hist</w><w sb="true" pws="no" id="w5576" p="." group="O">.</w></s> <s id="s147"><w locname="single" l="soc" pws="yes" id="w5578" p="NNP" group="B-NP">Soc</w><w sb="true" pws="no" id="w5581" p="." group="O">.</w></s> <s id="s148"><w pws="yes" id="w5583" p="IN" group="B-PP">for</w> <w pws="yes" id="w5587" p="CD" quty="1886" group="B-NP">1886</w> <w pws="yes" id="w5592" p="(" group="O">(</w><w l="pub." pws="no" id="w5593" p="NN" headn="yes" group="B-NP">pub.</w> <w pws="yes" id="w5598" p="CD" headn="yes" group="I-NP">18S7</w><w pws="no" id="w5602" p=")" group="O">)</w><w pws="no" id="w5603" p="," group="O">,</w> <w l="p" pws="yes" id="w5605" p="NN" headn="yes" group="B-NP">p</w><w sb="true" pws="no" id="w5606" p="." group="O">.</w></s> <s id="s149"><w pws="yes" id="w5608" p="CD" quty="71" headn="yes" group="B-NP">71</w><w sb="true" pws="no" id="w5610" p="." group="O">.</w></s></p> 
+
+<p><s id="s150"><w l="r." pws="yes" id="w5614" p="NNP" group="B-NP">R.</w> <w l="adkin" pws="yes" id="w5617" p="NNP" group="I-NP">Adkin</w><w sb="true" pws="no" id="w5622" p="." group="O">.</w></s> <s id="s151"><w locname="single" l="westmorland" pws="yes" id="w5624" p="NNP" group="B-NP">Westmorland</w> <w pws="yes" id="w5636" p="CC" group="O">or</w> <w locname="single" l="furness" pws="yes" id="w5639" p="NNP" group="B-NP">Furness</w><w sb="true" pws="no" id="w5646" p="." group="O">.</w></s></p> 
+
+<p><s id="s152"><w l="[" pws="yes" id="w5650" p="NNP" headn="yes" group="B-NP">[</w><w l="cidarium" pws="no" id="w5651" p="NNP" headn="yes" group="I-NP">Cidaria</w> <w l="reticula" pws="yes" id="w5659" p="NN" headn="yes" group="I-NP">reticulata</w> <w pws="yes" id="w5670" p="RB" group="B-ADJP">recently</w> <w l="breed" pws="yes" id="w5679" p="VBN" group="I-ADJP">bred</w> <w pws="yes" id="w5684" p="IN" group="B-PP">by</w> <w l="h." pws="yes" id="w5687" p="NNP" group="B-NP">H.</w> <w wlastn="true" locname="single" l="murray" pws="yes" id="w5690" p="NNP" wfirstn="true" group="I-NP">Murray</w> <w pws="yes" id="w5697" p="IN" group="B-PP">from</w> <w l="larva" pws="yes" id="w5702" p="NN" headn="yes" group="B-NP">larvae</w> <w l="collect" pws="yes" id="w5709" p="VBN" headv="yes" group="B-VP">collected</w> <w pws="yes" id="w5719" p="IN" group="B-PP">near</w> 
+<w locname="single" l="windermere" pws="yes" id="w5725" p="NNP" group="B-NP">Windermere</w><w pws="no" id="w5735" p="," group="O">,</w> <w pws="yes" id="w5737" p="IN" group="B-PP">on</w> <w l="iinpatien" pws="yes" id="w5740" p="NNP" headn="yes" group="B-NP">Iinpatiens</w> <w pws="yes" id="w5751" p="JJ" group="B-ADJP">noH-medange7-e</w> <w pws="yes" id="w5766" p=":" group="O">;</w> <w l="specimen" pws="yes" id="w5768" p="NNS" headn="yes" group="B-NP">specimens</w> <w l="exhibit" pws="yes" id="w5778" p="VBD" headv="yes" group="B-VP">exhibited</w> <w pws="yes" id="w5788" p="TO" group="B-PP">to</w> <w l="ent." pws="yes" id="w5791" p="NNP" headn="yes" group="B-NP">Ent.</w> <w l="soc." pws="yes" id="w5796" p="NNP" headn="yes" group="I-NP">Soc.</w> 
+<w l="lond." pws="yes" id="w5802" p="NNP" headn="yes" group="I-NP">Lond.</w><w pws="no" id="w5807" p="," group="O">,</w> <w l="dec." pws="yes" id="w5809" p="NNP" month="12" group="B-NP">Dec.</w> <w l="ist" pws="yes" id="w5814" p="NN" headn="yes" group="B-NP">ist</w><w pws="no" id="w5817" p="," group="O">,</w> <w pws="yes" id="w5819" p="CD" quty="1886" group="B-NP">1886</w><w l="]" pws="no" id="w5823" p="NNS" headn="yes" group="B-NP">]</w><w sb="true" pws="no" id="w5824" p="." group="O">.</w></s> <s id="s153"><w common="true" l="zoo" pws="yes" id="w5826" p="NNP" headn="yes" group="B-NP">Zoo</w><w pws="no" id="w5829" p=")" group="O">)</w><w pws="no" id="w5830" p="." group="O">.</w><w pws="no" id="w5831" p="," group="O">,</w> <w l="jan." pws="yes" id="w5833" p="NNP" month="01" group="B-NP">Jan.</w> <w pws="yes" id="w5838" p="CD" quty="1887" year="1887" group="I-NP">1887</w><w pws="no" id="w5842" p="," group="O">,</w> <w l="xus" pws="yes" id="w5844" p="NNS" headn="yes" group="B-NP">xi</w><w sb="true" pws="no" id="w5846" p="." group="O">.</w></s> <s id="s154"><w pws="yes" id="w5848" p="CD" quty="34" headn="yes" group="B-NP">34</w><w pws="no" id="w5850" p=":" group="O">;</w> <w l="nat." pws="yes" id="w5852" p="NNP" headn="yes" group="B-NP">Nat.</w><w pws="no" id="w5856" p="," group="O">,</w> <w l="march" pws="yes" id="w5858" p="NNP" month="03" group="B-NP">March</w> <w pws="yes" id="w5864" p="CD" quty="1887" year="1887" group="I-NP">1887</w><w pws="no" id="w5868" p="," group="O">,</w> <w l="p" pws="yes" id="w5870" p="NN" headn="yes" group="B-NP">p</w><w sb="true" pws="no" id="w5871" p="." group="O">.</w></s> <s id="s155"><w pws="yes" id="w5873" p="CD" quty="69" headn="yes" group="B-NP">69</w><w sb="true" pws="no" id="w5875" p="." group="O">.</w></s></p> 
+
+<p><s id="s156"><w l="j." pws="yes" id="w5879" p="NNP" group="B-NP">J.</w> <w locname="single" l="arkle" pws="yes" id="w5882" p="NNP" group="I-NP">Arkle</w><w sb="true" pws="no" id="w5887" p="." group="O">.</w></s> <s id="s157"><w locname="single" l="cheshire" pws="yes" id="w5889" p="NNP" group="B-NP">Cheshire</w><w sb="true" pws="no" id="w5897" p="." group="O">.</w></s></p> 
+
+<p><s id="s158"><w common="true" l="entomology" pws="yes" id="w5901" p="NNP" headn="yes" group="B-NP">Entomology</w> <w pws="yes" id="w5912" p="IN" group="B-PP">of</w> <w l="delamere" pws="yes" id="w5915" p="NNP" group="B-NP">Delamere</w> <w common="true" l="forest" pws="yes" id="w5924" p="NNP" group="I-NP">Forest</w> <w l="[" pws="yes" id="w5931" p="VBD" headv="yes" group="B-VP">[</w><w pws="no" id="w5932" p="CD" quty="69" group="B-NP">69</w> <w l="species" pws="yes" id="w5935" p="NNS" headn="yes" group="I-NP">species</w> <w pws="yes" id="w5943" p="IN" group="B-PP">of</w> <w l="lepidoptera" pws="yes" id="w5946" p="NNP" headn="yes" group="B-NP">Lepidoptera</w> <w l="mention" pws="yes" id="w5958" p="VBD" headv="yes" group="B-VP">mentioned</w> <w pws="yes" id="w5968" p="IN" group="B-PP">in</w></s></p> 
+
+<p><s id="s159"><w pws="yes" id="w5973" p="DT" group="B-NP">an</w> <w pws="yes" id="w5976" p="JJ" group="I-NP">unsystematic</w> <w l="account" pws="yes" id="w5989" p="NN" tmln="true" headn="yes" group="I-NP">account</w> <w pws="yes" id="w5997" p="IN" group="B-PP">of</w> <w pws="yes" id="w6000" p="DT" group="B-NP">the</w> <w l="collecting-grounds]" pws="yes" id="w6004" p="NN" headn="yes" group="I-NP">collecting-grounds]</w><w sb="true" pws="no" id="w6023" p="." group="O">.</w></s> <s id="s160"><w wlastn="true" locname="single" l="london" pws="yes" id="w6025" p="NNP" wfirstn="true" group="B-NP">London</w> <w l="ent." pws="yes" id="w6032" p="NNP" headn="yes" group="I-NP">Ent.</w><w pws="no" id="w6036" p="," group="O">,</w> <w l="jan." pws="yes" id="w6038" p="NNP" month="01" group="B-NP">Jan.</w> <w pws="yes" id="w6043" p="CD" quty="1888" year="1888" group="I-NP">1888</w><w pws="no" id="w6047" p="," group="O">,</w> <w l="xxus" pws="yes" id="w6049" p="NNS" headn="yes" group="B-NP">xxi</w><w sb="true" pws="no" id="w6052" p="." group="O">.</w></s> <s id="s161"><w pws="yes" id="w6054" p="CD" headn="yes" group="B-NP">2-5</w><w sb="true" pws="no" id="w6057" p="." group="O">.</w></s></p> 
+
+<p><s id="s162"><w l="j." pws="yes" id="w6061" p="NNP" group="B-NP">J.</w> <w locname="single" l="arkle" pws="yes" id="w6064" p="NNP" group="I-NP">Arkle</w><w sb="true" pws="no" id="w6069" p="." group="O">.</w></s> <s id="s163"><w wlastn="true" common="true" l="lane" pws="yes" id="w6071" p="NNP" pername="true" wfirstn="true" group="B-NP">Lane</w><w sb="true" pws="no" id="w6075" p="." group="O">.</w></s> <s id="s164"><w l="s" pws="yes" id="w6077" p="NNP" headn="yes" group="B-NP">S</w><w pws="no" id="w6078" p="." group="O">.</w></s></p> 
+
+<p><s id="s165"><w l="nyssium" pws="yes" id="w6082" p="NNP" headn="yes" group="B-NP">Nyssia</w> <w l="zonarium" pws="yes" id="w6089" p="NNP" headn="yes" group="I-NP">zonaria</w> <w pws="yes" id="w6097" p="CD" quty="2" group="B-NP">two</w> <w l="year" pws="yes" id="w6101" p="NNS" unit="year" group="I-NP">years</w> <w pws="yes" id="w6107" p="IN" group="B-PP">in</w> <w pws="yes" id="w6110" p="DT" group="B-NP">the</w> <w l="pupa" pws="yes" id="w6114" p="NNP" headn="yes" group="I-NP">Pupa</w> <w l="[" pws="yes" id="w6119" p="NN" headn="yes" group="I-NP">[</w><w pws="no" id="w6120" p="IN" group="B-PP">with</w> <w pws="yes" id="w6125" p="DT" group="B-NP">a</w> <w vstem="refer" l="reference" pws="yes" id="w6127" p="NN" headn="yes" group="I-NP">reference</w> <w pws="yes" id="w6137" p="TO" group="B-PP">to</w> <w pws="yes" id="w6140" p="PRP$" group="O">its</w> <w l="occur" pws="yes" id="w6144" p="VBG" headv="yes" group="B-VP">occurring</w> <w pws="yes" id="w6154" p="IN" group="B-PP">at</w> 
+<w locname="single" l="southport" pws="yes" id="w6158" p="NNP" headn="yes" group="B-NP">Southport</w><w l="]" pws="no" id="w6167" p="NNP" headn="yes" group="I-NP">]</w><w sb="true" pws="no" id="w6168" p="." group="O">.</w></s> <s id="s166"><w l="ent." pws="yes" id="w6170" p="NNP" headn="yes" group="B-NP">Ent.</w><w pws="no" id="w6174" p="," group="O">,</w> <w l="may" pws="yes" id="w6176" p="NNP" month="05" group="B-NP">May</w> <w pws="yes" id="w6180" p="CD" quty="1888" year="1888" group="I-NP">1888</w><w pws="no" id="w6184" p="," group="O">,</w> <w pws="yes" id="w6186" p="." group="O">.</w><w l="xxus" pws="no" id="w6187" p="NNS" headn="yes" group="B-NP">xxi</w><w sb="true" pws="no" id="w6190" p="." group="O">.</w></s> <s id="s167"><w pws="yes" id="w6192" p="CD" quty="140" headn="yes" group="B-NP">140</w><w sb="true" pws="no" id="w6195" p="." group="O">.</w></s></p> 
+
+<p><s id="s168"><w l="j." pws="yes" id="w6199" p="NNP" group="B-NP">J.</w> <w locname="single" l="arkle" pws="yes" id="w6202" p="NNP" group="I-NP">Arkle</w><w sb="true" pws="no" id="w6207" p="." group="O">.</w></s> <s id="s169"><w locname="single" l="cheshire" pws="yes" id="w6209" p="NNP" group="B-NP">Cheshire</w><w sb="true" pws="no" id="w6217" p="." group="O">.</w></s></p> 
+
+<p><s id="s170"><w l="spring" pws="yes" id="w6221" p="VBG" headn="yes" group="B-NP">Spring</w> <w l="lepidoptera" pws="yes" id="w6228" p="NNP" headn="yes" group="I-NP">Lepidoptera</w> <w pws="yes" id="w6240" p="IN" group="B-PP">in</w> <w locname="single" l="cheshire" pws="yes" id="w6243" p="NNP" group="B-NP">Cheshire</w> <w l="[" pws="yes" id="w6252" p="NNP" headn="yes" group="I-NP">[</w><w pws="no" id="w6253" p="IN" group="B-PP">in</w> <w locname="single" l="delamere" pws="yes" id="w6256" p="NNP" group="B-NP">Delamere</w> <w wlastn="true" locname="single" l="london" pws="yes" id="w6265" p="NNP" wfirstn="true" group="I-NP">London</w> <w common="true" l="forest" pws="yes" id="w6272" p="NNP" wfirstn="true" headn="yes" group="I-NP">Forest</w><w pws="no" id="w6278" p="," group="O">,</w> <w l="march" pws="yes" id="w6280" p="NNP" group="B-NP">March</w> <w l="loth" pws="yes" id="w6286" p="NN" headn="yes" group="B-NP">loth</w><w pws="no" id="w6290" p="," group="O">,</w> <w pws="yes" id="w6292" p="CD" quty="1888" group="B-NP">1888</w> <w pws="yes" id="w6297" p=":" group="O">;</w></s></p> 
+
+<p><s id="s171"><w l="hybcrnium" pws="yes" id="w6301" p="NNP" headn="yes" group="B-NP">Hybcrnia</w> <w l="leiicophicarium" pws="yes" id="w6310" p="NNP" headn="yes" group="I-NP">leiicophicaria</w><w pws="no" id="w6324" p="," group="O">,</w> <w l="phigalium" pws="yes" id="w6326" p="NNP" headn="yes" group="B-NP">Phigalia</w> <w l="pedarium" pws="yes" id="w6335" p="NN" headn="yes" group="I-NP">pedaria</w><w pws="no" id="w6342" p="," group="O">,</w> <w l="lareiif" pws="yes" id="w6344" p="NNP" headn="yes" group="B-NP">Lareiif</w><w l="/" pws="no" id="w6351" p="VBD" headv="yes" group="B-VP">/</w><w pws="no" id="w6352" p="DT" group="B-NP">a</w> <w l="ntiiltistrigarium" pws="yes" id="w6354" p="NN" headn="yes" group="I-NP">ntiiltistrigaria</w><w pws="no" id="w6370" p="," headn="yes" group="I-NP">,</w> <w l="asplialium" pws="yes" id="w6372" p="NNP" headn="yes" group="I-NP">Asplialia</w> 
+<w l="jlavicorni" pws="yes" id="w6383" p="NNP" headn="yes" group="I-NP">Jlavicornis</w><w pws="no" id="w6394" p="," headn="yes" group="I-NP">,</w> <w l="nyssium" pws="yes" id="w6396" p="NNP" headn="yes" group="I-NP">Nyssia</w> <w l="hispidarium" pws="yes" id="w6403" p="NNP" headn="yes" group="I-NP">hispidaria</w><w pws="no" id="w6413" p="," headn="yes" group="I-NP">,</w> <w pws="yes" id="w6415" p="CC" headn="yes" group="I-NP">and</w> <w l="cyinatopjtora" pws="yes" id="w6419" p="NNP" headn="yes" group="I-NP">CyinatopJtora</w> <w pws="yes" id="w6433" p="CC" group="O">or</w><w pws="no" id="w6435" p="," group="O">,</w> <w pws="yes" id="w6437" p="DT" group="B-NP">the</w> <w pws="yes" id="w6441" p="NN" headn="yes" prevtag="JJ" group="I-NP">latter</w> <w pws="yes" id="w6448" p="CD" quty="2" headn="yes" group="B-NP">two</w> <w l="be" pws="yes" id="w6452" p="VBG" headv="yes" group="B-VP">being</w> 
+<w vstem="add" l="addition" pws="yes" id="w6459" p="NNS" tmln="true" headn="yes" group="B-NP">additions</w> <w pws="yes" id="w6469" p="TO" group="B-PP">to</w> <w pws="yes" id="w6472" p="DT" group="B-NP">the</w> <w locname="single" l="chester" pws="yes" id="w6476" p="NNP" wfirstn="true" group="I-NP">Chester</w> <w common="true" l="society" pws="yes" id="w6484" p="NNP" headn="yes" group="I-NP">Society</w><w pws="no" id="w6491" p="POS" group="I-NP">'s</w> <w locname="single" l="delamere" pws="yes" id="w6494" p="NNP" group="I-NP">Delamere</w> <w l="list" pws="yes" id="w6503" p="NN" headn="yes" group="I-NP">list</w><w l="]" pws="no" id="w6507" p="NN" headn="yes" group="I-NP">]</w><w sb="true" pws="no" id="w6508" p="." group="O">.</w></s> <s id="s172"><w l="ent." pws="yes" id="w6510" p="NNP" headn="yes" group="B-NP">Ent.</w><w pws="no" id="w6514" p="," group="O">,</w> <w l="june" pws="yes" id="w6516" p="NNP" month="06" group="B-NP">June</w> <w pws="yes" id="w6521" p="CD" quty="1888" year="1888" group="I-NP">1888</w><w pws="no" id="w6525" p="," group="O">,</w> <w l="xxus" pws="yes" id="w6527" p="NNS" headn="yes" group="B-NP">xxi</w><w sb="true" pws="no" id="w6530" p="." group="O">.</w></s> <s id="s173"><w pws="yes" id="w6532" p="CD" quty="161" headn="yes" group="B-NP">161</w><w sb="true" pws="no" id="w6535" p="." group="O">.</w></s></p> 
+
+<p><s id="s174"><w l="j." pws="yes" id="w6539" p="NNP" group="B-NP">J.</w> <w locname="single" l="arkle" pws="yes" id="w6542" p="NNP" group="I-NP">Arkle</w><w sb="true" pws="no" id="w6547" p="." group="O">.</w></s> <s id="s175"><w locname="single" l="cheshire" pws="yes" id="w6549" p="NNP" group="B-NP">Cheshire</w><w pws="no" id="w6557" p="," group="O">,</w> <w locname="single" l="durham" pws="yes" id="w6559" p="NNP" group="B-NP">Durham</w><w sb="true" pws="no" id="w6565" p="." group="O">.</w></s></p> 
+
+<p><s id="s176"><w l="deilephilum" pws="yes" id="w6569" p="NNP" headn="yes" group="B-NP">Deilephila</w> <w l="galius" pws="yes" id="w6580" p="NNP" headn="yes" group="I-NP">galii</w> <w pws="yes" id="w6586" p="IN" group="B-PP">in</w> <w locname="single" l="cheshire" pws="yes" id="w6589" p="NNP" group="B-NP">Cheshire</w> <w l="[" pws="yes" id="w6598" p="NNP" headn="yes" group="I-NP">[</w><w pws="no" id="w6599" p="JJ" group="I-NP">numerous</w> <w l="larvte" pws="yes" id="w6608" p="NN" headn="yes" group="I-NP">larvte</w> <w pws="yes" id="w6615" p="IN" group="B-PP">on</w> <w pws="yes" id="w6618" p="DT" group="B-NP">the</w> <w locname="single" l="wallasey" pws="yes" id="w6622" p="NNP" group="I-NP">Wallasey</w> <w l="sandhill" pws="yes" id="w6631" p="NNS" headn="yes" group="I-NP">sandhills</w> <w pws="yes" id="w6641" p=":" group="O">;</w></s></p> 
+
+<p><s id="s177"><w l="account" pws="yes" id="w6645" p="NN" tmln="true" headn="yes" group="B-NP">account</w> <w l="give" pws="yes" id="w6653" p="VBN" headv="yes" group="B-VP">given</w> <w pws="yes" id="w6659" p=":" group="O">;</w> <w vstem="refer" l="reference" pws="yes" id="w6661" p="NN" headn="yes" group="B-NP">reference</w> <w pws="yes" id="w6671" p="TO" group="B-PP">to</w> <w vstem="occur" l="occurrence" pws="yes" id="w6674" p="NN" event="true" headn="yes" group="B-NP">occurrence</w> <w pws="yes" id="w6685" p="IN" group="B-PP">near</w> <w common="true" l="south" pws="yes" id="w6690" p="NNP" group="B-NP">South</w> <w common="true" l="shield" pws="yes" id="w6696" p="NNP" group="I-NP">Shields</w> <w pws="yes" id="w6704" p="DT" headn="yes" group="B-NP">some</w> <w pws="yes" id="w6709" p="CD" quty="20" group="B-NP">twenty</w> <w l="year" pws="yes" id="w6716" p="NNS" unit="year" group="I-NP">years</w></s></p> 
+
+<p><s id="s178"><w pws="yes" id="w6724" p="IN" group="B-PP">ago</w><w l="]" pws="no" id="w6727" p="NN" headn="yes" group="B-NP">]</w><w sb="true" pws="no" id="w6728" p="." group="O">.</w></s> <s id="s179"><w l="ent." pws="yes" id="w6730" p="NNP" headn="yes" group="B-NP">Ent.</w><w pws="no" id="w6734" p="," group="O">,</w> <w l="oct." pws="yes" id="w6736" p="NNP" month="10" group="B-NP">Oct.</w> <w pws="yes" id="w6741" p="CD" quty="1888" year="1888" group="I-NP">1888</w><w pws="no" id="w6745" p="," group="O">,</w> <w l="xxus" pws="yes" id="w6747" p="NNS" headn="yes" group="B-NP">xxi</w><w sb="true" pws="no" id="w6750" p="." group="O">.</w></s> <s id="s180"><w pws="yes" id="w6752" p="CD" quty="256" headn="yes" group="B-NP">256</w><w sb="true" pws="no" id="w6755" p="." group="O">.</w></s></p> 
+
+<p><s id="s181"><w l="j." pws="yes" id="w6759" p="NNP" group="B-NP">J.</w> <w locname="single" l="arkle" pws="yes" id="w6762" p="NNP" group="I-NP">Arkle</w><w sb="true" pws="no" id="w6767" p="." group="O">.</w></s> <s id="s182"><w locname="single" l="cheshire" pws="yes" id="w6769" p="NNP" group="B-NP">Cheshire</w><w pws="no" id="w6777" p="," group="I-NP">,</w> <w wlastn="true" common="true" l="lane" pws="yes" id="w6779" p="NNP" pername="true" wfirstn="true" group="I-NP">Lane</w><w sb="true" pws="no" id="w6783" p="." group="O">.</w></s> <s id="s183"><w l="s." pws="yes" id="w6785" p="NNP" headn="yes" group="B-NP">S.</w> <w pws="yes" id="w6788" p="CC" headn="yes" group="I-NP">and</w> <w l="w." pws="yes" id="w6792" p="NNP" headn="yes" group="I-NP">W.</w><w pws="no" id="w6794" p="," group="O">,</w> <w locname="single" l="furness" pws="yes" id="w6796" p="NNP" group="B-NP">Furness</w><w sb="true" pws="no" id="w6803" p="." group="O">.</w></s></p> 
+
+<p><s id="s184"><w common="true" l="note" pws="yes" id="w6807" p="NNS" class="reporting" headn="yes" group="B-NP">Notes</w> <w pws="yes" id="w6813" p="IN" group="B-PP">from</w> <w pws="yes" id="w6818" p="DT" group="B-NP">the</w> <w l="north-west" pws="yes" id="w6822" p="NNP" headn="yes" group="I-NP">North-West</w> <w common="true" l="county" pws="yes" id="w6833" p="NNPS" headn="yes" group="I-NP">Counties</w> <w l="[" pws="yes" id="w6842" p="NNP" headn="yes" group="I-NP">[</w><w pws="no" id="w6843" p="FW" group="O">i.e.</w> <w locname="single" l="cheshire" pws="yes" id="w6848" p="NNP" group="B-NP">Cheshire</w> <w pws="yes" id="w6857" p="(" group="O">(</w><w locname="single" l="chester" pws="no" id="w6858" p="NNP" wfirstn="true" group="B-NP">Chester</w><w pws="no" id="w6865" p="," group="O">,</w> <w locname="single" l="delamere" pws="yes" id="w6867" p="NNP" group="B-NP">Delamere</w></s></p> 
+
+<p><s id="s185"><w common="true" l="forest" pws="yes" id="w6878" p="NNP" wfirstn="true" headn="yes" group="B-NP">Forest</w><w pws="no" id="w6884" p="," group="O">,</w> <w l="w" pws="yes" id="w6886" p="NNP" headn="yes" group="B-NP">W</w><w l="^" pws="no" id="w6887" p="NNP" headn="yes" group="I-NP">^</w><w pws="no" id="w6888" p="JJ" group="I-NP">allasey</w> <w l="sandhill" pws="yes" id="w6896" p="NNS" headn="yes" group="I-NP">sandhills</w><w pws="no" id="w6905" p="," group="O">,</w> <w locname="single" l="hoylake" pws="yes" id="w6907" p="NNP" group="B-NP">Hoylake</w><w pws="no" id="w6914" p=")" group="O">)</w><w pws="no" id="w6915" p="," group="O">,</w> <w common="true" l="south" pws="yes" id="w6917" p="NNP" group="B-NP">South</w> <w locname="single" l="lancashire" pws="yes" id="w6923" p="NNP" group="I-NP">Lancashire</w> <w pws="yes" id="w6934" p="(" group="O">(</w><w locname="single" l="southport" pws="no" id="w6935" p="NNP" group="B-NP">Southport</w><w pws="no" id="w6944" p=")" group="O">)</w><w pws="no" id="w6945" p="," group="O">,</w> <w wlastn="true" common="true" l="west" pws="yes" id="w6947" p="NNP" wfirstn="true" headn="yes" group="B-NP">West</w></s></p> 
+
+<p><s id="s186"><w locname="single" l="lancashire" pws="yes" id="w6954" p="NNP" group="B-NP">Lancashire</w> <w pws="yes" id="w6965" p="(" group="O">(</w><w l="heysham" pws="no" id="w6966" p="NNP" group="B-NP">Heysham</w> <w common="true" l="moss" pws="yes" id="w6974" p="NNP" group="I-NP">Moss</w> <w pws="yes" id="w6979" p="IN" group="B-PP">near</w> <w locname="single" l="morecambe" pws="yes" id="w6984" p="NNP" group="B-NP">Morecambe</w><w pws="no" id="w6993" p=")" group="O">)</w><w pws="no" id="w6994" p="," group="O">,</w> <w pws="yes" id="w6996" p="CC" group="O">and</w> <w locname="single" l="furness" pws="yes" id="w7000" p="NNP" group="B-NP">Furness</w> <w pws="yes" id="w7008" p="(" group="O">(</w><w locname="single" l="witherslack" pws="no" id="w7009" p="NNP" headn="yes" group="B-NP">Witherslack</w></s></p> 
+
+<p><s id="s187"><w common="true" l="naturalist" pws="yes" id="w7023" p="NNP" headn="yes" group="B-NP">Naturalist</w><w pws="no" id="w7033" p="," group="O">,</w></s></p> 
+
+
+<p><s id="s188"><w l="&lt;" pws="yes" id="w7038" p="NNP" headn="yes" group="B-NP">&lt;</w><w l="phy" pws="no" id="w7039" p="NNP" headn="yes" group="I-NP">Phy</w><w l="_" pws="no" id="w7042" p="NNP" headn="yes" group="I-NP">_</w><w pws="no" id="w7043" p="CD" quty="1845" group="B-NP">1845</w><w l="_" pws="no" id="w7047" p="NNP" headn="yes" group="B-NP">_</w><w pws="no" id="w7048" p="CD" quty="427" headn="yes" group="I-NP">427</w><w l=">" pws="no" id="w7051" p="NN" headn="yes" group="B-NP">&gt;</w></s></p>
+
+<p><s id="s189"><w pws="yes" id="w7054" p="CD" quty="427" group="O">427</w></s></p> 
+
+<p><s id="s190"><w pws="yes" id="w7060" p="PRP" group="B-NP">it</w> <w l="escape" pws="yes" id="w7063" p="VBD" headv="yes" group="B-VP">escaped</w> <w pws="yes" id="w7071" p="RB" group="B-ADVP">occasionally</w> <w pws="yes" id="w7084" p="IN" group="B-PP">in</w> <w pws="yes" id="w7087" p="DT" group="B-NP">the</w> <w l="south" pws="yes" id="w7091" p="NN" headn="yes" group="I-NP">south</w> <w pws="yes" id="w7097" p="IN" group="B-PP">of</w> <w locname="single" l="england" pws="yes" id="w7100" p="NNP" country="true" group="B-NP">England</w><w sb="true" pws="no" id="w7107" p="." group="O">.</w></s> <s id="s191"><w l="l." pws="yes" id="w7109" p="NNP" group="B-NP">L.</w> <w l="cymbalarium" pws="yes" id="w7112" p="NNP" group="I-NP">Cymbalaria</w> <w l="have" pws="yes" id="w7123" p="VBZ" headv="yes" group="B-VP">has</w> 
+<w pws="yes" id="w7128" p="RB" group="B-ADVP">indeed</w> <w pws="yes" id="w7135" p="DT" group="B-NP">a</w> <w pws="yes" id="w7137" p="RB" group="I-NP">very</w> <w pws="yes" id="w7142" p="JJ" group="I-NP">wild</w> <w vstem="appear" l="appearance" pws="yes" id="w7147" p="NN" headn="yes" group="I-NP">appearance</w> <w pws="yes" id="w7158" p="IN" group="B-PP">in</w> <w pws="yes" id="w7161" p="JJ" group="B-NP">many</w> <w l="part" pws="yes" id="w7166" p="NNS" tmln="true" headn="yes" group="I-NP">parts</w> <w pws="yes" id="w7172" p="IN" group="B-PP">of</w> <w pws="yes" id="w7175" p="DT" group="B-NP">the</w> <w l="country" pws="yes" id="w7179" p="NN" headn="yes" group="I-NP">country</w><w sb="true" pws="no" id="w7186" p="." group="O">.</w></s> <s id="s192"><w pws="yes" id="w7188" p="PRP" group="B-NP">It</w> <w l="be" pws="yes" id="w7191" p="VBZ" group="B-VP">is</w> 
+<w l="become" pws="yes" id="w7195" p="VBN" class="istate" headv="yes" group="I-VP">become</w> <w pws="yes" id="w7202" p="RB" group="B-ADJP">very</w> <w tmla="true" pws="yes" id="w7207" p="JJ" group="I-ADJP">common</w> <w pws="yes" id="w7214" p="IN" group="B-PP">in</w> <w locname="single" l="sussex" pws="yes" id="w7217" p="NNP" group="B-NP">Sussex</w> <w pws="yes" id="w7224" p="IN" group="B-PP">since</w> <w pws="yes" id="w7230" p="PRP" group="B-NP">I</w> <w l="bring" pws="yes" id="w7232" p="VBD" headv="yes" group="B-VP">brought</w> <w pws="yes" id="w7240" p="PRP" group="B-NP">it</w> <w pws="yes" id="w7243" p="IN" group="B-PP">in</w> <w pws="yes" id="w7246" p="PRP$" group="B-NP">my</w> <w l="pocket" pws="yes" id="w7249" p="NN" headn="yes" group="I-NP">pocket</w><w pws="no" id="w7255" p="," group="O">,</w> <w pws="yes" id="w7257" p="WRB" group="B-ADVP">when</w> 
+<w pws="yes" id="w7263" p="DT" group="B-NP">a</w> <w l="boy" pws="yes" id="w7265" p="NN" headn="yes" group="I-NP">boy</w><w pws="no" id="w7268" p="," group="O">,</w> <w pws="yes" id="w7270" p="IN" group="B-PP">from</w> <w locname="single" l="westminster" pws="yes" id="w7275" p="NNP" group="B-NP">Westminster</w> <w common="true" l="bridge" pws="yes" id="w7287" p="NNP" headn="yes" group="I-NP">Bridge</w><w pws="no" id="w7293" p="," group="O">,</w> <w pws="yes" id="w7295" p="DT" group="B-NP">the</w> <w pws="yes" id="w7299" p="JJ" quty="1" group="I-NP">first</w> <w l="time" pws="yes" id="w7305" p="NN" event="true" tmln="true" headn="yes" group="I-NP">time</w> <w pws="yes" id="w7310" p="PRP" group="B-NP">I</w> <w pws="yes" id="w7312" p="RB" group="B-ADVP">ever</w> <w l="meet" pws="yes" id="w7317" p="VBD" headv="yes" group="B-VP">met</w> <w pws="yes" id="w7321" p="IN" group="B-PP">with</w> <w pws="yes" id="w7326" p="PRP" group="B-NP">it</w><w sb="true" pws="no" id="w7328" p="." group="O">.</w></s> <s id="s193"><w pws="yes" id="w7330" p="PRP" group="B-NP">I</w> 
+<w l="have" pws="yes" id="w7333" p="VBP" group="B-VP">have</w> <w l="see" pws="yes" id="w7338" p="VBN" class="istate" headv="yes" group="I-VP">seen</w> <w pws="yes" id="w7343" p="PRP" group="B-NP">it</w> <w l="look" pws="yes" id="w7346" p="VBG" headv="yes" group="B-VP">looking</w> <w pws="yes" id="w7354" p="RB" group="B-ADJP">very</w> <w pws="yes" id="w7359" p="JJ" group="I-ADJP">native-like</w> <w pws="yes" id="w7371" p="IN" group="B-PP">near</w> <w locname="single" l="boxgrove" pws="yes" id="w7376" p="NNP" group="B-NP">Boxgrove</w><w pws="no" id="w7384" p="," group="O">,</w> <w pws="yes" id="w7386" p="RB" group="B-ADVP">not</w><w pws="no" id="w7389" p="," group="O">,</w> <w pws="yes" id="w7391" p="IN" group="B-PP">as</w> <w pws="yes" id="w7394" p="JJ" group="B-ADJP">usual</w><w pws="no" id="w7399" p="," group="O">,</w> <w pws="yes" id="w7401" p="IN" group="B-PP">on</w> 
+<w pws="yes" id="w7405" p="DT" group="B-NP">a</w> <w l="wall" pws="yes" id="w7407" p="NN" headn="yes" group="I-NP">wall</w><w pws="no" id="w7411" p="," group="O">,</w> <w pws="yes" id="w7413" p="CC" group="O">but</w> <w pws="yes" id="w7417" p="IN" group="B-PP">on</w> <w pws="yes" id="w7420" p="DT" group="B-NP">a</w> <w pws="yes" id="w7422" p="NN" headn="yes" prevtag="JJ" group="I-NP">hedge-bank</w> <w pws="yes" id="w7433" p="IN" group="B-PP">by</w> <w pws="yes" id="w7436" p="DT" group="B-NP">the</w> <w l="road-side" pws="yes" id="w7440" p="NN" headn="yes" group="I-NP">road-side</w><w sb="true" pws="no" id="w7449" p="." group="O">.</w></s> <s id="s194"><w pws="yes" id="w7451" p="PRP" group="B-NP">I</w> <w l="know" pws="yes" id="w7453" p="VBP" class="istate" group="O">know</w> <w pws="yes" id="w7458" p="RB" group="B-ADVP">not</w> <w pws="yes" id="w7462" p="IN" group="B-PP">whether</w> 
+<w pws="yes" id="w7471" p="PRP" group="B-NP">it</w> <w l="continue" pws="yes" id="w7474" p="VBZ" class="aspectual" headv="yes" group="B-VP">continues</w> <w pws="yes" id="w7484" p="RB" group="B-ADVP">there</w><w sb="true" pws="no" id="w7489" p="." group="O">.</w></s></p> 
+
+<p><s id="s195"><w pws="yes" id="w7493" p="PRP" group="B-NP">I</w> <w l="can" pws="yes" id="w7495" p="MD" group="B-VP">can</w> <w pws="yes" id="w7499" p="RB" group="I-VP">scarcely</w> <w l="doubt" pws="yes" id="w7508" p="VB" headv="yes" group="I-VP">doubt</w> <w pws="yes" id="w7514" p="IN" group="B-SBAR">that</w> <w l="impatiens" pws="yes" id="w7519" p="NNP" headn="yes" group="B-NP">Impatiens</w> <w l="noli-me-tangere" pws="yes" id="w7529" p="NNP" headn="yes" group="I-NP">Noli-me-tangere</w> <w l="be" pws="yes" id="w7545" p="VBZ" headv="yes" group="B-VP">is</w> <w pws="yes" id="w7548" p="RB" group="B-ADJP">truly</w> <w pws="yes" id="w7554" p="JJ" group="I-ADJP">indi</w><w pws="no" id="w7558" p=":" group="O">-</w> 
+<w pws="yes" id="w7561" p="JJ" group="B-ADJP">genous</w> <w pws="yes" id="w7568" p="IN" group="B-PP">in</w> <w locname="single" l="westmoreland" pws="yes" id="w7571" p="NNP" group="B-NP">Westmoreland</w><w sb="true" pws="no" id="w7583" p="." group="O">.</w></s> <s id="s196"><w pws="yes" id="w7585" p="PRP" group="B-NP">It</w> <w l="be" pws="yes" id="w7588" p="VBZ" group="B-VP">is</w> <w pws="yes" id="w7591" p="RB" neg="yes" group="I-VP">not</w> <w l="confine" pws="yes" id="w7595" p="VBN" headv="yes" group="I-VP">confined</w> <w pws="yes" id="w7604" p="TO" group="B-PP">to</w> <w common="true" l="stock" pws="yes" id="w7607" p="NNP" headn="yes" group="B-NP">Stock</w> <w wlastn="true" common="true" l="gill" pws="yes" id="w7613" p="NNP" wfirstn="true" headn="yes" group="I-NP">Gill</w> <w pws="yes" id="w7618" p="(" group="O">(</w><w pws="no" id="w7619" p="WRB" group="B-ADVP">where</w> <w pws="yes" id="w7625" p="PRP" group="B-NP">I</w> 
+<w l="see" pws="yes" id="w7628" p="VBD" class="istate" headv="yes" group="B-VP">saw</w> <w pws="yes" id="w7632" p="PRP" group="B-NP">it</w> <w pws="yes" id="w7635" p="IN" group="B-PP">in</w> <w pws="yes" id="w7638" p="CD" quty="1810" group="B-NP">1810</w><w pws="no" id="w7642" p="," group="O">,</w> <w pws="yes" id="w7644" p="CC" group="O">and</w> <w pws="yes" id="w7648" p="WRB" group="B-ADVP">where</w><w pws="no" id="w7653" p="," group="O">,</w> <w pws="yes" id="w7655" p="IN" group="B-PP">as</w> <w l="mr." pws="yes" id="w7658" p="NNP" group="B-NP">Mr.</w> <w wlastn="true" locname="single" l="gibson" pws="yes" id="w7662" p="NNP" orgname="brand" wfirstn="true" group="I-NP">Gibson</w> <w l="observe" pws="yes" id="w7669" p="VBZ" headv="yes" group="B-VP">observes</w><w pws="no" id="w7677" p="," group="O">,</w> <w pws="yes" id="w7679" p="PRP" group="B-NP">it</w> <w pws="yes" id="w7682" p="RB" group="B-ADVP">still</w> <w l="grow" pws="yes" id="w7688" p="VBZ" headv="yes" group="B-VP">grows</w><w pws="no" id="w7693" p=")" group="O">)</w><w pws="no" id="w7694" p="," group="O">,</w> <w pws="yes" id="w7696" p="CC" group="O">but</w> 
+<w pws="yes" id="w7701" p="RB" group="B-PP">far</w> <w pws="yes" id="w7705" p="IN" group="I-PP">up</w> <w pws="yes" id="w7708" p="DT" group="B-NP">the</w> <w l="scandale" pws="yes" id="w7712" p="NNP" group="I-NP">Scandale</w> <w common="true" l="beck" pws="yes" id="w7721" p="NNP" group="I-NP">Beck</w><w pws="no" id="w7725" p="," group="O">,</w> <w pws="yes" id="w7727" p="CC" group="O">and</w> <w l="separate" pws="yes" id="w7731" p="VBD" headv="yes" group="B-VP">separated</w> <w pws="yes" id="w7741" p="IN" group="B-PP">from</w> <w common="true" l="stock" pws="yes" id="w7746" p="NNP" headn="yes" group="B-NP">Stock</w> <w wlastn="true" common="true" l="gill" pws="yes" id="w7752" p="NNP" wfirstn="true" headn="yes" group="I-NP">Gill</w> <w pws="yes" id="w7757" p="IN" group="B-PP">by</w> <w pws="yes" id="w7760" p="DT" group="B-NP">the</w> <w l="ridge" pws="yes" id="w7764" p="NN" headn="yes" group="I-NP">ridge</w> 
+<w l="run" pws="yes" id="w7771" p="VBG" headv="yes" group="B-VP">running</w> <w pws="yes" id="w7779" p="RB" group="B-ADVP">down</w> <w pws="yes" id="w7784" p="IN" group="B-PP">from</w> <w pws="yes" id="w7789" p="DT" group="B-NP">the</w> <w l="snaka" pws="yes" id="w7793" p="NNP" headn="yes" group="I-NP">Snaka</w> <w wlastn="true" common="true" l="moss" pws="yes" id="w7799" p="NNP" wfirstn="true" headn="yes" group="I-NP">Moss</w><w pws="no" id="w7803" p="," group="O">,</w> <w pws="yes" id="w7805" p="CC" group="O">and</w> <w pws="yes" id="w7809" p="IN" group="B-PP">in</w> <w pws="yes" id="w7812" p="JJ" group="B-NP">various</w> <w l="place" pws="yes" id="w7820" p="NNS" tmln="true" headn="yes" group="I-NP">places</w> <w pws="yes" id="w7827" p="IN" group="B-PP">by</w> <w common="true" l="win" pws="yes" id="w7830" p="NNP" event="true" wfirstn="true" headn="yes" group="B-NP">Win</w><w pws="no" id="w7833" p=":" group="O">-</w> 
+<w l="dermere" pws="yes" id="w7836" p="NN" headn="yes" group="B-NP">dermere</w><w pws="no" id="w7843" p="," group="O">,</w> <w pws="yes" id="w7845" p="IN" group="B-PP">into</w> <w pws="yes" id="w7850" p="WDT" headn="yes" group="B-NP">which</w> <w l="lake" pws="yes" id="w7856" p="VBP" headv="yes" group="B-VP">lake</w> <w pws="yes" id="w7861" p="DT" group="B-NP">the</w> <w l="water" pws="yes" id="w7865" p="NNS" headn="yes" group="I-NP">waters</w> <w pws="yes" id="w7872" p="IN" group="B-PP">of</w> <w pws="yes" id="w7875" p="DT" headn="yes" group="B-NP">both</w> <w pws="yes" id="w7880" p="DT" group="I-NP">these</w> <w l="stream" pws="yes" id="w7886" p="NNS" headn="yes" group="I-NP">streams</w><w pws="no" id="w7893" p="," group="O">,</w> <w pws="yes" id="w7895" p="IN" group="B-PP">after</w> <w l="unit" pws="yes" id="w7901" p="NN" headn="yes" group="B-NP">unit</w><w pws="no" id="w7905" p=":" group="O">-</w> 
+<w l="ing" pws="yes" id="w7908" p="VBG" headv="yes" group="B-VP">ing</w> <w pws="yes" id="w7912" p="IN" group="B-PP">with</w> <w pws="yes" id="w7917" p="DT" group="B-NP">the</w> <w l="rothay" pws="yes" id="w7921" p="NNP" headn="yes" group="I-NP">Rothay</w> <w pws="yes" id="w7928" p="CC" group="O">and</w> <w pws="yes" id="w7932" p="DT" group="B-NP">the</w> <w l="brathay" pws="yes" id="w7936" p="NNP" headn="yes" group="I-NP">Brathay</w><w pws="no" id="w7943" p="," group="O">,</w> <w l="be" pws="yes" id="w7945" p="VBP" group="B-VP">are</w> <w pws="yes" id="w7949" p="RB" group="I-VP">ultimately</w> <w l="discharge" pws="yes" id="w7960" p="VBN" headv="yes" group="I-VP">discharged</w><w sb="true" pws="no" id="w7970" p="." group="O">.</w></s></p> 
+
+<p><s id="s197"><w l="spircea" pws="yes" id="w7974" p="NNP" headn="yes" group="B-NP">Spircea</w> <w l="salicifolium" pws="yes" id="w7982" p="NN" headn="yes" group="I-NP">salicifolia</w> <w l="have" pws="yes" id="w7994" p="VBZ" group="B-VP">has</w> <w pws="yes" id="w7998" p="RB" group="I-VP">long</w> <w l="be" pws="yes" id="w8003" p="VBN" group="I-VP">been</w> <w l="record" pws="yes" id="w8008" p="VBN" headv="yes" group="I-VP">recorded</w> <w pws="yes" id="w8017" p="IN" group="B-PP">as</w> <w pws="yes" id="w8020" p="DT" group="B-NP">a</w> <w l="native" pws="yes" id="w8022" p="NN" headn="yes" group="I-NP">native</w> <w pws="yes" id="w8029" p="IN" group="B-PP">of</w> <w pws="yes" id="w8032" p="DT" group="B-NP">the</w> <w l="shore" pws="yes" id="w8036" p="NNS" headn="yes" group="I-NP">shores</w> 
+<w pws="yes" id="w8044" p="IN" group="B-PP">of</w> <w locname="single" l="windermere" pws="yes" id="w8047" p="NNP" group="B-NP">Windermere</w> <w pws="yes" id="w8058" p=":" group="O">;</w> <w pws="yes" id="w8060" p="RB" group="B-ADVP">yet</w> <w pws="yes" id="w8064" p="PRP" group="B-NP">I</w> <w l="regard" pws="yes" id="w8066" p="VBP" headv="yes" group="B-VP">regard</w> <w pws="yes" id="w8073" p="PRP" group="B-NP">it</w> <w pws="yes" id="w8076" p="IN" group="B-PP">as</w> <w pws="yes" id="w8079" p="RBS" group="B-ADVP">most</w> <w pws="yes" id="w8084" p="RB" group="I-ADVP">probably</w> <w l="introduce" pws="yes" id="w8093" p="VBN" group="O">introduced</w><w pws="no" id="w8103" p="," group="O">,</w> <w pws="yes" id="w8105" p="IN" group="B-PP">like</w> 
+<w wlastn="true" l="rosa" pws="yes" id="w8111" p="NNP" pername="true" wfirstn="true" headn="yes" group="B-NP">Rosa</w> <w l="alpina" pws="yes" id="w8116" p="NNP" headn="yes" group="I-NP">alpina</w><w pws="no" id="w8122" p="," group="O">,</w> <w pws="yes" id="w8124" p="IN" group="B-PP">of</w> <w pws="yes" id="w8127" p="WDT" headn="yes" group="B-NP">which</w> <w pws="yes" id="w8133" p="EX" headn="yes" group="B-NP">there</w> <w l="be" pws="yes" id="w8139" p="VBP" headv="yes" group="B-VP">are</w> <w pws="yes" id="w8143" p="JJ" group="B-NP">many</w> <w l="bush" pws="yes" id="w8148" p="NNS" headn="yes" group="I-NP">bushes</w> <w pws="yes" id="w8155" p="IN" group="B-PP">along</w> <w pws="yes" id="w8161" p="DT" group="B-NP">the</w> <w l="road" pws="yes" id="w8165" p="NN" headn="yes" group="I-NP">road</w> <w pws="yes" id="w8170" p="IN" group="B-PP">through</w> 
+<w pws="yes" id="w8179" p="DT" group="B-NP">the</w> <w l="bellegrange" pws="yes" id="w8183" p="NNP" group="I-NP">Bellegrange</w> <w l="wood" pws="yes" id="w8195" p="NNS" group="I-NP">woods</w> <w pws="yes" id="w8201" p="IN" group="B-PP">on</w> <w pws="yes" id="w8204" p="DT" group="B-NP">the</w> <w pws="yes" id="w8208" p="JJ" group="I-NP">western</w> <w l="shore" pws="yes" id="w8216" p="NN" headn="yes" group="I-NP">shore</w><w sb="true" pws="no" id="w8221" p="." group="O">.</w></s> <s id="s198"><w pws="yes" id="w8223" p="DT" group="B-NP">The</w> <w l="spiraea" pws="yes" id="w8227" p="NN" headn="yes" group="I-NP">Spiraea</w> <w l="grow" pws="yes" id="w8235" p="VBZ" headv="yes" group="B-VP">grows</w> <w pws="yes" id="w8241" p="RB" group="B-ADVP">also</w> 
+<w pws="yes" id="w8247" p="IN" group="B-PP">in</w> <w pws="yes" id="w8250" p="DT" group="B-NP">a</w> <w l="hedge" pws="yes" id="w8252" p="NN" headn="yes" group="I-NP">hedge</w> <w pws="yes" id="w8258" p="IN" group="B-PP">by</w> <w pws="yes" id="w8261" p="DT" group="B-NP">the</w> <w l="road" pws="yes" id="w8265" p="NN" headn="yes" group="I-NP">road</w> <w pws="yes" id="w8270" p="IN" group="B-PP">from</w> <w locname="single" l="penrith" pws="yes" id="w8275" p="NNP" group="B-NP">Penrith</w> <w pws="yes" id="w8283" p="TO" group="B-PP">to</w> <w locname="single" l="wigton" pws="yes" id="w8286" p="NNP" group="B-NP">Wigton</w><w pws="no" id="w8292" p="," group="O">,</w> <w pws="yes" id="w8294" p="RB" group="B-ADVP">not</w> <w pws="yes" id="w8298" p="RB" group="I-ADVP">far</w> <w pws="yes" id="w8302" p="IN" group="B-PP">from</w> <w l="hutton" pws="yes" id="w8307" p="NNP" group="B-NP">Hutton</w> 
+<w common="true" l="hall" pws="yes" id="w8315" p="NNP" group="I-NP">Hall</w><w sb="true" pws="no" id="w8319" p="." group="O">.</w></s> <s id="s199"><w pws="yes" id="w8321" p="PRP" group="B-NP">I</w> <w l="doubt" pws="yes" id="w8323" p="VBP" headv="yes" group="B-VP">doubt</w> <w pws="yes" id="w8329" p="JJ" headn="yes" group="B-NP">much</w> <w pws="yes" id="w8334" p="IN" group="B-PP">whether</w> <w pws="yes" id="w8342" p="PRP" group="B-NP">it</w> <w l="be" pws="yes" id="w8345" p="VBZ" headv="yes" group="B-VP">is</w> <w pws="yes" id="w8348" p="RB" group="B-ADJP">truly</w> <w pws="yes" id="w8354" p="JJ" group="I-ADJP">indigenous</w> <w pws="yes" id="w8365" p="RB" group="B-ADVP">anywhere</w> <w pws="yes" id="w8374" p="IN" group="B-PP">in</w> <w locname="single" l="brus" pws="yes" id="w8377" p="NNP" group="B-NP">Bri</w><w pws="no" id="w8380" p=":" group="O">-</w> 
+<w l="tain" pws="yes" id="w8383" p="NN" headn="yes" group="B-NP">tain</w><w sb="true" pws="no" id="w8387" p="." group="O">.</w></s> <s id="s200"><w pws="yes" id="w8389" p="PRP" group="B-NP">It</w> <w l="be" pws="yes" id="w8392" p="VBD" group="B-VP">was</w> <w pws="yes" id="w8396" p="RB" group="I-VP">quite</w> <w l="naturalize" pws="yes" id="w8402" p="VBN" headv="yes" group="I-VP">naturalized</w> <w pws="yes" id="w8414" p="IN" group="B-PP">near</w> <w locname="single" l="dunkeld" pws="yes" id="w8419" p="NNP" group="B-NP">Dunkeld</w><w pws="no" id="w8426" p="," group="O">,</w> <w pws="yes" id="w8428" p="IN" group="B-PP">as</w> <w pws="yes" id="w8431" p="RB" group="B-ADVP">long</w> <w pws="yes" id="w8436" p="RB" group="I-ADVP">ago</w> <w pws="yes" id="w8440" p="IN" group="B-PP">as</w> <w pws="yes" id="w8443" p="CD" quty="1808" group="B-NP">1808</w> <w pws="yes" id="w8448" p=":" group="O">;</w> 
+<w pws="yes" id="w8451" p="CC" group="O">but</w> <w pws="yes" id="w8455" p="PRP" group="B-NP">we</w> <w l="learn" pws="yes" id="w8458" p="VBD" headv="yes" group="B-VP">learned</w> <w pws="yes" id="w8466" p="IN" group="B-SBAR">that</w> <w pws="yes" id="w8471" p="PRP" group="B-NP">it</w> <w l="have" pws="yes" id="w8474" p="VBD" group="B-VP">had</w> <w l="be" pws="yes" id="w8478" p="VBN" group="I-VP">been</w> <w l="plant" pws="yes" id="w8483" p="VBN" headv="yes" group="I-VP">planted</w><w sb="true" pws="no" id="w8490" p="." group="O">.</w></s> <s id="s201"><w pws="yes" id="w8492" p="PRP" group="B-NP">It</w> <w l="have" pws="yes" id="w8495" p="VBZ" group="B-VP">has</w> <w l="be" pws="yes" id="w8499" p="VBN" group="I-VP">been</w> <w l="plant" pws="yes" id="w8504" p="VBN" headv="yes" group="I-VP">planted</w> <w pws="yes" id="w8512" p="RB" group="B-ADVP">too</w> 
+<w pws="yes" id="w8517" p="IN" group="B-PP">near</w> <w locname="single" l="balum" pws="yes" id="w8522" p="NNP" group="B-NP">Bala</w><w pws="no" id="w8526" p="," group="O">,</w> <w common="true" l="north" pws="yes" id="w8528" p="NNP" group="B-NP">North</w> <w l="wale" pws="yes" id="w8534" p="NNP" country="true" group="I-NP">Wales</w><w pws="no" id="w8539" p="," group="O">,</w> <w pws="yes" id="w8541" p="IN" group="B-PP">in</w> <w pws="yes" id="w8544" p="JJ" group="B-NP">various</w> <w l="place" pws="yes" id="w8552" p="NNS" tmln="true" headn="yes" group="I-NP">places</w> <w pws="yes" id="w8559" p="IN" group="B-PP">along</w> <w pws="yes" id="w8565" p="DT" group="B-NP">the</w> <w l="road" pws="yes" id="w8569" p="NN" headn="yes" group="I-NP">road</w> <w pws="yes" id="w8574" p="IN" group="B-PP">towards</w> 
+<w locname="single" l="corwen" pws="yes" id="w8583" p="NNP" group="B-NP">Corwen</w><w pws="no" id="w8589" p="," group="O">,</w> <w pws="yes" id="w8591" p="WRB" group="B-ADVP">where</w> <w pws="yes" id="w8597" p="DT" group="B-NP">a</w> <w l="stranger" pws="yes" id="w8599" p="NN" headn="yes" group="I-NP">stranger</w><w pws="no" id="w8607" p="," group="O">,</w> <w pws="yes" id="w8609" p="IN" group="B-PP">without</w> <w vstem="inquire" l="inquiry" pws="yes" id="w8617" p="NN" headn="yes" group="B-NP">inquiry</w><w pws="no" id="w8624" p="," group="O">,</w> <w l="might" pws="yes" id="w8626" p="MD" group="B-VP">might</w> <w pws="yes" id="w8632" p="RB" group="I-VP">well</w> <w l="believe" pws="yes" id="w8637" p="VB" class="istate" headv="yes" group="I-VP">believe</w> <w pws="yes" id="w8645" p="PRP" group="B-NP">it</w> <w pws="yes" id="w8648" p="DT" group="B-NP">a</w> 
+<w l="native" pws="yes" id="w8651" p="NN" headn="yes" group="I-NP">native</w><w sb="true" pws="no" id="w8657" p="." group="O">.</w></s> <s id="s202"><w pws="yes" id="w8659" p="PRP" group="B-NP">I</w> <w l="have" pws="yes" id="w8661" p="VBP" group="B-VP">have</w> <w pws="yes" id="w8666" p="RB" neg="yes" group="I-VP">not</w> <w l="see" pws="yes" id="w8670" p="VBN" class="istate" headv="yes" group="I-VP">seen</w> <w pws="yes" id="w8675" p="PRP" group="B-NP">it</w> <w pws="yes" id="w8678" p="IN" group="B-PP">by</w> <w pws="yes" id="w8681" p="DT" group="B-NP">the</w> <w locname="single" l="dee" pws="yes" id="w8685" p="NNP" wfirstn="true" group="I-NP">Dee</w> <w pws="yes" id="w8689" p="IN" group="B-PP">below</w> <w locname="single" l="balum" pws="yes" id="w8695" p="NNP" group="B-NP">Bala</w><w pws="no" id="w8699" p="," group="O">,</w> <w pws="yes" id="w8701" p="WRB" group="B-ADVP">where</w> <w l="mr." pws="yes" id="w8707" p="NNP" group="B-NP">Mr.</w> <w wlastn="true" common="true" l="wood" pws="yes" id="w8711" p="NNP" group="I-NP">Woods</w> 
+<w l="observe" pws="yes" id="w8718" p="VBD" headv="yes" group="B-VP">observed</w> <w pws="yes" id="w8727" p="PRP" group="B-NP">it</w> <w pws="yes" id="w8730" p="JJ" group="B-NP">many</w> <w l="year" pws="yes" id="w8735" p="NNS" unit="year" group="I-NP">years</w> <w pws="yes" id="w8741" p="RB" trel="before" group="I-NP">ago</w> <w pws="yes" id="w8745" p=":" group="O">;</w> <w pws="yes" id="w8747" p="CC" group="O">but</w> <w pws="yes" id="w8751" p="PRP" group="B-NP">I</w> <w l="should" pws="yes" id="w8753" p="MD" group="B-VP">should</w> <w l="suppose" pws="yes" id="w8760" p="VB" headv="yes" group="I-VP">suppose</w> <w pws="yes" id="w8768" p="PRP" group="B-NP">it</w> <w pws="yes" id="w8771" p="RB" group="B-ADJP">very</w> <w tmla="true" pws="yes" id="w8776" p="JJ" group="I-ADJP">likely</w> <w pws="yes" id="w8783" p="TO" group="B-VP">to</w> 
+<w l="have" pws="yes" id="w8787" p="VB" group="I-VP">have</w> <w l="be" pws="yes" id="w8792" p="VBN" group="I-VP">been</w> <w l="carry" pws="yes" id="w8797" p="VBN" headv="yes" group="I-VP">carried</w> <w pws="yes" id="w8805" p="RP" group="I-VP">down</w> <w pws="yes" id="w8810" p="IN" group="B-PP">from</w> <w pws="yes" id="w8815" p="DT" group="B-NP">some</w> <w l="garden" pws="yes" id="w8820" p="NN" headn="yes" group="I-NP">garden</w> <w pws="yes" id="w8827" p="IN" group="B-PP">by</w> <w pws="yes" id="w8830" p="DT" group="B-NP">the</w> <w l="river" pws="yes" id="w8834" p="NN" headn="yes" group="I-NP">river</w><w sb="true" pws="no" id="w8839" p="." group="O">.</w></s></p> 
+
+<p><s id="s203"><w l="meconopsis" pws="yes" id="w8843" p="NNP" headn="yes" group="B-NP">Meconopsis</w> <w l="cambrica" pws="yes" id="w8854" p="NN" headn="yes" group="I-NP">cambrica</w> <w l="occur" pws="yes" id="w8863" p="VBZ" headv="yes" group="B-VP">occurs</w> <w pws="yes" id="w8870" p="IN" group="B-PP">in</w> <w pws="yes" id="w8873" p="JJ" group="B-NP">many</w> <w l="place" pws="yes" id="w8878" p="NNS" tmln="true" headn="yes" group="I-NP">places</w> <w pws="yes" id="w8885" p="IN" group="B-PP">in</w> <w pws="yes" id="w8888" p="DT" group="B-NP">the</w> <w l="lake" pws="yes" id="w8892" p="NN" headn="yes" group="I-NP">lake</w> <w l="district" pws="yes" id="w8897" p="NN" headn="yes" group="I-NP">district</w> <w pws="yes" id="w8906" p=":" group="O">:</w> <w pws="yes" id="w8908" p="CD" quty="1" headn="yes" group="B-NP">1</w> 
+<w l="should" pws="yes" id="w8911" p="MD" group="B-VP">should</w> <w l="suppose" pws="yes" id="w8918" p="VB" headv="yes" group="I-VP">suppose</w> <w pws="yes" id="w8926" p="PRP" group="B-NP">it</w> <w pws="yes" id="w8929" p="JJ" group="B-ADJP">indigenous</w><w sb="true" pws="no" id="w8939" p="." group="O">.</w></s></p> 
+
+<p><s id="s204"><w l="jiincus" pws="yes" id="w8943" p="NNP" headn="yes" group="B-NP">Jiincus</w> <w l="jiliformi" pws="yes" id="w8951" p="NNP" headn="yes" group="I-NP">Jiliformis</w> <w l="grow" pws="yes" id="w8962" p="VBZ" headv="yes" group="B-VP">grows</w> <w pws="yes" id="w8968" p="IN" group="B-PP">by</w> <w l="thirlemere" pws="yes" id="w8971" p="NNP" headn="yes" group="B-NP">Thirlemere</w><w pws="no" id="w8981" p="," group="O">,</w> <w pws="yes" id="w8983" p="IN" group="B-PP">on</w> <w pws="yes" id="w8986" p="DT" group="B-NP">the</w> <w pws="yes" id="w8990" p="JJS" group="I-NP">west</w> <w l="shore" pws="yes" id="w8995" p="NN" headn="yes" group="I-NP">shore</w> <w pws="yes" id="w9001" p="IN" group="B-PP">of</w> <w pws="yes" id="w9004" p="DT" group="B-NP">the</w> 
+<w pws="yes" id="w9009" p="JJ" group="I-NP">upper</w> <w l="lake" pws="yes" id="w9015" p="NN" headn="yes" group="I-NP">lake</w><w pws="no" id="w9019" p="," group="O">,</w> <w pws="yes" id="w9021" p="CC" group="O">and</w> <w pws="yes" id="w9025" p="IN" group="B-PP">in</w> <w pws="yes" id="w9028" p="DT" group="B-NP">a</w> <w l="meadow" pws="yes" id="w9030" p="NN" headn="yes" group="I-NP">meadow</w> <w pws="yes" id="w9037" p="IN" group="B-PP">at</w> <w pws="yes" id="w9040" p="PRP$" group="O">its</w> <w prof="true" l="head" pws="yes" id="w9044" p="NN" tmln="true" group="O">head</w><w pws="no" id="w9048" p="," group="O">,</w> <w pws="yes" id="w9050" p="RB" group="B-PP">as</w> <w pws="yes" id="w9053" p="RB" group="I-PP">well</w> <w pws="yes" id="w9058" p="IN" group="I-PP">as</w> <w pws="yes" id="w9061" p="IN" group="B-PP">in</w> <w pws="yes" id="w9064" p="DT" group="B-NP">the</w> <w pws="yes" id="w9068" p="JJ" group="I-NP">long-known</w> 
+<w l="place" pws="yes" id="w9080" p="NN" tmln="true" headn="yes" group="I-NP">place</w> <w pws="yes" id="w9086" p="IN" group="B-PP">near</w> <w locname="single" l="keswick" pws="yes" id="w9091" p="NNP" group="B-NP">Keswick</w><w sb="true" pws="no" id="w9098" p="." group="O">.</w></s></p> 
+
+<p><s id="s205"><w common="true" l="miss" pws="yes" id="w9102" p="NNP" group="B-NP">Miss</w> <w wlastn="true" common="true" l="wright" pws="yes" id="w9107" p="NNP" wfirstn="true" group="I-NP">Wright</w> <w l="show" pws="yes" id="w9114" p="VBD" headv="yes" group="B-VP">showed</w> <w pws="yes" id="w9121" p="PRP" group="B-NP">me</w> <w wlastn="true" l="rosa" pws="yes" id="w9124" p="NNP" pername="true" wfirstn="true" headn="yes" group="B-NP">Rosa</w> <w l="gracili" pws="yes" id="w9129" p="NNP" headn="yes" group="I-NP">gracilis</w> <w pws="yes" id="w9138" p="(" group="O">{</w><w wlastn="true" common="true" l="wood" pws="no" id="w9139" p="NNP" headn="yes" group="B-NP">Woods</w><w pws="no" id="w9144" p=")" group="O">)</w> <w pws="yes" id="w9146" p="IN" group="B-PP">in</w> <w l="mr." pws="yes" id="w9149" p="NNP" group="B-NP">Mr.</w> <w wlastn="true" common="true" l="wood" pws="yes" id="w9153" p="NNP" group="I-NP">Woods</w><w qut="s" pws="no" id="w9158" p="POS" group="I-NP">'</w> <w l="orus" pws="yes" id="w9160" p="NN" headn="yes" group="I-NP">ori</w><w pws="no" id="w9163" p=":" group="O">-</w> 
+<w pws="yes" id="w9166" p="JJ" group="B-NP">ginal</w> <w l="place" pws="yes" id="w9172" p="NN" tmln="true" headn="yes" group="I-NP">place</w><w pws="no" id="w9177" p="," group="O">,</w> <w pws="yes" id="w9179" p="IN" group="B-PP">by</w> <w pws="yes" id="w9182" p="DT" group="B-NP">the</w> <w l="road" pws="yes" id="w9186" p="NN" headn="yes" group="I-NP">road</w> <w pws="yes" id="w9191" p="IN" group="B-PP">over</w> <w locname="single" l="whinlatter" pws="yes" id="w9196" p="NNP" group="B-NP">Whinlatter</w><w sb="true" pws="no" id="w9206" p="." group="O">.</w></s> <s id="s206"><w pws="yes" id="w9208" p="DT" group="O">The</w> <w l="rise" pws="yes" id="w9212" p="VBD" headv="yes" group="B-VP">rose</w> <w pws="yes" id="w9217" p="IN" group="B-PP">in</w> <w pws="yes" qut="d" id="w9220" p="``" group="O">"</w> <w l="howrey" pws="yes" id="w9222" p="NNP" group="B-NP">Howrey</w> 
+<w wlastn="true" common="true" l="field" pws="yes" id="w9230" p="NNP" wfirstn="true" headn="yes" group="I-NP">Field</w><w pws="no" id="w9235" p="," group="O">,</w><w qut="d" pws="no" id="w9236" p="``" group="O">"</w> <w locname="single" l="keswick" pws="yes" id="w9238" p="NNP" group="B-NP">Keswick</w><w pws="no" id="w9245" p="," group="O">,</w> <w pws="yes" id="w9247" p="WDT" headn="yes" group="B-NP">which</w> <w l="have" pws="yes" id="w9253" p="VBZ" group="B-VP">has</w> <w l="be" pws="yes" id="w9257" p="VBN" group="I-VP">been</w> <w l="take" pws="yes" id="w9262" p="VBN" headv="yes" group="I-VP">taken</w> <w pws="yes" id="w9268" p="IN" group="B-PP">for</w> <w l="r." pws="yes" id="w9272" p="NNP" headn="yes" group="B-NP">R.</w> <w l="cinnamomea" pws="yes" id="w9275" p="NN" headn="yes" group="I-NP">cinnamomea</w><w pws="no" id="w9285" p="," group="O">,</w> <w l="be" pws="yes" id="w9287" p="VBZ" headv="yes" group="B-VP">is</w> <w pws="yes" id="w9290" p="DT" group="B-NP">the</w> 
+<w pws="yes" id="w9295" p="JJ" locadj="true" group="I-NP">American</w> <w l="r." pws="yes" id="w9304" p="NNP" headn="yes" group="I-NP">R.</w> <w l="lucida" pws="yes" id="w9307" p="NN" headn="yes" group="I-NP">lucida</w><w sb="true" pws="no" id="w9313" p="." group="O">.</w></s> <s id="s207"><w pws="yes" id="w9315" p="EX" headn="yes" group="B-NP">There</w> <w l="be" pws="yes" id="w9321" p="VBP" headv="yes" group="B-VP">are</w> <w pws="yes" id="w9325" p="CD" quty="2" group="B-NP">two</w> <w l="plant" pws="yes" id="w9329" p="NNS" headn="yes" group="I-NP">plants</w> <w pws="yes" id="w9336" p="IN" group="B-PP">of</w> <w pws="yes" id="w9339" p="PRP" group="B-NP">it</w> <w pws="yes" id="w9342" p="IN" group="B-PP">in</w> <w pws="yes" id="w9345" p="DT" group="B-NP">the</w> <w l="hedge" pws="yes" id="w9349" p="NN" headn="yes" group="I-NP">hedge</w> <w pws="yes" id="w9355" p="IN" group="B-PP">near</w> 
+<w pws="yes" id="w9361" p="DT" group="B-NP">the</w> <w l="junction" pws="yes" id="w9365" p="NN" headn="yes" group="I-NP">junction</w> <w pws="yes" id="w9374" p="IN" group="B-PP">of</w> <w pws="yes" id="w9377" p="DT" group="B-NP">the</w> <w l="river" pws="yes" id="w9381" p="NN" headn="yes" group="I-NP">river</w> <w l="greta" pws="yes" id="w9387" p="NNP" pername="true" wfirstn="true" headn="yes" group="B-NP">Greta</w> <w pws="yes" id="w9393" p="IN" group="B-PP">with</w> <w pws="yes" id="w9398" p="DT" group="B-NP">the</w> <w locname="single" l="derwent" pws="yes" id="w9402" p="NNP" group="I-NP">Derwent</w><w pws="no" id="w9409" p="," group="O">,</w> <w pws="yes" id="w9411" p="CC" group="O">and</w> <w pws="yes" id="w9415" p="PRP" group="B-NP">they</w> <w l="be" pws="yes" id="w9420" p="VBP" group="B-VP">are</w> <w l="spread" pws="yes" id="w9424" p="VBN" headv="yes" group="I-VP">spread</w><w pws="no" id="w9430" p=":" group="O">-</w> 
+<w l="ing" pws="yes" id="w9433" p="NN" headn="yes" group="B-NP">ing</w> <w pws="yes" id="w9437" p="IN" group="B-PP">by</w> <w pws="yes" id="w9440" p="PRP$" group="B-NP">their</w> <w l="creep" pws="yes" id="w9446" p="VBG" group="I-NP">creeping</w> <w l="root" pws="yes" id="w9455" p="NNS" headn="yes" group="I-NP">roots</w><w sb="true" pws="no" id="w9460" p="." group="O">.</w></s> <s id="s208"><w pws="yes" id="w9462" p="PRP" group="B-NP">I</w> <w l="see" pws="yes" id="w9464" p="VBD" class="istate" headv="yes" group="B-VP">saw</w> <w pws="yes" id="w9468" p="DT" group="B-NP">a</w> <w l="quantity" pws="yes" id="w9470" p="NN" headn="yes" group="I-NP">quantity</w> <w pws="yes" id="w9479" p="IN" group="B-PP">of</w> <w pws="yes" id="w9482" p="DT" group="B-NP">the</w> <w tmla="true" pws="yes" id="w9486" p="JJ" group="I-NP">common</w> <w pws="yes" id="w9493" p="NN" headn="yes" prevtag="JJ" group="I-NP">double</w><w pws="no" id="w9499" p=":" group="O">-</w> 
+<w l="flower" pws="yes" id="w9502" p="VBD" headv="yes" group="B-VP">flowered</w> <w l="r." pws="yes" id="w9511" p="NNP" headn="yes" group="B-NP">R.</w> <w l="cinnamomea" pws="yes" id="w9514" p="NN" headn="yes" group="I-NP">cinnamomea</w> <w pws="yes" id="w9525" p="IN" group="B-PP">in</w> <w pws="yes" id="w9528" p="DT" group="B-NP">a</w> <w l="hedge" pws="yes" id="w9530" p="NN" headn="yes" group="I-NP">hedge</w> <w pws="yes" id="w9536" p="IN" group="B-PP">by</w> <w pws="yes" id="w9539" p="DT" group="B-NP">the</w> <w l="road" pws="yes" id="w9543" p="NN" headn="yes" group="I-NP">road</w> <w pws="yes" id="w9548" p="IN" group="B-PP">from</w> <w locname="single" l="bowness" pws="yes" id="w9553" p="NN" group="B-NP">Bowness</w> <w pws="yes" id="w9561" p="TO" group="B-PP">to</w> 
+<w locname="single" l="kendal" pws="yes" id="w9565" p="NNP" pername="true" headn="yes" group="B-NP">Kendal</w><w pws="no" id="w9571" p="," group="O">,</w> <w l="—" pws="yes" id="w9573" p="NNP" headn="yes" group="B-NP">—</w> <w l="plant" pws="yes" id="w9575" p="VBD" headv="yes" group="B-VP">planted</w><w pws="no" id="w9582" p="," group="O">,</w> <w pws="yes" id="w9584" p="IN" group="B-PP">of</w> <w l="course" pws="yes" id="w9587" p="NN" event="true" headn="yes" group="B-NP">course</w><w sb="true" pws="no" id="w9593" p="." group="O">.</w></s> <s id="s209"><w pws="yes" id="w9595" p="IN" group="B-PP">By</w> <w pws="yes" id="w9598" p="DT" group="B-NP">the</w> <w l="crummock" pws="yes" id="w9602" p="NNP" group="I-NP">Crummock</w> <w wlastn="true" common="true" l="lake" pws="yes" id="w9611" p="NNP" wfirstn="true" headn="yes" group="I-NP">Lake</w><w pws="no" id="w9615" p="," group="O">,</w> <w pws="yes" id="w9617" p="IN" group="B-PP">by</w> <w pws="yes" id="w9620" p="DT" group="B-NP">the</w> <w l="road" pws="yes" id="w9624" p="NN" headn="yes" group="I-NP">road</w> 
+<w pws="yes" id="w9630" p="IN" group="B-PP">from</w> <w locname="single" l="buttermere" pws="yes" id="w9635" p="NNP" group="B-NP">Buttermere</w> <w pws="yes" id="w9646" p="TO" group="B-PP">to</w> <w common="true" l="scale" pws="yes" id="w9649" p="NNP" group="B-NP">Scale</w> <w common="true" l="hill" pws="yes" id="w9655" p="NNP" group="I-NP">Hill</w><w pws="no" id="w9659" p="," group="O">,</w> <w pws="yes" id="w9661" p="PRP" group="B-NP">I</w> <w l="find" pws="yes" id="w9663" p="VBD" headv="yes" group="B-VP">found</w> <w pws="yes" id="w9669" p="CD" quty="1" group="B-NP">one</w> <w l="bush" pws="yes" id="w9673" p="NN" headn="yes" group="I-NP">bush</w> <w pws="yes" id="w9678" p="IN" group="B-PP">of</w> <w pws="yes" id="w9681" p="DT" group="B-NP">a</w> <w l="rose" pws="yes" id="w9683" p="NN" headn="yes" group="I-NP">rose</w> <w pws="yes" id="w9688" p="WDT" headn="yes" group="B-NP">which</w> <w l="mr" pws="yes" id="w9694" p="NNP" headn="yes" group="B-NP">Mr</w><w pws="no" id="w9696" p="." group="O">.</w></s></p>
+</text>
+<standoff>
+<ents source="ner-rb">
+  <ent id="rb1" type="location" lat="50.63298789849233" long="-4.058746903632452" gazref="unlock:11151929" feat-type="other">
+    <parts>
+      <part ew="w376" sw="w376">Ger</part>
+    </parts>
+  </ent>
+  <ent id="rb2" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w381" sw="w381">Noli</part>
+    </parts>
+  </ent>
+  <ent id="rb3" type="person">
+    <parts>
+      <part ew="w403" sw="w397">J. B. Mercu</part>
+    </parts>
+  </ent>
+  <ent id="rb4" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w430" sw="w430">Noli</part>
+    </parts>
+  </ent>
+  <ent id="rb5" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w508" sw="w508">Noli</part>
+    </parts>
+  </ent>
+  <ent id="rb6" subtype="otf" type="location" lat="54.36825233570806" long="-3.0712236755857" gazref="unlock:11115199" feat-type="ppl">
+    <parts>
+      <part ew="w571" sw="w571">Coniston</part>
+    </parts>
+  </ent>
+  <ent id="rb7" type="person">
+    <parts>
+      <part ew="w766" sw="w762">Mr. Lawfon</part>
+    </parts>
+  </ent>
+  <ent id="rb8" type="location" lat="50.63298789849233" long="-4.058746903632452" gazref="unlock:11151929" feat-type="other">
+    <parts>
+      <part ew="w833" sw="w833">Ger</part>
+    </parts>
+  </ent>
+  <ent id="rb9" subtype="otf" type="person">
+    <parts>
+      <part ew="w838" sw="w838">London</part>
+    </parts>
+  </ent>
+  <ent id="rb10" type="person">
+    <parts>
+      <part ew="w880" sw="w874">C. B. Holofteum</part>
+    </parts>
+  </ent>
+  <ent id="rb11" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w1061" sw="w1061">Semina</part>
+    </parts>
+  </ent>
+  <ent id="rb12" type="person">
+    <parts>
+      <part ew="w1177" sw="w1171">C. B. Polygalcn</part>
+    </parts>
+  </ent>
+  <ent id="rb13" subtype="otf" type="location" lat="54.36825233570806" long="-3.0712236755857" gazref="unlock:11115199" feat-type="ppl">
+    <parts>
+      <part ew="w1215" sw="w1215">Coniston</part>
+    </parts>
+  </ent>
+  <ent id="rb14" type="location" lat="53.84273889481908" long="-2.039477931628643" gazref="unlock:11165309" feat-type="fac">
+    <parts>
+      <part ew="w1454" sw="w1446">Hanging Stone</part>
+    </parts>
+  </ent>
+  <ent id="rb15" subtype="otf" type="person">
+    <parts>
+      <part ew="w1699" sw="w1699">Cufcuta</part>
+    </parts>
+  </ent>
+  <ent id="rb16" type="person">
+    <parts>
+      <part ew="w1718" sw="w1712">C. B. Cufcuta</part>
+    </parts>
+  </ent>
+  <ent id="rb17" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w1954" sw="w1954">Heil</part>
+    </parts>
+  </ent>
+  <ent id="rb18" type="location" lat="54.28576565989553" long="-3.238058895063979" gazref="unlock:11133272" feat-type="ppl">
+    <parts>
+      <part ew="w2114" sw="w2114">Duddon</part>
+    </parts>
+  </ent>
+  <ent id="rb19" type="person">
+    <parts>
+      <part ew="w2263" sw="w2260">V. Hiitor</part>
+    </parts>
+  </ent>
+  <ent id="rb20" type="date" year="1904">
+    <parts>
+      <part ew="w2282" sw="w2282">1904</part>
+    </parts>
+  </ent>
+  <ent id="rb21" type="person">
+    <parts>
+      <part ew="w2290" sw="w2288">P Grami</part>
+    </parts>
+  </ent>
+  <ent id="rb23" type="person">
+    <parts>
+      <part ew="w2427" sw="w2424">L. London</part>
+    </parts>
+  </ent>
+  <ent id="rb24" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w2503" sw="w2503">Deni</part>
+    </parts>
+  </ent>
+  <ent id="rb25" type="location" lat="54.58161331161762" long="-3.308906136428595" gazref="unlock:11278601" feat-type="mtn">
+    <parts>
+      <part ew="w2546" sw="w2540">Scale Hill</part>
+    </parts>
+  </ent>
+  <ent id="rb26" subtype="otf" type="location" lat="54.55465995529278" long="-3.308042642445016" gazref="unlock:11124107" feat-type="water">
+    <parts>
+      <part ew="w2557" sw="w2557">Crummock</part>
+    </parts>
+  </ent>
+  <ent id="rb27" type="location" lat="54.60130429850908" long="-3.139254834053809" gazref="unlock:11185565" feat-type="ppl">
+    <parts>
+      <part ew="w2596" sw="w2596">Keswick</part>
+    </parts>
+  </ent>
+  <ent id="rb28" subtype="otf" type="location" lat="54.66485193999935" long="-2.751053285977112" gazref="unlock:11038" feat-type="ppl">
+    <parts>
+      <part ew="w2614" sw="w2614">Penrith</part>
+    </parts>
+  </ent>
+  <ent id="rb29" type="location" lat="54.28221179632249" long="-3.232261685317539" gazref="unlock:16538" feat-type="ppl">
+    <parts>
+      <part ew="w2693" sw="w2686">Duddon Bridge</part>
+    </parts>
+  </ent>
+  <ent id="rb30" type="person">
+    <parts>
+      <part ew="w2707" sw="w2704">J. Robson</part>
+    </parts>
+  </ent>
+  <ent id="rb31" type="location" coord="rb31" lat="54.4483541945938" long="-2.983457147800448" gazref="unlock:15013" feat-type="ppl">
+    <parts>
+      <part ew="w2747" sw="w2747">Rydal</part>
+    </parts>
+  </ent>
+  <ent id="rb32" type="location" coord="rb31" lat="54.43206085637207" long="-2.964975859453879" gazref="unlock:11061737" feat-type="ppl">
+    <parts>
+      <part ew="w2757" sw="w2757">Ambleside</part>
+    </parts>
+  </ent>
+  <ent id="rb33" type="location" coord="rb33" lat="54.45901797011201" long="-2.965610077250042" gazref="unlock:11278721" feat-type="water">
+    <parts>
+      <part ew="w2802" sw="w2802">Scandale</part>
+    </parts>
+  </ent>
+  <ent id="rb34" type="location" coord="rb33" lat="54.45027480077258" long="-2.934558708110559" gazref="unlock:11292363" feat-type="water">
+    <parts>
+      <part ew="w2821" sw="w2815">Stock Ghyll</part>
+    </parts>
+  </ent>
+  <ent id="rb35" type="location" lat="54.34129569776685" long="-3.070522463211718" gazref="unlock:11115206" feat-type="water">
+    <parts>
+      <part ew="w2918" sw="w2909">Coniston Water</part>
+    </parts>
+  </ent>
+  <ent id="rb36" subtype="otf" type="person">
+    <parts>
+      <part ew="w2927" sw="w2927">London</part>
+    </parts>
+  </ent>
+  <ent id="rb37" type="person">
+    <parts>
+      <part ew="w2939" sw="w2935">P.J.Woodward</part>
+    </parts>
+  </ent>
+  <ent id="rb38" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w2963" sw="w2963">Nite</part>
+    </parts>
+  </ent>
+  <ent id="rb39" subtype="otf" type="location" lat="54.36825233570806" long="-3.0712236755857" gazref="unlock:11115199" feat-type="ppl">
+    <parts>
+      <part ew="w3014" sw="w3014">Coniston</part>
+    </parts>
+  </ent>
+  <ent id="rb40" type="person">
+    <parts>
+      <part ew="w3033" sw="w3028">Miss Beever</part>
+    </parts>
+  </ent>
+  <ent id="rb41" subtype="otf" type="location" lat="54.36825233570806" long="-3.0712236755857" gazref="unlock:11115199" feat-type="ppl">
+    <parts>
+      <part ew="w3062" sw="w3062">Coniston</part>
+    </parts>
+  </ent>
+  <ent id="rb42" type="location" lat="54.36783373079037" long="-3.117389041876675" gazref="unlock:11236009" feat-type="mtn">
+    <parts>
+      <part ew="w3113" sw="w3109">Old Man</part>
+    </parts>
+  </ent>
+  <ent id="rb43" type="person">
+    <parts>
+      <part ew="w3127" sw="w3124">C. Melvill</part>
+    </parts>
+  </ent>
+  <ent id="rb44" type="location" lat="54.13757161713653" long="-2.651991766107275" gazref="unlock:11293604" feat-type="fac">
+    <parts>
+      <part ew="w3159" sw="w3152">Storrs Hall</part>
+    </parts>
+  </ent>
+  <ent id="rb45" type="location" lat="54.36053424730091" long="-2.917130763738208" gazref="unlock:11084353" feat-type="ppl">
+    <parts>
+      <part ew="w3174" sw="w3174">Bowness</part>
+    </parts>
+  </ent>
+  <ent id="rb46" type="person">
+    <parts>
+      <part ew="w3280" sw="w3280">Bread</part>
+    </parts>
+  </ent>
+  <ent id="rb47" type="person">
+    <parts>
+      <part ew="w3290" sw="w3290">Cheese</part>
+    </parts>
+  </ent>
+  <ent id="rb48" type="location" lat="54.63808365522037" long="-3.047319080455868" gazref="unlock:11276096" feat-type="mtn">
+    <parts>
+      <part ew="w3392" sw="w3392">Saddleback</part>
+    </parts>
+  </ent>
+  <ent id="rb50" type="location" lat="54.53924570772745" long="-3.044785799125601" gazref="unlock:11169754" feat-type="water">
+    <parts>
+      <part ew="w3428" sw="w3428">Helvellyn</part>
+    </parts>
+  </ent>
+  <ent id="rb51" subtype="otf" type="person">
+    <parts>
+      <part ew="w3455" sw="w3455">London</part>
+    </parts>
+  </ent>
+  <ent id="rb53" type="location" coord="rb53" lat="54.43206085637207" long="-2.964975859453879" gazref="unlock:11061737" feat-type="ppl">
+    <parts>
+      <part ew="w3537" sw="w3537">Ambleside</part>
+    </parts>
+  </ent>
+  <ent id="rb54" type="location" coord="rb53" lat="54.36825233570806" long="-3.0712236755857" gazref="unlock:11115199" feat-type="ppl">
+    <parts>
+      <part ew="w3552" sw="w3552">Coniston</part>
+    </parts>
+  </ent>
+  <ent id="rb55" type="person">
+    <parts>
+      <part ew="w3567" sw="w3562">Miss Beever</part>
+    </parts>
+  </ent>
+  <ent id="rb56" type="location" lat="53.90481432900391" long="-2.450491288867215" gazref="unlock:11176265" feat-type="other">
+    <parts>
+      <part ew="w3640" sw="w3640">Hodgson</part>
+    </parts>
+  </ent>
+  <ent id="rb57" type="date" year="1890">
+    <parts>
+      <part ew="w3657" sw="w3657">1890</part>
+    </parts>
+  </ent>
+  <ent id="rb58" type="date" year="1888">
+    <parts>
+      <part ew="w3700" sw="w3700">1888</part>
+    </parts>
+  </ent>
+  <ent id="rb59" type="location" lat="54.34467588278078" long="-1.42465608651185" gazref="unlock:11233271" in-country="GB" feat-type="ppl" pop-size="16480">
+    <parts>
+      <part ew="w3730" sw="w3730">Northallerton</part>
+    </parts>
+  </ent>
+  <ent id="rb60" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w3752" sw="w3747">York N.W.</part>
+    </parts>
+  </ent>
+  <ent id="rb61" subtype="otf" type="person">
+    <parts>
+      <part ew="w3798" sw="w3798">London</part>
+    </parts>
+  </ent>
+  <ent id="rb62" type="location" lat="54.34467588278078" long="-1.42465608651185" gazref="unlock:11233271" in-country="GB" feat-type="ppl" pop-size="16480">
+    <parts>
+      <part ew="w3812" sw="w3812">Northallerton</part>
+    </parts>
+  </ent>
+  <ent day="Saturday" day-number="689386" sdate="1888-06-23" id="rb63" year="1888" date="23" month="06" type="date">
+    <parts>
+      <part ew="w3902" sw="w3891">June 23rd, 1888</part>
+    </parts>
+  </ent>
+  <ent id="rb64" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w3943" sw="w3938">York S.W</part>
+    </parts>
+  </ent>
+  <ent id="rb66" type="location" lat="53.53570386722718" long="-2.065411495448321" gazref="unlock:13302294" feat-type="civil">
+    <parts>
+      <part ew="w3987" sw="w3987">Saddleworth</part>
+    </parts>
+  </ent>
+  <ent id="rb67" year="1888" month="06" type="date" edate="1888-06-30" sdate="1888-06-01">
+    <parts>
+      <part ew="w4011" sw="w4005">June, 1888</part>
+    </parts>
+  </ent>
+  <ent id="rb68" type="date" year="1888">
+    <parts>
+      <part ew="w4149" sw="w4149">1888</part>
+    </parts>
+  </ent>
+  <ent id="rb70" type="location" lat="53.79485856278625" long="-1.158946070791259" gazref="unlock:11078002" feat-type="rgn">
+    <parts>
+      <part ew="w4233" sw="w4226">Bishop Wood</part>
+    </parts>
+  </ent>
+  <ent id="rb71" subtype="otf" type="person">
+    <parts>
+      <part ew="w4301" sw="w4293">Pygicra London</part>
+    </parts>
+  </ent>
+  <ent id="rb72" year="1888" month="08" type="date" edate="1888-08-31" sdate="1888-08-01">
+    <parts>
+      <part ew="w4493" sw="w4488">Aug. 1888</part>
+    </parts>
+  </ent>
+  <ent id="rb73" type="location" lat="53.13012787930177" long="-1.705771840787327" gazref="unlock:13316188" feat-type="civila">
+    <parts>
+      <part ew="w4528" sw="w4528">Derbyshire</part>
+    </parts>
+  </ent>
+  <ent id="rb74" type="location" lat="53.25778690030908" long="-1.793842350130753" gazref="unlock:33180" feat-type="ppl">
+    <parts>
+      <part ew="w4589" sw="w4580">Miller's Dale</part>
+    </parts>
+  </ent>
+  <ent day="Thursday" day-number="689405" sdate="1888-07-12" id="rb75" year="1888" date="12" month="07" type="date">
+    <parts>
+      <part ew="w4606" sw="w4595">July 12th, 1888</part>
+    </parts>
+  </ent>
+  <ent id="rb76" year="1888" month="08" type="date" edate="1888-08-31" sdate="1888-08-01">
+    <parts>
+      <part ew="w4670" sw="w4665">Aug. 1888</part>
+    </parts>
+  </ent>
+  <ent id="rb77" type="person">
+    <parts>
+      <part ew="w4688" sw="w4685">R. Adkin</part>
+    </parts>
+  </ent>
+  <ent id="rb78" subtype="otf" type="person">
+    <parts>
+      <part ew="w4695" sw="w4695">Lane</part>
+    </parts>
+  </ent>
+  <ent id="rb79" type="location" lat="53.44241230605867" long="-2.233655258402977" gazref="unlock:13317222" in-country="GB" feat-type="civila" pop-size="395515">
+    <parts>
+      <part ew="w4811" sw="w4811">Manchester</part>
+    </parts>
+  </ent>
+  <ent id="rb80" altname="Lond" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w4858" sw="w4851">South Lond</part>
+    </parts>
+  </ent>
+  <ent id="rb81" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w4864" sw="w4864">Ent</part>
+    </parts>
+  </ent>
+  <ent id="rb82" type="location" lat="50.62400089657012" long="-4.058354260476579" gazref="unlock:11227082" feat-type="other">
+    <parts>
+      <part ew="w4873" sw="w4873">Nat</part>
+    </parts>
+  </ent>
+  <ent id="rb83" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w4884" sw="w4884">Soc</part>
+    </parts>
+  </ent>
+  <ent id="rb84" type="date" year="1886">
+    <parts>
+      <part ew="w4893" sw="w4893">1886</part>
+    </parts>
+  </ent>
+  <ent id="rb85" type="date" year="1887">
+    <parts>
+      <part ew="w4904" sw="w4904">1887</part>
+    </parts>
+  </ent>
+  <ent id="rb86" type="person">
+    <parts>
+      <part ew="w4923" sw="w4920">R. Adkin</part>
+    </parts>
+  </ent>
+  <ent id="rb87" subtype="otf" type="person">
+    <parts>
+      <part ew="w4930" sw="w4930">Lane</part>
+    </parts>
+  </ent>
+  <ent id="rb88" altname="London" type="location" lat="51.48819488345327" long="-0.0873480518664991" gazref="unlock:13326794" feat-type="civila">
+    <parts>
+      <part ew="w5001" sw="w4995">South London</part>
+    </parts>
+  </ent>
+  <ent id="rb89" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w5008" sw="w5008">Ent</part>
+    </parts>
+  </ent>
+  <ent id="rb90" type="location" lat="50.62400089657012" long="-4.058354260476579" gazref="unlock:11227082" feat-type="other">
+    <parts>
+      <part ew="w5018" sw="w5018">Nat</part>
+    </parts>
+  </ent>
+  <ent id="rb91" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w5029" sw="w5029">Soc</part>
+    </parts>
+  </ent>
+  <ent id="rb92" type="date" year="1886">
+    <parts>
+      <part ew="w5038" sw="w5038">1886</part>
+    </parts>
+  </ent>
+  <ent id="rb93" type="date" year="1887">
+    <parts>
+      <part ew="w5049" sw="w5049">1887</part>
+    </parts>
+  </ent>
+  <ent id="rb94" type="person">
+    <parts>
+      <part ew="w5068" sw="w5065">R. Adkin</part>
+    </parts>
+  </ent>
+  <ent id="rb95" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w5080" sw="w5075">York S.W</part>
+    </parts>
+  </ent>
+  <ent id="rb96" type="location" lat="53.52544464572023" long="-1.548614190831096" gazref="unlock:13315725" in-country="GB" feat-type="civila" pop-size="71447">
+    <parts>
+      <part ew="w5158" sw="w5158">Barnsley</part>
+    </parts>
+  </ent>
+  <ent id="rb97" type="location" lat="51.48819488345327" long="-0.0873480518664991" gazref="unlock:13326794" in-country="GB" feat-type="civila" pop-size="7421209">
+    <parts>
+      <part ew="w5342" sw="w5342">London</part>
+    </parts>
+  </ent>
+  <ent id="rb98" type="location" lat="52.1604500" long="-0.7031200" gazref="geonames:6269131" in-country="GB" feat-type="civila" pop-size="50000000">
+    <parts>
+      <part ew="w5358" sw="w5358">England</part>
+    </parts>
+  </ent>
+  <ent id="rb99" altname="Lond" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w5380" sw="w5374">South Lond</part>
+    </parts>
+  </ent>
+  <ent id="rb100" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w5386" sw="w5386">Ent</part>
+    </parts>
+  </ent>
+  <ent id="rb101" type="location" lat="50.62400089657012" long="-4.058354260476579" gazref="unlock:11227082" feat-type="other">
+    <parts>
+      <part ew="w5396" sw="w5396">Nat</part>
+    </parts>
+  </ent>
+  <ent id="rb102" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w5407" sw="w5407">Soc</part>
+    </parts>
+  </ent>
+  <ent id="rb103" type="date" year="1886">
+    <parts>
+      <part ew="w5416" sw="w5416">1886</part>
+    </parts>
+  </ent>
+  <ent id="rb104" type="date" year="1887">
+    <parts>
+      <part ew="w5427" sw="w5427">1887</part>
+    </parts>
+  </ent>
+  <ent id="rb105" type="person">
+    <parts>
+      <part ew="w5446" sw="w5443">R. Adkin</part>
+    </parts>
+  </ent>
+  <ent id="rb106" type="location" lat="54.57871859051012" long="-2.488838685192418" gazref="unlock:11062898" feat-type="ppl">
+    <parts>
+      <part ew="w5453" sw="w5453">Westmorland</part>
+    </parts>
+  </ent>
+  <ent id="rb107" type="location" lat="54.27709191412792" long="-3.207081849528392" gazref="unlock:11089765" feat-type="ppl">
+    <parts>
+      <part ew="w5468" sw="w5468">Furness</part>
+    </parts>
+  </ent>
+  <ent id="rb108" altname="Lond" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w5552" sw="w5545">South Lond</part>
+    </parts>
+  </ent>
+  <ent id="rb109" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w5558" sw="w5558">Ent</part>
+    </parts>
+  </ent>
+  <ent id="rb110" type="location" lat="50.62400089657012" long="-4.058354260476579" gazref="unlock:11227082" feat-type="other">
+    <parts>
+      <part ew="w5567" sw="w5567">Nat</part>
+    </parts>
+  </ent>
+  <ent id="rb111" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w5578" sw="w5578">Soc</part>
+    </parts>
+  </ent>
+  <ent id="rb112" type="date" year="1886">
+    <parts>
+      <part ew="w5587" sw="w5587">1886</part>
+    </parts>
+  </ent>
+  <ent id="rb113" type="person">
+    <parts>
+      <part ew="w5617" sw="w5614">R. Adkin</part>
+    </parts>
+  </ent>
+  <ent id="rb114" type="location" lat="54.57871859051012" long="-2.488838685192418" gazref="unlock:11062898" feat-type="ppl">
+    <parts>
+      <part ew="w5624" sw="w5624">Westmorland</part>
+    </parts>
+  </ent>
+  <ent id="rb115" type="location" lat="54.27709191412792" long="-3.207081849528392" gazref="unlock:11089765" feat-type="ppl">
+    <parts>
+      <part ew="w5639" sw="w5639">Furness</part>
+    </parts>
+  </ent>
+  <ent id="rb116" type="person">
+    <parts>
+      <part ew="w5690" sw="w5687">H. Murray</part>
+    </parts>
+  </ent>
+  <ent id="rb117" type="location" lat="54.37862216749868" long="-2.90213819434143" gazref="unlock:11323643" feat-type="ppl">
+    <parts>
+      <part ew="w5725" sw="w5725">Windermere</part>
+    </parts>
+  </ent>
+  <ent year="2020" id="rb118" month="12" type="date" edate="2020-12-30" sdate="2020-12-01">
+    <parts>
+      <part ew="w5809" sw="w5809">Dec.</part>
+    </parts>
+  </ent>
+  <ent id="rb119" type="date" year="1886">
+    <parts>
+      <part ew="w5819" sw="w5819">1886</part>
+    </parts>
+  </ent>
+  <ent id="rb120" year="1887" month="01" type="date" edate="1887-01-31" sdate="1887-01-01">
+    <parts>
+      <part ew="w5838" sw="w5833">Jan. 1887</part>
+    </parts>
+  </ent>
+  <ent id="rb121" year="1887" month="03" type="date" edate="1887-03-31" sdate="1887-03-01">
+    <parts>
+      <part ew="w5864" sw="w5858">March 1887</part>
+    </parts>
+  </ent>
+  <ent id="rb122" type="person">
+    <parts>
+      <part ew="w5882" sw="w5879">J. Arkle</part>
+    </parts>
+  </ent>
+  <ent id="rb123" subtype="otf" type="person">
+    <parts>
+      <part ew="w5889" sw="w5889">Cheshire</part>
+    </parts>
+  </ent>
+  <ent id="rb124" type="location" lat="53.23856731648712" long="-2.683194189150059" gazref="unlock:11128378" feat-type="rgn">
+    <parts>
+      <part ew="w5924" sw="w5915">Delamere Forest</part>
+    </parts>
+  </ent>
+  <ent id="rb125" subtype="otf" type="person">
+    <parts>
+      <part ew="w6025" sw="w6025">London</part>
+    </parts>
+  </ent>
+  <ent id="rb126" year="1888" month="01" type="date" edate="1888-01-31" sdate="1888-01-01">
+    <parts>
+      <part ew="w6043" sw="w6038">Jan. 1888</part>
+    </parts>
+  </ent>
+  <ent id="rb127" type="person">
+    <parts>
+      <part ew="w6064" sw="w6061">J. Arkle</part>
+    </parts>
+  </ent>
+  <ent id="rb128" subtype="otf" type="person">
+    <parts>
+      <part ew="w6071" sw="w6071">Lane</part>
+    </parts>
+  </ent>
+  <ent id="rb129" quty="2" unit="year" type="date">
+    <parts>
+      <part ew="w6101" sw="w6097">two years</part>
+    </parts>
+  </ent>
+  <ent id="rb130" year="1888" month="05" type="date" edate="1888-05-31" sdate="1888-05-01">
+    <parts>
+      <part ew="w6180" sw="w6176">May 1888</part>
+    </parts>
+  </ent>
+  <ent id="rb131" type="person">
+    <parts>
+      <part ew="w6202" sw="w6199">J. Arkle</part>
+    </parts>
+  </ent>
+  <ent id="rb132" subtype="otf" type="person">
+    <parts>
+      <part ew="w6209" sw="w6209">Cheshire</part>
+    </parts>
+  </ent>
+  <ent id="rb133" subtype="otf" type="person">
+    <parts>
+      <part ew="w6243" sw="w6243">Cheshire</part>
+    </parts>
+  </ent>
+  <ent id="rb134" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w6265" sw="w6256">Delamere London</part>
+    </parts>
+  </ent>
+  <ent id="rb135" type="date">
+    <parts>
+      <part ew="w6280" sw="w6280">March</part>
+    </parts>
+  </ent>
+  <ent id="rb136" type="date" year="1888">
+    <parts>
+      <part ew="w6292" sw="w6292">1888</part>
+    </parts>
+  </ent>
+  <ent id="rb137" subtype="otf" type="location" lat="53.16253233724196" long="-2.737001557950522" gazref="unlock:13318455" in-country="GB" feat-type="civila" pop-size="81313">
+    <parts>
+      <part ew="w6476" sw="w6476">Chester</part>
+    </parts>
+  </ent>
+  <ent id="rb138" subtype="otf" type="location" lat="53.22075888671208" long="-2.652956300650371" gazref="unlock:11128376" feat-type="ppl">
+    <parts>
+      <part ew="w6494" sw="w6494">Delamere</part>
+    </parts>
+  </ent>
+  <ent id="rb139" year="1888" month="06" type="date" edate="1888-06-30" sdate="1888-06-01">
+    <parts>
+      <part ew="w6521" sw="w6516">June 1888</part>
+    </parts>
+  </ent>
+  <ent id="rb140" type="person">
+    <parts>
+      <part ew="w6542" sw="w6539">J. Arkle</part>
+    </parts>
+  </ent>
+  <ent id="rb141" subtype="otf" type="person">
+    <parts>
+      <part ew="w6549" sw="w6549">Cheshire</part>
+    </parts>
+  </ent>
+  <ent id="rb142" type="location" lat="54.68378509737255" long="-1.796873872772781" gazref="unlock:13318560" in-country="GB" feat-type="civila" pop-size="45696">
+    <parts>
+      <part ew="w6559" sw="w6559">Durham</part>
+    </parts>
+  </ent>
+  <ent id="rb143" subtype="otf" type="person">
+    <parts>
+      <part ew="w6589" sw="w6589">Cheshire</part>
+    </parts>
+  </ent>
+  <ent id="rb144" type="location" lat="53.42469404897346" long="-3.047351044449818" gazref="unlock:11312550" in-country="GB" feat-type="ppl" pop-size="58794">
+    <parts>
+      <part ew="w6622" sw="w6622">Wallasey</part>
+    </parts>
+  </ent>
+  <ent id="rb145" type="location" lat="54.99175552394924" long="-1.431070203716847" gazref="unlock:11287907" in-country="GB" feat-type="ppl" pop-size="83655">
+    <parts>
+      <part ew="w6696" sw="w6690">South Shields</part>
+    </parts>
+  </ent>
+  <ent id="rb146" quty="20" unit="year" type="date">
+    <parts>
+      <part ew="w6716" sw="w6709">twenty years</part>
+    </parts>
+  </ent>
+  <ent id="rb147" year="1888" month="10" type="date" edate="1888-10-31" sdate="1888-10-01">
+    <parts>
+      <part ew="w6741" sw="w6736">Oct. 1888</part>
+    </parts>
+  </ent>
+  <ent id="rb148" type="person">
+    <parts>
+      <part ew="w6762" sw="w6759">J. Arkle</part>
+    </parts>
+  </ent>
+  <ent id="rb149" type="person">
+    <parts>
+      <part ew="w6779" sw="w6769">Cheshire, Lane</part>
+    </parts>
+  </ent>
+  <ent id="rb150" type="location" lat="54.27709191412792" long="-3.207081849528392" gazref="unlock:11089765" feat-type="ppl">
+    <parts>
+      <part ew="w6796" sw="w6796">Furness</part>
+    </parts>
+  </ent>
+  <ent id="rb151" subtype="otf" type="person">
+    <parts>
+      <part ew="w6848" sw="w6848">Cheshire</part>
+    </parts>
+  </ent>
+  <ent id="rb152" type="location" coord="rb152" lat="53.16253233724196" long="-2.737001557950522" gazref="unlock:13318455" in-country="GB" feat-type="civila" pop-size="81313">
+    <parts>
+      <part ew="w6858" sw="w6858">Chester</part>
+    </parts>
+  </ent>
+  <ent id="rb153" type="location" coord="rb152" lat="53.22075888671208" long="-2.652956300650371" gazref="unlock:11128376" feat-type="ppl">
+    <parts>
+      <part ew="w6867" sw="w6867">Delamere</part>
+    </parts>
+  </ent>
+  <ent id="rb154" type="location" lat="53.38530814531078" long="-3.170944195829206" gazref="unlock:11439" feat-type="ppl">
+    <parts>
+      <part ew="w6907" sw="w6907">Hoylake</part>
+    </parts>
+  </ent>
+  <ent id="rb155" altname="Lancashire" type="location" lat="53.61139140082703" long="-2.886475216964708" gazref="unlock:13315008" feat-type="civila">
+    <parts>
+      <part ew="w6923" sw="w6917">South Lancashire</part>
+    </parts>
+  </ent>
+  <ent id="rb156" type="location" lat="53.63167361357882" long="-3.002254910822198" gazref="unlock:11103" in-country="GB" feat-type="ppl" pop-size="93044">
+    <parts>
+      <part ew="w6935" sw="w6935">Southport</part>
+    </parts>
+  </ent>
+  <ent id="rb157" type="location" lat="53.61139140082703" long="-2.886475216964708" gazref="unlock:13315008" feat-type="civila">
+    <parts>
+      <part ew="w6954" sw="w6954">Lancashire</part>
+    </parts>
+  </ent>
+  <ent id="rb158" type="location" near="rb159" lat="54.04624454660624" long="-2.879648896485529" gazref="unlock:11171092" feat-type="other">
+    <parts>
+      <part ew="w6974" sw="w6966">Heysham Moss</part>
+    </parts>
+  </ent>
+  <ent id="rb159" type="location" near="rb158" lat="54.05252533958187" long="-2.838456626702889" gazref="unlock:11385" in-country="GB" feat-type="ppl" pop-size="51644">
+    <parts>
+      <part ew="w6984" sw="w6984">Morecambe</part>
+    </parts>
+  </ent>
+  <ent id="rb160" type="location" lat="54.27709191412792" long="-3.207081849528392" gazref="unlock:11089765" feat-type="ppl">
+    <parts>
+      <part ew="w7000" sw="w7000">Furness</part>
+    </parts>
+  </ent>
+  <ent id="rb161" type="date" year="1845">
+    <parts>
+      <part ew="w7043" sw="w7043">1845</part>
+    </parts>
+  </ent>
+  <ent id="rb162" type="location" lat="52.1604500" long="-0.7031200" gazref="geonames:6269131" in-country="GB" feat-type="civila" pop-size="50000000">
+    <parts>
+      <part ew="w7100" sw="w7100">England</part>
+    </parts>
+  </ent>
+  <ent id="rb163" type="person">
+    <parts>
+      <part ew="w7112" sw="w7109">L. Cymbalaria</part>
+    </parts>
+  </ent>
+  <ent id="rb164" type="location" lat="50.93590902882038" long="0.3693387862461376" gazref="unlock:13325888" feat-type="civila">
+    <parts>
+      <part ew="w7217" sw="w7217">Sussex</part>
+    </parts>
+  </ent>
+  <ent id="rb165" type="location" lat="51.51187872077438" long="-0.1639354218343105" gazref="unlock:13317125" feat-type="civila">
+    <parts>
+      <part ew="w7275" sw="w7275">Westminster</part>
+    </parts>
+  </ent>
+  <ent id="rb166" type="location" lat="50.85993907742958" long="-0.7155202351218498" gazref="unlock:11084438" feat-type="ppl">
+    <parts>
+      <part ew="w7376" sw="w7376">Boxgrove</part>
+    </parts>
+  </ent>
+  <ent id="rb167" type="location" lat="51.37670830467444" long="-2.38245117460172" gazref="unlock:13237477" feat-type="civil">
+    <parts>
+      <part ew="w7571" sw="w7571">Westmoreland</part>
+    </parts>
+  </ent>
+  <ent id="rb168" type="date" year="1810">
+    <parts>
+      <part ew="w7638" sw="w7638">1810</part>
+    </parts>
+  </ent>
+  <ent id="rb169" type="person">
+    <parts>
+      <part ew="w7662" sw="w7658">Mr. Gibson</part>
+    </parts>
+  </ent>
+  <ent id="rb170" type="location" lat="54.45901797011201" long="-2.965610077250042" gazref="unlock:11278721" feat-type="water">
+    <parts>
+      <part ew="w7721" sw="w7712">Scandale Beck</part>
+    </parts>
+  </ent>
+  <ent id="rb171" type="location" lat="54.37862216749868" long="-2.90213819434143" gazref="unlock:11323643" feat-type="ppl">
+    <parts>
+      <part ew="w8047" sw="w8047">Windermere</part>
+    </parts>
+  </ent>
+  <ent id="rb172" subtype="otf" type="person">
+    <parts>
+      <part ew="w8195" sw="w8183">Bellegrange woods</part>
+    </parts>
+  </ent>
+  <ent id="rb173" type="location" lat="54.66485193999935" long="-2.751053285977112" gazref="unlock:11038" feat-type="ppl">
+    <parts>
+      <part ew="w8275" sw="w8275">Penrith</part>
+    </parts>
+  </ent>
+  <ent id="rb174" type="location" lat="54.82431428455563" long="-3.163486103007514" gazref="unlock:34118" feat-type="ppl">
+    <parts>
+      <part ew="w8286" sw="w8286">Wigton</part>
+    </parts>
+  </ent>
+  <ent id="rb175" type="location" lat="54.16521522556281" long="-1.48841201078121" gazref="unlock:11181816" feat-type="fac">
+    <parts>
+      <part ew="w8315" sw="w8307">Hutton Hall</part>
+    </parts>
+  </ent>
+  <ent id="rb176" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w8377" sw="w8377">Bri</part>
+    </parts>
+  </ent>
+  <ent id="rb177" type="location" lat="56.55975465773344" long="-3.578756481236189" gazref="unlock:18017" feat-type="ppl">
+    <parts>
+      <part ew="w8419" sw="w8419">Dunkeld</part>
+    </parts>
+  </ent>
+  <ent id="rb178" type="date" year="1808">
+    <parts>
+      <part ew="w8443" sw="w8443">1808</part>
+    </parts>
+  </ent>
+  <ent id="rb179" type="location" coord="rb179" lat="52.91272562873263" long="-3.598503945167559" gazref="unlock:11392" feat-type="ppl">
+    <parts>
+      <part ew="w8522" sw="w8522">Bala</part>
+    </parts>
+  </ent>
+  <ent id="rb180" type="location" coord="rb179" lat="53.14969940381523" long="-3.715467501956977" gazref="unlock:13211761" feat-type="civil">
+    <parts>
+      <part ew="w8534" sw="w8528">North Wales</part>
+    </parts>
+  </ent>
+  <ent id="rb181" type="location" lat="52.98083241105515" long="-3.379160283247081" gazref="unlock:11116823" feat-type="ppl">
+    <parts>
+      <part ew="w8583" sw="w8583">Corwen</part>
+    </parts>
+  </ent>
+  <ent id="rb182" type="location" lat="53.00338274936615" long="-2.903003078084656" gazref="unlock:11069079" feat-type="ppl">
+    <parts>
+      <part ew="w8685" sw="w8685">Dee</part>
+    </parts>
+  </ent>
+  <ent id="rb183" subtype="otf" type="location" lat="52.91272562873263" long="-3.598503945167559" gazref="unlock:11392" feat-type="ppl">
+    <parts>
+      <part ew="w8695" sw="w8695">Bala</part>
+    </parts>
+  </ent>
+  <ent id="rb184" type="person">
+    <parts>
+      <part ew="w8711" sw="w8707">Mr. Woods</part>
+    </parts>
+  </ent>
+  <ent id="rb185" unit="year" trel="before" type="date">
+    <parts>
+      <part ew="w8741" sw="w8730">many years ago</part>
+    </parts>
+  </ent>
+  <ent id="rb186" subtype="otf" type="location" lat="54.60130429850908" long="-3.139254834053809" gazref="unlock:11185565" feat-type="ppl">
+    <parts>
+      <part ew="w9091" sw="w9091">Keswick</part>
+    </parts>
+  </ent>
+  <ent id="rb187" type="person">
+    <parts>
+      <part ew="w9107" sw="w9102">Miss Wright</part>
+    </parts>
+  </ent>
+  <ent id="rb188" type="person">
+    <parts>
+      <part ew="w9153" sw="w9149">Mr. Woods</part>
+    </parts>
+  </ent>
+  <ent id="rb189" type="location" lat="54.61820527648026" long="-3.248133523506749" gazref="unlock:11319972" feat-type="mtn">
+    <parts>
+      <part ew="w9196" sw="w9196">Whinlatter</part>
+    </parts>
+  </ent>
+  <ent id="rb190" type="location" lat="" long="" gazref="">
+    <parts>
+      <part ew="w9222" sw="w9222">Howrey</part>
+    </parts>
+  </ent>
+  <ent id="rb191" subtype="otf" type="location" lat="54.60130429850908" long="-3.139254834053809" gazref="unlock:11185565" feat-type="ppl">
+    <parts>
+      <part ew="w9238" sw="w9238">Keswick</part>
+    </parts>
+  </ent>
+  <ent id="rb192" type="location" lat="54.57713449117234" long="-3.353146108400562" gazref="unlock:8772717" feat-type="water">
+    <parts>
+      <part ew="w9402" sw="w9402">Derwent</part>
+    </parts>
+  </ent>
+  <ent id="rb193" subtype="otf" type="location" lat="54.36053424730091" long="-2.917130763738208" gazref="unlock:11084353" feat-type="ppl">
+    <parts>
+      <part ew="w9553" sw="w9553">Bowness</part>
+    </parts>
+  </ent>
+  <ent id="rb194" type="location" lat="54.55465995529278" long="-3.308042642445016" gazref="unlock:11124107" feat-type="water">
+    <parts>
+      <part ew="w9602" sw="w9602">Crummock</part>
+    </parts>
+  </ent>
+  <ent id="rb195" type="location" lat="54.5460057384521" long="-3.276846777910414" gazref="unlock:11094751" feat-type="ppl">
+    <parts>
+      <part ew="w9635" sw="w9635">Buttermere</part>
+    </parts>
+  </ent>
+  <ent id="rb196" type="location" lat="54.58161331161762" long="-3.308906136428595" gazref="unlock:11278601" feat-type="mtn">
+    <parts>
+      <part ew="w9655" sw="w9649">Scale Hill</part>
+    </parts>
+  </ent>
+</ents>
+<ents source="events">
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev1" subtype="paluftri" type="event"><parts><part ew="w81" sw="w81">paluftris</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev2" subtype="vafculi" type="event"><parts><part ew="w99" sw="w99">vafculis</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev3" subtype="ri" type="event"><parts><part ew="w124" sw="w124">ris</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev4" subtype="folii" type="event"><parts><part ew="w195" sw="w195">foliis</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev5" subtype="globulo" type="event"><parts><part ew="w232" sw="w232">globulos</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev6" subtype="tiie" type="event"><parts><part ew="w244" sw="w244">TiIes</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev7" subtype="tangere" type="event"><parts><part ew="w389" sw="w389">tangere</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev8" subtype="riali" type="event"><parts><part ew="w411" sw="w411">rialis</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev9" subtype="tangere" type="event"><parts><part ew="w438" sw="w438">tangere</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev10" subtype="tangere" type="event"><parts><part ew="w516" sw="w516">tangere</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev11" subtype="go" type="event"><parts><part ew="w563" sw="w563">went</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev12" subtype="see" type="event"><parts><part ew="w583" sw="w583">see</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev13" subtype="muri" type="event"><parts><part ew="w827" sw="w827">muris</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev14" subtype="muri" type="event"><parts><part ew="w920" sw="w920">muris</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev15" subtype="aemulam" type="event"><parts><part ew="w1101" sw="w1101">aemulam</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev16" subtype="vulgari" type="event"><parts><part ew="w1162" sw="w1162">vulgaris</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev17" subtype="see" type="event"><parts><part ew="w1227" sw="w1227">saw</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev18" subtype="ficcioribus" type="event"><parts><part ew="w1265" sw="w1265">ficcioribus</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev19" subtype="flore" type="event"><parts><part ew="w1460" sw="w1460">flores</part></parts></ent>
+  <ent tense="nonfin" voice="pass" asp="simple" modal="no" id="ev20" subtype="feed" type="event"><parts><part ew="w1536" sw="w1536">fed</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev21" subtype="lamenti" type="event"><parts><part ew="w1811" sw="w1811">lamentis</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev22" subtype="contigui" type="event"><parts><part ew="w1883" sw="w1883">contiguis</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev23" subtype="ti" type="event"><parts><part ew="w1900" sw="w1900">tis</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev24" subtype="exugen" type="event"><parts><part ew="w1939" sw="w1939">exugens</part></parts></ent>
+  <ent tense="nonfin" voice="pass" asp="simple" modal="no" id="ev25" subtype="weed" type="event"><parts><part ew="w1961" sw="w1961">Weed</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev26" subtype="quibus" type="event"><parts><part ew="w2164" sw="w2164">quibus</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev27" subtype="_" type="event"><parts><part ew="w2329" sw="w2329">_</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev28" subtype="linpatien" type="event"><parts><part ew="w2396" sw="w2396">linpatiens</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev29" subtype="run" type="event"><parts><part ew="w2649" sw="w2649">runs</part></parts></ent>
+  <ent tense="nonfin" voice="pass" asp="simple" modal="no" id="ev30" subtype="cord" type="event"><parts><part ew="w2839" sw="w2839">corded</part></parts></ent>
+  <ent tense="pres" voice="pass" asp="simple" modal="no" id="ev31" subtype="pass" type="event"><parts><part ew="w3080" sw="w3080">passed</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev32" subtype="sign" type="event"><parts><part ew="w3715" sw="w3715">signed</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev33" subtype="/" type="event"><parts><part ew="w3876" sw="w3876">/</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev34" subtype="sign" type="event"><parts><part ew="w3929" sw="w3929">signed</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev35" subtype="note" type="event"><parts><part ew="w4125" sw="w4125">noted</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev36" subtype="sign" type="event"><parts><part ew="w4175" sw="w4175">signed</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev37" subtype="s" type="event"><parts><part ew="w4273" sw="w4273">s</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev38" subtype="/" type="event"><parts><part ew="w4424" sw="w4424">/</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev39" subtype="note" type="event"><parts><part ew="w4470" sw="w4470">noted</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev40" subtype="sign" type="event"><parts><part ew="w4519" sw="w4519">signed</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev41" subtype="]" type="event"><parts><part ew="w4652" sw="w4652">]</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev42" subtype="[" type="event"><parts><part ew="w4726" sw="w4726">[</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev43" subtype="say" type="event"><parts><part ew="w4763" sw="w4763">said</part></parts></ent>
+  <ent tense="inf" voice="pass" asp="perf" modal="no" id="ev44" subtype="record" type="event"><parts><part ew="w4782" sw="w4782">recorded</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev45" subtype="eontaminellus" type="event"><parts><part ew="w4949" sw="w4949">eontaminellus</part></parts></ent>
+  <ent tense="nonfin" voice="pass" asp="simple" modal="no" id="ev46" subtype="exhibit" type="event"><parts><part ew="w4964" sw="w4964">exhibited</part></parts></ent>
+  <ent tense="nonfin" voice="pass" asp="simple" modal="no" id="ev47" subtype="send" type="event"><parts><part ew="w5147" sw="w5147">sent</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev48" subtype="expect" type="event"><parts><part ew="w5170" sw="w5170">expected</part></parts></ent>
+  <ent tense="nonfin" voice="pass" asp="simple" modal="no" id="ev49" subtype="obtain" type="event"><parts><part ew="w5223" sw="w5223">obtained</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev50" subtype="lie" type="event"><parts><part ew="w5267" sw="w5267">lie</part></parts></ent>
+  <ent tense="past" voice="act" asp="perf" modal="no" id="ev51" subtype="breed" type="event"><parts><part ew="w5275" sw="w5275">bred</part></parts></ent>
+  <ent tense="nonfin" voice="pass" asp="simple" modal="no" id="ev52" subtype="find" type="event"><parts><part ew="w5325" sw="w5325">found</part></parts></ent>
+  <ent tense="nonfin" voice="pass" asp="simple" modal="no" id="ev53" subtype="exhibit" type="event"><parts><part ew="w5506" sw="w5506">exhibited</part></parts></ent>
+  <ent tense="nonfin" voice="pass" asp="simple" modal="no" id="ev54" subtype="collect" type="event"><parts><part ew="w5709" sw="w5709">collected</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev55" subtype="exhibit" type="event"><parts><part ew="w5778" sw="w5778">exhibited</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev56" subtype="[" type="event"><parts><part ew="w5931" sw="w5931">[</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev57" subtype="mention" type="event"><parts><part ew="w5958" sw="w5958">mentioned</part></parts></ent>
+  <ent tense="nonfin" voice="act" asp="prog" modal="no" id="ev58" subtype="occur" type="event"><parts><part ew="w6144" sw="w6144">occurring</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev59" subtype="/" type="event"><parts><part ew="w6351" sw="w6351">/</part></parts></ent>
+  <ent tense="nonfin" voice="pass" asp="simple" modal="no" id="ev60" subtype="give" type="event"><parts><part ew="w6653" sw="w6653">given</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev61" subtype="escape" type="event"><parts><part ew="w7063" sw="w7063">escaped</part></parts></ent>
+  <ent tense="pres" voice="pass" asp="simple" modal="no" id="ev62" subtype="become" type="event"><parts><part ew="w7195" sw="w7195">become</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev63" subtype="bring" type="event"><parts><part ew="w7232" sw="w7232">brought</part></parts></ent>
+  <ent id="ev64" subtype="" nominal="true" type="event"><parts><part ew="w7305" sw="w7305">time</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev65" subtype="meet" type="event"><parts><part ew="w7317" sw="w7317">met</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="perf" modal="no" id="ev66" subtype="see" type="event"><parts><part ew="w7338" sw="w7338">seen</part></parts></ent>
+  <ent tense="nonfin" voice="act" asp="prog" modal="no" id="ev67" subtype="look" type="event"><parts><part ew="w7346" sw="w7346">looking</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev68" subtype="continue" type="event"><parts><part ew="w7474" sw="w7474">continues</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="yes" id="ev69" subtype="doubt" type="event"><parts><part ew="w7508" sw="w7508">doubt</part></parts></ent>
+  <ent tense="pres" voice="pass" asp="simple" modal="no" neg="yes" id="ev70" subtype="confine" type="event"><parts><part ew="w7595" sw="w7595">confined</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev71" subtype="see" type="event"><parts><part ew="w7628" sw="w7628">saw</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev72" subtype="observe" type="event"><parts><part ew="w7669" sw="w7669">observes</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev73" subtype="grow" type="event"><parts><part ew="w7688" sw="w7688">grows</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev74" subtype="separate" type="event"><parts><part ew="w7731" sw="w7731">separated</part></parts></ent>
+  <ent tense="nonfin" voice="act" asp="prog" modal="no" id="ev75" subtype="run" type="event"><parts><part ew="w7771" sw="w7771">running</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev76" subtype="lake" type="event"><parts><part ew="w7856" sw="w7856">lake</part></parts></ent>
+  <ent tense="nonfin" voice="act" asp="prog" modal="no" id="ev77" subtype="ing" type="event"><parts><part ew="w7908" sw="w7908">ing</part></parts></ent>
+  <ent tense="pres" voice="pass" asp="simple" modal="no" id="ev78" subtype="discharge" type="event"><parts><part ew="w7960" sw="w7960">discharged</part></parts></ent>
+  <ent tense="pres" voice="pass" asp="perf" modal="no" id="ev79" subtype="record" type="event"><parts><part ew="w8008" sw="w8008">recorded</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev80" subtype="regard" type="event"><parts><part ew="w8066" sw="w8066">regard</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev81" subtype="grow" type="event"><parts><part ew="w8235" sw="w8235">grows</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev82" subtype="doubt" type="event"><parts><part ew="w8323" sw="w8323">doubt</part></parts></ent>
+  <ent tense="past" voice="pass" asp="simple" modal="no" id="ev83" subtype="naturalize" type="event"><parts><part ew="w8402" sw="w8402">naturalized</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev84" subtype="learn" type="event"><parts><part ew="w8458" sw="w8458">learned</part></parts></ent>
+  <ent tense="past" voice="pass" asp="perf" modal="no" id="ev85" subtype="plant" type="event"><parts><part ew="w8483" sw="w8483">planted</part></parts></ent>
+  <ent tense="pres" voice="pass" asp="perf" modal="no" id="ev86" subtype="plant" type="event"><parts><part ew="w8504" sw="w8504">planted</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="yes" id="ev87" subtype="believe" type="event"><parts><part ew="w8637" sw="w8637">believe</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="perf" modal="no" neg="yes" id="ev88" subtype="see" type="event"><parts><part ew="w8670" sw="w8670">seen</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev89" subtype="observe" type="event"><parts><part ew="w8718" sw="w8718">observed</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="yes" id="ev90" subtype="suppose" type="event"><parts><part ew="w8760" sw="w8760">suppose</part></parts></ent>
+  <ent tense="inf" voice="pass" asp="perf" modal="no" id="ev91" subtype="carry" type="event"><parts><part ew="w8797" sw="w8797">carried</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev92" subtype="occur" type="event"><parts><part ew="w8863" sw="w8863">occurs</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="yes" id="ev93" subtype="suppose" type="event"><parts><part ew="w8918" sw="w8918">suppose</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev94" subtype="grow" type="event"><parts><part ew="w8962" sw="w8962">grows</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev95" subtype="show" type="event"><parts><part ew="w9114" sw="w9114">showed</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev96" subtype="rise" type="event"><parts><part ew="w9212" sw="w9212">rose</part></parts></ent>
+  <ent tense="pres" voice="pass" asp="perf" modal="no" id="ev97" subtype="take" type="event"><parts><part ew="w9262" sw="w9262">taken</part></parts></ent>
+  <ent tense="pres" voice="pass" asp="simple" modal="no" id="ev98" subtype="spread" type="event"><parts><part ew="w9424" sw="w9424">spread</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev99" subtype="see" type="event"><parts><part ew="w9464" sw="w9464">saw</part></parts></ent>
+  <ent tense="nonfin" voice="pass" asp="simple" modal="no" id="ev100" subtype="flower" type="event"><parts><part ew="w9502" sw="w9502">flowered</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev101" subtype="plant" type="event"><parts><part ew="w9575" sw="w9575">planted</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev102" subtype="find" type="event"><parts><part ew="w9663" sw="w9663">found</part></parts></ent>
+</ents>
+<relations source="temprel">
+  <relation id="rbr1" type="beforeorincl" text="tangere">
+    <argument arg1="true" ref="ev7"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr2" type="beforeorincl" text="tangere">
+    <argument arg1="true" ref="ev9"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr3" type="beforeorincl" text="tangere">
+    <argument arg1="true" ref="ev10"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr4" type="beforeorincl" text="went">
+    <argument arg1="true" ref="ev11"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr5" type="beforeorincl" text="saw">
+    <argument arg1="true" ref="ev17"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr6" type="beforeorincl" text="_">
+    <argument arg1="true" ref="ev27"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr7" type="beforeorincl" text="signed">
+    <argument arg1="true" ref="ev32"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr8" type="beforeorincl" text="/">
+    <argument arg1="true" ref="ev33"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr9" type="beforeorincl" text="signed">
+    <argument arg1="true" ref="ev34"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr10" type="beforeorincl" text="noted">
+    <argument arg1="true" ref="ev35"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr11" type="beforeorincl" text="signed">
+    <argument arg1="true" ref="ev36"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr12" type="beforeorincl" text="/">
+    <argument arg1="true" ref="ev38"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr13" type="beforeorincl" text="noted">
+    <argument arg1="true" ref="ev39"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr14" type="beforeorincl" text="signed">
+    <argument arg1="true" ref="ev40"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr15" type="beforeorincl" text="[">
+    <argument arg1="true" ref="ev42"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr16" type="beforeorincl" text="said">
+    <argument arg1="true" ref="ev43"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr17" type="beforeorincl" text="expected">
+    <argument arg1="true" ref="ev48"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr18" type="simultaneous" text="exhibited to Ent. Soc. Lond., Dec.">
+    <argument arg1="true" ref="ev55"/>
+    <argument arg2="true" ref="rb118"/>
+  </relation>
+  <relation id="rbr19" type="beforeorincl" text="[">
+    <argument arg1="true" ref="ev56"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr20" type="beforeorincl" text="mentioned">
+    <argument arg1="true" ref="ev57"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr21" type="beforeorincl" text="/">
+    <argument arg1="true" ref="ev59"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr22" type="simultaneous" text="given ; reference to occurrence near South Shields some twenty years">
+    <argument arg1="true" ref="ev60"/>
+    <argument arg2="true" ref="rb146"/>
+  </relation>
+  <relation id="rbr23" type="beforeorincl" text="escaped">
+    <argument arg1="true" ref="ev61"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr24" type="beforeorincl" text="brought">
+    <argument arg1="true" ref="ev63"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr25" type="beforeorincl" text="met">
+    <argument arg1="true" ref="ev65"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr26" type="simultaneous" text="saw it in 1810">
+    <argument arg1="true" ref="ev71"/>
+    <argument arg2="true" ref="rb168"/>
+  </relation>
+  <relation id="rbr27" type="beforeorincl" text="separated">
+    <argument arg1="true" ref="ev74"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr28" type="simultaneous" text="was quite naturalized near Dunkeld, as long ago as 1808">
+    <argument arg1="true" ref="ev83"/>
+    <argument arg2="true" ref="rb178"/>
+  </relation>
+  <relation id="rbr29" type="beforeorincl" text="learned">
+    <argument arg1="true" ref="ev84"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr30" type="simultaneous" text="observed it many years ago">
+    <argument arg1="true" ref="ev89"/>
+    <argument arg2="true" ref="rb185"/>
+  </relation>
+  <relation id="rbr31" type="beforeorincl" text="showed">
+    <argument arg1="true" ref="ev95"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr32" type="beforeorincl" text="rose">
+    <argument arg1="true" ref="ev96"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr33" type="beforeorincl" text="saw">
+    <argument arg1="true" ref="ev99"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr34" type="beforeorincl" text="planted">
+    <argument arg1="true" ref="ev101"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr35" type="beforeorincl" text="found">
+    <argument arg1="true" ref="ev102"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+</relations></standoff></document>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+<meta>
+<attr name="docdate" id="docdate" year="2021" month="08" date="08" sdate="2021-08-08" day-number="738009" day="Sunday" wdaynum="7">20210808</attr>
+<attr name="tokeniser_version" date="20151216"/></meta>
+<text>
+<p><s id="s2"><w l="dont" pws="yes" id="w13" p="NN" headn="yes" group="B-NP">dont</w> <w l="want" pws="yes" id="w18" p="VBP" class="istate" headv="yes" group="B-VP">want</w> <w pws="yes" id="w23" p="TO" group="B-VP">to</w> <w l="find" pws="yes" id="w26" p="VB" headv="yes" group="I-VP">FIND</w> <w l="a." pws="yes" id="w31" p="NN" headn="yes" group="B-NP">A.</w><w l="hirsuta" pws="no" id="w33" p="NNP" headn="yes" group="I-NP">hirsuta</w> <w l="a." pws="yes" id="w41" p="NN" headn="yes" group="I-NP">A.</w><w pws="no" id="w43" p="," group="O">,</w><w l="hirsuta" pws="no" id="w44" p="NN" headn="yes" group="B-NP">hirsuta</w> <w pws="yes" id="w52" p="," group="O">,</w><w l="a." pws="no" id="w53" p="NN" headn="yes" group="B-NP">A.</w><w l="hir" pws="no" id="w55" p="NN" headn="yes" group="I-NP">hir</w><w pws="no" id="w58" p=":" group="O">-</w>
+<w l="suta" pws="yes" id="w60" p="NN" headn="yes" group="B-NP">suta</w><w pws="no" id="w64" p="." group="O">.</w><w qut="d" pws="no" id="w65" p="``" group="O">"</w><w qut="d" pws="no" id="w66" p="``" group="O">"</w> <w l="fus" pws="yes" id="w68" p="NNP" headn="yes" group="B-NP">FI</w><w l=">" pws="no" id="w70" p="NNP" headn="yes" group="I-NP">&gt;</w><w l="nd" pws="no" id="w71" p="NNP" headn="yes" group="I-NP">ND</w> <w l="a." pws="yes" id="w74" p="NN" headn="yes" group="I-NP">A.</w><w l="a" pws="no" id="w76" p="NNP" headn="yes" group="B-NP">A</w> <w l="b." pws="yes" id="w78" p="NNP" headn="yes" group="I-NP">B.</w><w pws="no" id="w80" p="," group="O">,</w><w l="b" pws="no" id="w81" p="NNP" headn="yes" group="B-NP">B</w></s></p>
+
+<p><s id="s3"><w l="hello" pws="yes" id="w84" p="NN" headn="yes" group="B-NP">hello</w><w pws="no" id="w89" p="," group="O">,</w><w pws="no" id="w90" p="." group="O">.</w><w pws="no" id="w91" p="EX" headn="yes" group="B-NP">there</w></s></p>
+
+<p><s id="s4"><w l="epipacti" pws="yes" id="w98" p="NNP" headn="yes" group="B-NP">Epipactis</w> <w l="helleborine" pws="yes" id="w108" p="NNP" headn="yes" group="I-NP">helleborine</w> <w pws="yes" id="w120" p="CC" group="O">&amp;</w></s></p> 
+
+<p><s id="s5"><w l="multi" pws="yes" id="w124" p="NNS" headn="yes" group="B-NP">multis</w> <w l="&lt;" pws="yes" id="w131" p="VBP" headv="yes" group="B-VP">&lt;</w> <w pws="yes" id="w133" p="JJ" group="B-NP">nigncantibus</w> <w l=">" pws="yes" id="w146" p="NN" headn="yes" group="I-NP">&gt;</w><w l="fibri" pws="no" id="w147" p="VBZ" headv="yes" group="B-VP">fibris</w> <w l="compofitam" pws="yes" id="w154" p="NN" headn="yes" group="B-NP">compofitam</w> <w pws="yes" id="w165" p=":" group="O">;</w><w l="■" pws="no" id="w166" p="NNP" headn="yes" group="B-NP">■</w></s></p>
+
+<p><s id="s6"><w l="■" pws="yes" id="w169" p="NNP" headn="yes" group="B-NP">■</w> <w l="culatus" pws="yes" id="w171" p="NNS" headn="yes" group="I-NP">culati</w><w pws="no" id="w177" p="," group="O">,</w> <w l="durus" pws="yes" id="w179" p="NNS" headn="yes" group="B-NP">duri</w></s></p>
+
+<p><s id="s7"><w pws="yes" id="w185" p="JJ" group="B-ADJP">sssssssssss</w> <w wlastn="true" locname="single" l="london" pws="yes" id="w197" p="NNP" wfirstn="true" group="B-NP">London</w></s></p>
+
+<p><s id="s8"><w l="sssssssss" pws="yes" id="w205" p="NNPS" headn="yes" group="B-NP">sssssssss</w><w pws="no" id="w214" p="CC" headn="yes" group="I-NP">&amp;</w><w l="sss" pws="no" id="w215" p="NNPS" headn="yes" group="I-NP">sss</w> <w l="ssssssssssssssssssssssssssss" pws="yes" id="w219" p="VBZ" headv="yes" group="B-VP">ssssssssssssssssssssssssssss</w> <w l="penstemon" pws="yes" id="w248" p="NNP" headn="yes" group="B-NP">Penstemon</w> <w l="x" pws="yes" id="w258" p="NNP" headn="yes" group="I-NP">x</w> <w l="mirus" pws="yes" id="w260" p="VBZ" headv="yes" group="B-VP">mirus</w> <w pws="yes" id="w266" p="JJ" group="B-NP">ssssssssssssssssssss</w>
+<w l="sssssssssssss" pws="yes" id="w287" p="NN" headn="yes" group="I-NP">sssssssssssss</w>
+<w l="sssssssssssssssssssssssssss" pws="yes" id="w301" p="NN" headn="yes" group="I-NP">sssssssssssssssssssssssssss</w> <w l="sssssssssssss" pws="yes" id="w329" p="VBZ" headv="yes" group="B-VP">sssssssssssss</w>
+<w pws="yes" id="w343" p="JJ" group="B-NP">ssssssssss</w> <w l="sssssssssssssssss" pws="yes" id="w354" p="NN" headn="yes" group="I-NP">sssssssssssssssss</w> <w l="c" pws="yes" id="w372" p="NN" tmln="true" headn="yes" group="I-NP">c</w> <w pws="yes" id="w374" p="." group="O">.</w> <w l="rotundifolium" pws="yes" id="w376" p="NN" headn="yes" group="B-NP">rotundifolium</w> <w l="ssssssssssssssss" pws="yes" id="w390" p="VBZ" headv="yes" group="B-VP">ssssssssssssssss</w> <w l="penstemon" pws="yes" id="w407" p="NNP" headn="yes" group="B-NP">Penstemon</w> <w l="\" pws="yes" id="w417" p="NNP" headn="yes" group="I-NP">\</w><w pws="no" id="w418" p="CD" headn="yes" group="I-NP">u00d7</w> <w pws="yes" id="w424" p="JJ" group="B-NP">mirus</w> <w l="sssssssssssssss" pws="yes" id="w430" p="NN" headn="yes" group="I-NP">sssssssssssssss</w> <w l="s" pws="yes" id="w446" p="VBZ" headv="yes" group="B-VP">s</w> <w wlastn="true" locname="single" l="york" pws="yes" id="w448" p="NNP" group="B-NP">York</w>
+<w l="ssssssssssssss" pws="yes" id="w453" p="NN" headn="yes" group="I-NP">ssssssssssssss</w> <w l="sss" pws="yes" id="w468" p="NN" headn="yes" group="I-NP">sss</w></s></p>
+
+
+
+<p><s id="s9"><w locname="single" l="ger" pws="yes" id="w475" p="NNP" wfirstn="true" group="B-NP">Ger</w><w sb="true" pws="no" id="w478" p="." group="O">.</w></s> <s id="s10"><w l="j.b." pws="yes" id="w480" p="NNP" headn="yes" group="B-NP">J.B.</w> <w l="albus" pws="yes" id="w485" p="VBZ" headv="yes" group="B-VP">albus</w> <w l="vulgari" pws="yes" id="w491" p="NNP" headn="yes" group="B-NP">vulgaris</w> <w wlastn="true" common="true" l="park" pws="yes" id="w500" p="NNP" wfirstn="true" headn="yes" group="I-NP">Park</w><w sb="true" pws="no" id="w504" p="." group="O">.</w></s> <s id="s11"><w pws="yes" id="w506" p="JJ" group="B-NP">albus</w> <w l="flore" pws="yes" id="w512" p="NN" headn="yes" group="I-NP">flore</w> <w l="fubviridus" pws="yes" id="w518" p="NNS" headn="yes" group="I-NP">fubviridi</w> <w l="c.b." pws="yes" id="w528" p="NNP" headn="yes" group="I-NP">C.B.</w> <w pws="yes" id="w533" p="CD" quty="3" headn="yes" group="I-NP">3</w><w l="|" pws="no" id="w534" p="NN" headn="yes" group="B-NP">|</w><w pws="no" id="w535" p=")" group="O">)</w><w pws="no" id="w536" p="JJ" group="B-NP">ite</w> <w l="^" pws="yes" id="w540" p="NN" headn="yes" group="I-NP">^</w><w l="tl" pws="no" id="w541" p="NN" headn="yes" group="I-NP">tl</w><w l="*" pws="no" id="w543" p="NN" headn="yes" group="I-NP">*</w></s></p>
+
+<p><s id="s12"><w pws="yes" id="w546" p="JJ" group="B-NP">sssssssssssssssssssssss</w> <w wlastn="true" locname="single" l="london" pws="yes" id="w570" p="NNP" wfirstn="true" group="I-NP">London</w> <w l="ssssssssssssssssssssssssssss" pws="yes" id="w577" p="NN" headn="yes" group="I-NP">ssssssssssssssssssssssssssss</w> <w l="ssssssssssssssssssss" pws="yes" id="w606" p="VBZ" headv="yes" group="B-VP">ssssssssssssssssssss</w>
+<w pws="yes" id="w627" p="JJ" group="B-NP">sssssssssssss</w>
+<w l="sssssssssssssssssssssssssss" pws="yes" id="w641" p="NN" headn="yes" group="I-NP">sssssssssssssssssssssssssss</w> <w l="convallarium" pws="yes" id="w669" p="NN" headn="yes" group="I-NP">convallaria</w> <w l="transcaucasica" pws="yes" id="w681" p="NN" headn="yes" group="I-NP">transcaucasica</w> <w l="sssssssssssss" pws="yes" id="w696" p="VBZ" headv="yes" group="B-VP">sssssssssssss</w>
+<w pws="yes" id="w710" p="JJ" group="B-NP">ssssssssss</w> <w l="sssssssssssssssss" pws="yes" id="w721" p="NN" headn="yes" group="I-NP">sssssssssssssssss</w> <w l="ssssssssssssssss" pws="yes" id="w739" p="VBZ" headv="yes" group="B-VP">ssssssssssssssss</w> <w l="sssssssssssssss" pws="yes" id="w756" p="NN" headn="yes" group="B-NP">sssssssssssssss</w> <w l="s" pws="yes" id="w772" p="VBZ" headv="yes" group="B-VP">s</w>
+<w pws="yes" id="w774" p="JJ" group="B-NP">ssssssssssssss</w> <w l="ssssssssssssssss" pws="yes" id="w789" p="NN" headn="yes" group="I-NP">ssssssssssssssss</w> <w l="sssssssssssssssssssssssssssssss" pws="yes" id="w806" p="VBZ" headv="yes" group="B-VP">sssssssssssssssssssssssssssssss</w> <w pws="yes" id="w838" p="JJ" group="B-NP">sssssssss</w>
+<w l="sssssssssssssss" pws="yes" id="w848" p="NN" headn="yes" group="I-NP">sssssssssssssss</w> <w l="sssssssss" pws="yes" id="w864" p="NN" headn="yes" group="I-NP">sssssssss</w></s></p>
+
+<p><s id="s13"><w l="%" pws="yes" id="w875" p="NN" headn="yes" group="B-NP">%</w><w l="g." pws="no" id="w876" p="NNP" headn="yes" group="I-NP">G.</w> <w pws="yes" id="w879" p="CD" headn="yes" group="I-NP">granulatum22</w> <w l="be" pws="yes" id="w892" p="VBZ" headv="yes" group="B-VP">is</w> <w pws="yes" id="w895" p="WP" headn="yes" group="B-NP">what</w> <w pws="yes" id="w900" p="PRP" group="B-NP">I</w> <w l="want" pws="yes" id="w902" p="VBP" class="istate" headv="yes" group="B-VP">want</w> <w l="gri" pws="yes" id="w907" p="NNS" headn="yes" group="B-NP">gris</w><w pws="no" id="w911" p=":" group="O">-</w>
+<w pws="yes" id="w913" p="JJ" group="B-ADJP">mere</w></s></p>
+
+<p><s id="s14"><w l="sssssssssssssssssssssss" pws="yes" id="w919" p="NN" headn="yes" group="B-NP">sssssssssssssssssssssss</w> <w l="ssssssssssssssssssssssssssss" pws="yes" id="w943" p="VBZ" headv="yes" group="B-VP">ssssssssssssssssssssssssssss</w> <w pws="yes" id="w972" p="JJ" group="B-NP">ssssssssssssssssssss</w>
+<w l="sssssssssssss" pws="yes" id="w993" p="NN" headn="yes" group="I-NP">sssssssssssss</w>
+<w l="sssssssssssssssssssssssssss" pws="yes" id="w1007" p="VBZ" headv="yes" group="B-VP">sssssssssssssssssssssssssss</w> <w pws="yes" id="w1035" p="JJ" group="B-NP">sssssssssssss</w>
+<w l="ssssssssss" pws="yes" id="w1049" p="NN" headn="yes" group="I-NP">ssssssssss</w> <w l="sssssssssssssssss" pws="yes" id="w1060" p="VBZ" headv="yes" group="B-VP">sssssssssssssssss</w> <w pws="yes" id="w1078" p="JJ" group="B-NP">ssssssssssssssss</w> <w l="sssssssssssssss" pws="yes" id="w1095" p="NN" headn="yes" group="I-NP">sssssssssssssss</w> <w l="s" pws="yes" id="w1111" p="VBZ" headv="yes" group="B-VP">s</w>
+<w pws="yes" id="w1113" p="JJ" group="B-NP">ssssssssssssss</w> <w l="ssssssssssssssss" pws="yes" id="w1128" p="NN" headn="yes" group="I-NP">ssssssssssssssss</w> <w l="sssssssssssssssssssssssssssssss" pws="yes" id="w1145" p="VBZ" headv="yes" group="B-VP">sssssssssssssssssssssssssssssss</w> <w pws="yes" id="w1177" p="JJ" group="B-NP">sssssssss</w>
+<w l="sssssssssssssss" pws="yes" id="w1187" p="NN" headn="yes" group="I-NP">sssssssssssssss</w> <w l="sssssssss" pws="yes" id="w1203" p="NN" headn="yes" group="I-NP">sssssssss</w></s></p>
+
+<p><s id="s15"><w common="true" l="go" pws="yes" id="w1214" p="NNP" wfirstn="true" headn="yes" group="B-NP">Go</w> <w l="granulatum" pws="yes" id="w1217" p="NN" headn="yes" group="I-NP">granulatum</w> <w l="be" pws="yes" id="w1228" p="VBZ" headv="yes" group="B-VP">is</w> <w common="true" pws="yes" id="w1231" p="JJ" group="B-ADJP">NOT</w> <w pws="yes" id="w1235" p="WP" headn="yes" group="B-NP">what</w> <w pws="yes" id="w1240" p="PRP" group="B-NP">I</w> <w l="want" pws="yes" id="w1242" p="VBP" class="istate" headv="yes" group="B-VP">want</w> <w pws="yes" id="w1247" p="DT" group="B-NP">the</w> <w l="lak" pws="yes" id="w1251" p="NN" headn="yes" group="I-NP">lak</w> <w pws="yes" id="w1255" p="IN" group="B-PP">of</w> <w vstem="green" l="green" pws="yes" id="w1258" p="JJ" group="B-NP">green</w> <w l="grass" pws="yes" id="w1264" p="NN" headn="yes" group="I-NP">grass</w></s></p>
+
+<p><s id="s16"><w pws="yes" id="w1271" p="JJ" group="B-ADJP">sssssssssssssssssssssss</w> <w wlastn="true" locname="single" l="london" pws="yes" id="w1295" p="NNP" wfirstn="true" group="B-NP">London</w> <w l="ssssssssssssssssssssssssssss" pws="yes" id="w1302" p="VBZ" headv="yes" group="B-VP">ssssssssssssssssssssssssssss</w> <w pws="yes" id="w1331" p="JJ" group="B-NP">ssssssssssssssssssss</w>
+<w l="sssssssssssss" pws="yes" id="w1352" p="NN" headn="yes" group="I-NP">sssssssssssss</w>
+<w l="sssssssssssssssssssssssssss" pws="yes" id="w1366" p="VBZ" headv="yes" group="B-VP">sssssssssssssssssssssssssss</w> <w pws="yes" id="w1394" p="JJ" group="B-NP">sssssssssssss</w>
+<w l="ssssssssss" pws="yes" id="w1408" p="NN" headn="yes" group="I-NP">ssssssssss</w> <w l="sssssssssssssssss" pws="yes" id="w1419" p="VBZ" headv="yes" group="B-VP">sssssssssssssssss</w> <w pws="yes" id="w1437" p="JJ" group="B-NP">ssssssssssssssss</w> <w l="sssssssssssssss" pws="yes" id="w1454" p="NN" headn="yes" group="I-NP">sssssssssssssss</w> <w l="s" pws="yes" id="w1470" p="VBZ" headv="yes" group="B-VP">s</w>
+<w pws="yes" id="w1472" p="JJ" group="B-NP">ssssssssssssss</w> <w l="ssssssssssssssss" pws="yes" id="w1487" p="NN" headn="yes" group="I-NP">ssssssssssssssss</w> <w l="sssssssssssssssssssssssssssssss" pws="yes" id="w1504" p="VBZ" headv="yes" group="B-VP">sssssssssssssssssssssssssssssss</w> <w pws="yes" id="w1536" p="JJ" group="B-NP">sssssssss</w>
+<w l="sssssssssssssss" pws="yes" id="w1546" p="NN" headn="yes" group="I-NP">sssssssssssssss</w> <w l="sssssssss" pws="yes" id="w1562" p="NN" headn="yes" group="I-NP">sssssssss</w></s></p>
+
+
+
+
+<p><s id="s17"><w l="sssssssssssssssssssssss" pws="yes" id="w1576" p="NN" headn="yes" group="B-NP">sssssssssssssssssssssss</w> <w l="ssssssssssssssssssssssssssss" pws="yes" id="w1600" p="VBZ" headv="yes" group="B-VP">ssssssssssssssssssssssssssss</w> <w pws="yes" id="w1629" p="JJ" group="B-NP">ssssssssssssssssssss</w>
+<w l="sssssssssssss" pws="yes" id="w1650" p="NN" headn="yes" group="I-NP">sssssssssssss</w>
+<w l="sssssssssssssssssssssssssss" pws="yes" id="w1664" p="VBZ" headv="yes" group="B-VP">sssssssssssssssssssssssssss</w> <w pws="yes" id="w1692" p="JJ" group="B-NP">sssssssssssss</w>
+<w l="ssssssssss" pws="yes" id="w1706" p="NN" headn="yes" group="I-NP">ssssssssss</w> <w l="sssssssssssssssss" pws="yes" id="w1717" p="VBZ" headv="yes" group="B-VP">sssssssssssssssss</w> <w pws="yes" id="w1735" p="JJ" group="B-NP">ssssssssssssssss</w> <w l="sssssssssssssss" pws="yes" id="w1752" p="NN" headn="yes" group="I-NP">sssssssssssssss</w> <w l="s" pws="yes" id="w1768" p="VBZ" headv="yes" group="B-VP">s</w>
+<w pws="yes" id="w1770" p="JJ" group="B-NP">ssssssssssssss</w> <w l="ssssssssssssssss" pws="yes" id="w1785" p="NN" headn="yes" group="I-NP">ssssssssssssssss</w> <w l="sssssssssssssssssssssssssssssss" pws="yes" id="w1802" p="VBZ" headv="yes" group="B-VP">sssssssssssssssssssssssssssssss</w> <w pws="yes" id="w1834" p="JJ" group="B-NP">sssssssss</w>
+<w l="sssssssssssssss" pws="yes" id="w1844" p="NN" headn="yes" group="I-NP">sssssssssssssss</w> <w l="sssssssss" pws="yes" id="w1860" p="NN" headn="yes" group="I-NP">sssssssss</w></s></p>
+
+<p><s id="s18"><w pws="yes" id="w1871" p="JJ" group="B-NP">correct</w> <w common="true" l="fell" pws="yes" id="w1879" p="NNP" headn="yes" group="I-NP">Fell</w> <w l="ennerdle" pws="yes" id="w1884" p="NNP" headn="yes" group="I-NP">Ennerdle</w> <w l="word" pws="yes" id="w1893" p="NNS" headn="yes" group="I-NP">words</w> <w pws="yes" id="w1899" p="CD" quty="1" headn="yes" group="I-NP">1</w> <w pws="yes" id="w1901" p="IN" group="B-PP">like</w> <w l="arabi" pws="yes" id="w1906" p="NN" headn="yes" group="B-NP">arabis</w> <w l="hirsuta" pws="yes" id="w1913" p="NN" headn="yes" group="I-NP">hirsuta</w> <w pws="yes" id="w1921" p="DT" group="O">a</w><w sb="true" pws="no" id="w1922" p="." group="O">.</w></s> <s id="s19"><w l="hirsuta" pws="yes" id="w1924" p="NN" headn="yes" group="B-NP">hirsuta</w>
+<w pws="yes" id="w1932" p="CC" headn="yes" group="I-NP">or</w> <w l="perflcarium" pws="yes" id="w1935" p="NNP" headn="yes" group="I-NP">Perflcaria</w> <w l="filiquofa" pws="yes" id="w1946" p="NNP" headn="yes" group="I-NP">filiquofa</w> <w l="potentillum" pws="yes" id="w1956" p="NNP" headn="yes" group="I-NP">Potentilla</w> <w l="laeta" pws="yes" id="w1967" p="NN" headn="yes" group="I-NP">laeta</w>
+<w l="newsolme" pws="yes" id="w1973" p="NN" headn="yes" group="I-NP">newsolme</w> <w l="caldbec" pws="yes" id="w1982" p="NNP" group="B-NP">Caldbec</w> <w common="true" l="fell" pws="yes" id="w1990" p="NNP" headn="yes" group="I-NP">Fell</w><w l="~" pws="no" id="w1994" p="NNP" headn="yes" group="I-NP">~</w> <w l="ennerdle" pws="yes" id="w1996" p="NNP" headn="yes" group="I-NP">Ennerdle</w> <w l="lake" pws="yes" id="w2005" p="NN" headn="yes" group="I-NP">lake</w></s></p>
+
+
+
+<p><s id="s20"><w l="sssssssssssssssssssssss" pws="yes" id="w2013" p="NN" headn="yes" group="B-NP">sssssssssssssssssssssss</w> <w l="ssssssssssssssssssssssssssss" pws="yes" id="w2037" p="VBZ" headv="yes" group="B-VP">ssssssssssssssssssssssssssss</w> <w pws="yes" id="w2066" p="JJ" group="B-NP">ssssssssssssssssssss</w>
+<w l="sssssssssssss" pws="yes" id="w2087" p="NN" headn="yes" group="I-NP">sssssssssssss</w>
+<w l="sssssssssssssssssssssssssss" pws="yes" id="w2101" p="VBZ" headv="yes" group="B-VP">sssssssssssssssssssssssssss</w> <w pws="yes" id="w2129" p="JJ" group="B-NP">sssssssssssss</w>
+<w l="ssssssssss" pws="yes" id="w2143" p="NN" headn="yes" group="I-NP">ssssssssss</w> <w l="sssssssssssssssss" pws="yes" id="w2154" p="VBZ" headv="yes" group="B-VP">sssssssssssssssss</w> <w pws="yes" id="w2172" p="JJ" group="B-NP">ssssssssssssssss</w> <w l="sssssssssssssss" pws="yes" id="w2189" p="NN" headn="yes" group="I-NP">sssssssssssssss</w> <w l="s" pws="yes" id="w2205" p="VBZ" headv="yes" group="B-VP">s</w>
+<w pws="yes" id="w2207" p="JJ" group="B-NP">ssssssssssssss</w> <w l="ssssssssssssssss" pws="yes" id="w2222" p="NN" headn="yes" group="I-NP">ssssssssssssssss</w> <w l="sssssssssssssssssssssssssssssss" pws="yes" id="w2239" p="VBZ" headv="yes" group="B-VP">sssssssssssssssssssssssssssssss</w> <w pws="yes" id="w2271" p="JJ" group="B-NP">sssssssss</w>
+<w l="sssssssssssssss" pws="yes" id="w2281" p="NN" headn="yes" group="I-NP">sssssssssssssss</w> <w l="sssssssss" pws="yes" id="w2297" p="NN" headn="yes" group="I-NP">sssssssss</w></s></p>
+
+<p><s id="s21"><w pws="yes" id="w2308" p="RB" group="B-ADVP">not</w> <w l="correct" pws="yes" id="w2312" p="VB" headv="yes" group="B-VP">correct</w> <w pws="yes" id="w2320" p="IN" group="B-PP">like</w> <w l="nol" pws="yes" id="w2325" p="NN" headn="yes" group="B-NP">nol</w> <w pws="yes" id="w2329" p="PRP" group="B-NP">me</w> <w pws="yes" id="w2332" p="JJ" group="B-NP">noli-tangere</w> <w l="b." pws="yes" id="w2345" p="NNP" headn="yes" group="I-NP">B.</w> <w l="lappa" pws="yes" id="w2348" p="NN" headn="yes" group="I-NP">lappa</w> <w pws="yes" id="w2354" p="JJ" group="B-NP">minor</w> <w l="minor" pws="yes" id="w2360" p="NN" headn="yes" group="I-NP">minor</w></s></p>
+
+
+<p><s id="s22"><w l="sssssssssssssssssssssss" pws="yes" id="w2368" p="NN" headn="yes" group="B-NP">sssssssssssssssssssssss</w> <w l="ssssssssssssssssssssssssssss" pws="yes" id="w2392" p="VBZ" headv="yes" group="B-VP">ssssssssssssssssssssssssssss</w> <w pws="yes" id="w2421" p="JJ" group="B-NP">ssssssssssssssssssss</w>
+<w l="sssssssssssss" pws="yes" id="w2442" p="NN" headn="yes" group="I-NP">sssssssssssss</w>
+<w l="sssssssssssssssssssssssssss" pws="yes" id="w2456" p="VBZ" headv="yes" group="B-VP">sssssssssssssssssssssssssss</w> <w pws="yes" id="w2484" p="JJ" group="B-NP">sssssssssssss</w>
+<w l="ssssssssss" pws="yes" id="w2498" p="NN" headn="yes" group="I-NP">ssssssssss</w> <w l="sssssssssssssssss" pws="yes" id="w2509" p="VBZ" headv="yes" group="B-VP">sssssssssssssssss</w> <w pws="yes" id="w2527" p="JJ" group="B-NP">ssssssssssssssss</w> <w l="sssssssssssssss" pws="yes" id="w2544" p="NN" headn="yes" group="I-NP">sssssssssssssss</w> <w l="s" pws="yes" id="w2560" p="VBZ" headv="yes" group="B-VP">s</w>
+<w pws="yes" id="w2562" p="JJ" group="B-NP">ssssssssssssss</w> <w l="ssssssssssssssss" pws="yes" id="w2577" p="NN" headn="yes" group="I-NP">ssssssssssssssss</w> <w l="sssssssssssssssssssssssssssssss" pws="yes" id="w2594" p="VBZ" headv="yes" group="B-VP">sssssssssssssssssssssssssssssss</w> <w pws="yes" id="w2626" p="JJ" group="B-NP">sssssssss</w>
+<w l="sssssssssssssss" pws="yes" id="w2636" p="NN" headn="yes" group="I-NP">sssssssssssssss</w> <w l="sssssssss" pws="yes" id="w2652" p="NN" headn="yes" group="I-NP">sssssssss</w></s></p>
+
+<p><s id="s23"><w pws="yes" id="w2663" p="JJ" group="B-NP">correct</w> <w l="word" pws="yes" id="w2671" p="NNS" headn="yes" group="I-NP">words</w> <w pws="yes" id="w2677" p="CD" quty="2" headn="yes" group="I-NP">2</w> <w pws="yes" id="w2679" p="IN" group="B-PP">like</w> <w pws="yes" id="w2684" p="." group="O">!</w><w l="|" pws="no" id="w2685" p="VB" headv="yes" group="B-VP">|</w><w pws="no" id="w2686" p="DT" group="O">a</w><w sb="true" pws="no" id="w2687" p="." group="O">.</w></s> <s id="s24"><w l="contracta" pws="yes" id="w2689" p="NN" headn="yes" group="B-NP">contracta</w> <w pws="yes" id="w2699" p="IN" group="B-PP">with</w> <w pws="yes" id="w2704" p="JJ" group="B-NP">correct</w> <w l="loction" pws="yes" id="w2712" p="NN" headn="yes" group="I-NP">loction</w> <w pws="yes" id="w2720" p="IN" group="B-PP">like</w> <w pws="yes" id="w2725" p="CD" quty="1" group="B-NP">1</w> <w l="bassenthwaite" pws="yes" id="w2727" p="NN" headn="yes" group="I-NP">bassenthwaite</w> <w l="hall" pws="yes" id="w2741" p="NNS" headn="yes" group="I-NP">halls</w>
+<w l="rasstt" pws="yes" id="w2747" p="NN" headn="yes" group="I-NP">rasstt</w></s></p>
+
+<p><s id="s25"><w l="sssssssssssssssssssssss" pws="yes" id="w2755" p="NN" headn="yes" group="B-NP">sssssssssssssssssssssss</w> <w l="ssssssssssssssssssssssssssss" pws="yes" id="w2779" p="VBZ" headv="yes" group="B-VP">ssssssssssssssssssssssssssss</w> <w pws="yes" id="w2808" p="JJ" group="B-NP">ssssssssssssssssssss</w>
+<w l="sssssssssssss" pws="yes" id="w2829" p="NN" headn="yes" group="I-NP">sssssssssssss</w>
+<w l="sssssssssssssssssssssssssss" pws="yes" id="w2843" p="VBZ" headv="yes" group="B-VP">sssssssssssssssssssssssssss</w> <w pws="yes" id="w2871" p="JJ" group="B-NP">sssssssssssss</w>
+<w l="ssssssssss" pws="yes" id="w2885" p="NN" headn="yes" group="I-NP">ssssssssss</w> <w l="sssssssssssssssss" pws="yes" id="w2896" p="VBZ" headv="yes" group="B-VP">sssssssssssssssss</w> <w pws="yes" id="w2914" p="JJ" group="B-NP">ssssssssssssssss</w> <w l="sssssssssssssss" pws="yes" id="w2931" p="NN" headn="yes" group="I-NP">sssssssssssssss</w> <w l="s" pws="yes" id="w2947" p="VBZ" headv="yes" group="B-VP">s</w>
+<w pws="yes" id="w2949" p="JJ" group="B-NP">ssssssssssssss</w> <w l="ssssssssssssssss" pws="yes" id="w2964" p="NN" headn="yes" group="I-NP">ssssssssssssssss</w> <w l="sssssssssssssssssssssssssssssss" pws="yes" id="w2981" p="VBZ" headv="yes" group="B-VP">sssssssssssssssssssssssssssssss</w> <w pws="yes" id="w3013" p="JJ" group="B-NP">sssssssss</w>
+<w l="sssssssssssssss" pws="yes" id="w3023" p="NN" headn="yes" group="I-NP">sssssssssssssss</w> <w l="sssssssss" pws="yes" id="w3039" p="NN" headn="yes" group="I-NP">sssssssss</w></s></p>
+
+<p><s id="s26"><w pws="yes" id="w3050" p="JJ" group="B-NP">correct</w> <w l="word" pws="yes" id="w3058" p="NNS" headn="yes" group="I-NP">words</w> <w pws="yes" id="w3064" p="CD" quty="3" headn="yes" group="I-NP">3</w> <w pws="yes" id="w3066" p="IN" group="B-PP">like</w> <w pws="yes" id="w3071" p="(" group="O">{</w><w l="t." pws="no" id="w3072" p="NNP" headn="yes" group="B-NP">T.</w> <w l="hirsuta" pws="yes" id="w3075" p="NNP" headn="yes" group="I-NP">hirsuta</w> <w pws="yes" id="w3083" p="RB" group="I-NP">not</w> <w pws="yes" id="w3087" p="JJ" group="I-NP">correct</w> <w l="loction" pws="yes" id="w3095" p="NN" headn="yes" group="I-NP">loction</w> <w pws="yes" id="w3103" p="IN" group="B-PP">like</w> <w locname="single" l="banno" pws="yes" id="w3108" p="NNP" headn="yes" group="B-NP">Banno</w> <w l="ckburn" pws="yes" id="w3114" p="NN" headn="yes" group="I-NP">ckburn</w></s></p>
+
+<p><s id="s27"><w l="sssssssssssssssssssssss" pws="yes" id="w3122" p="NN" headn="yes" group="B-NP">sssssssssssssssssssssss</w> <w l="ssssssssssssssssssssssssssss" pws="yes" id="w3146" p="VBZ" headv="yes" group="B-VP">ssssssssssssssssssssssssssss</w> <w pws="yes" id="w3175" p="JJ" group="B-NP">ssssssssssssssssssss</w>
+<w l="sssssssssssss" pws="yes" id="w3196" p="NN" headn="yes" group="I-NP">sssssssssssss</w>
+<w l="sssssssssssssssssssssssssss" pws="yes" id="w3210" p="VBZ" headv="yes" group="B-VP">sssssssssssssssssssssssssss</w> <w pws="yes" id="w3238" p="JJ" group="B-NP">sssssssssssss</w>
+<w l="ssssssssss" pws="yes" id="w3252" p="NN" headn="yes" group="I-NP">ssssssssss</w> <w l="sssssssssssssssss" pws="yes" id="w3263" p="VBZ" headv="yes" group="B-VP">sssssssssssssssss</w> <w pws="yes" id="w3281" p="JJ" group="B-NP">ssssssssssssssss</w> <w l="sssssssssssssss" pws="yes" id="w3298" p="NN" headn="yes" group="I-NP">sssssssssssssss</w> <w l="s" pws="yes" id="w3314" p="VBZ" headv="yes" group="B-VP">s</w>
+<w pws="yes" id="w3316" p="JJ" group="B-NP">ssssssssssssss</w> <w l="ssssssssssssssss" pws="yes" id="w3331" p="NN" headn="yes" group="I-NP">ssssssssssssssss</w> <w l="sssssssssssssssssssssssssssssss" pws="yes" id="w3348" p="VBZ" headv="yes" group="B-VP">sssssssssssssssssssssssssssssss</w> <w pws="yes" id="w3380" p="JJ" group="B-NP">sssssssss</w>
+<w l="sssssssssssssss" pws="yes" id="w3390" p="NN" headn="yes" group="I-NP">sssssssssssssss</w> <w l="sssssssss" pws="yes" id="w3406" p="NN" headn="yes" group="I-NP">sssssssss</w></s></p>
+
+<p><s id="s28"><w pws="yes" id="w3417" p="JJ" group="B-NP">correct</w> <w l="word" pws="yes" id="w3425" p="NNS" headn="yes" group="I-NP">words</w> <w pws="yes" id="w3431" p="CD" quty="4" headn="yes" group="I-NP">4</w> <w pws="yes" id="w3433" p="IN" group="B-PP">like</w> <w locname="single" l="briza" pws="yes" id="w3438" p="NNP" headn="yes" group="B-NP">Briza</w> <w l="pilosa" pws="yes" id="w3444" p="NNP" headn="yes" group="I-NP">pilosa</w> <w pws="yes" id="w3451" p="JJ" group="I-NP">correct</w> <w l="loction" pws="yes" id="w3459" p="NN" headn="yes" group="I-NP">loction</w> <w pws="yes" id="w3467" p="IN" group="B-PP">like</w> <w pws="yes" id="w3472" p="CD" quty="2" group="B-NP">2</w> <w l="blowick" pws="yes" id="w3474" p="NN" headn="yes" group="I-NP">blowick</w></s></p>
+
+
+
+<p><s id="s29"><w l="sssssssssssssssssssssss" pws="yes" id="w3485" p="NN" headn="yes" group="B-NP">sssssssssssssssssssssss</w> <w l="ssssssssssssssssssssssssssss" pws="yes" id="w3509" p="VBZ" headv="yes" group="B-VP">ssssssssssssssssssssssssssss</w> <w pws="yes" id="w3538" p="JJ" group="B-NP">ssssssssssssssssssss</w>
+<w l="sssssssssssss" pws="yes" id="w3559" p="NN" headn="yes" group="I-NP">sssssssssssss</w>
+<w l="sssssssssssssssssssssssssss" pws="yes" id="w3573" p="VBZ" headv="yes" group="B-VP">sssssssssssssssssssssssssss</w> <w pws="yes" id="w3601" p="JJ" group="B-NP">sssssssssssss</w>
+<w l="ssssssssss" pws="yes" id="w3615" p="NN" headn="yes" group="I-NP">ssssssssss</w> <w l="sssssssssssssssss" pws="yes" id="w3626" p="VBZ" headv="yes" group="B-VP">sssssssssssssssss</w> <w pws="yes" id="w3644" p="JJ" group="B-NP">ssssssssssssssss</w> <w l="sssssssssssssss" pws="yes" id="w3661" p="NN" headn="yes" group="I-NP">sssssssssssssss</w> <w l="s" pws="yes" id="w3677" p="VBZ" headv="yes" group="B-VP">s</w>
+<w pws="yes" id="w3679" p="JJ" group="B-NP">ssssssssssssss</w> <w l="ssssssssssssssss" pws="yes" id="w3694" p="NN" headn="yes" group="I-NP">ssssssssssssssss</w> <w l="sssssssssssssssssssssssssssssss" pws="yes" id="w3711" p="VBZ" headv="yes" group="B-VP">sssssssssssssssssssssssssssssss</w> <w pws="yes" id="w3743" p="JJ" group="B-NP">sssssssss</w>
+<w l="sssssssssssssss" pws="yes" id="w3753" p="NN" headn="yes" group="I-NP">sssssssssssssss</w> <w l="sssssssss" pws="yes" id="w3769" p="NN" headn="yes" group="I-NP">sssssssss</w></s></p>
+
+<p><s id="s30"><w pws="yes" id="w3780" p="RB" group="B-NP">not</w> <w pws="yes" id="w3784" p="JJ" group="I-NP">correct</w> <w l="word" pws="yes" id="w3792" p="NNS" headn="yes" group="I-NP">words</w> <w pws="yes" id="w3798" p="IN" group="B-PP">like</w> <w l="camanulum" pws="yes" id="w3803" p="NNP" headn="yes" group="B-NP">Camanula</w> <w l="legionensis" pws="yes" id="w3812" p="VBZ" headv="yes" group="B-VP">legionensis</w> <w pws="yes" id="w3824" p="JJ" group="B-NP">correct</w> <w l="loction" pws="yes" id="w3832" p="NN" headn="yes" group="I-NP">loction</w> <w pws="yes" id="w3840" p="IN" group="B-PP">like</w> <w l="bassenthwaite" pws="yes" id="w3845" p="NN" headn="yes" group="B-NP">bassenthwaite</w> <w l="hall" pws="yes" id="w3859" p="NNS" headn="yes" group="I-NP">halls</w></s></p>
+
+
+<p><s id="s31"><w l="sssssssssssssssssssssss" pws="yes" id="w3867" p="NN" headn="yes" group="B-NP">sssssssssssssssssssssss</w> <w l="ssssssssssssssssssssssssssss" pws="yes" id="w3891" p="VBZ" headv="yes" group="B-VP">ssssssssssssssssssssssssssss</w> <w pws="yes" id="w3920" p="JJ" group="B-NP">ssssssssssssssssssss</w>
+<w l="sssssssssssss" pws="yes" id="w3941" p="NN" headn="yes" group="I-NP">sssssssssssss</w>
+<w l="sssssssssssssssssssssssssss" pws="yes" id="w3955" p="VBZ" headv="yes" group="B-VP">sssssssssssssssssssssssssss</w> <w pws="yes" id="w3983" p="JJ" group="B-NP">sssssssssssss</w>
+<w l="ssssssssss" pws="yes" id="w3997" p="NN" headn="yes" group="I-NP">ssssssssss</w> <w l="sssssssssssssssss" pws="yes" id="w4008" p="VBZ" headv="yes" group="B-VP">sssssssssssssssss</w> <w pws="yes" id="w4026" p="JJ" group="B-NP">ssssssssssssssss</w> <w l="sssssssssssssss" pws="yes" id="w4043" p="NN" headn="yes" group="I-NP">sssssssssssssss</w> <w l="s" pws="yes" id="w4059" p="VBZ" headv="yes" group="B-VP">s</w>
+<w pws="yes" id="w4061" p="JJ" group="B-NP">ssssssssssssss</w> <w l="ssssssssssssssss" pws="yes" id="w4076" p="NN" headn="yes" group="I-NP">ssssssssssssssss</w> <w l="sssssssssssssssssssssssssssssss" pws="yes" id="w4093" p="VBZ" headv="yes" group="B-VP">sssssssssssssssssssssssssssssss</w> <w pws="yes" id="w4125" p="JJ" group="B-NP">sssssssss</w>
+<w l="sssssssssssssss" pws="yes" id="w4135" p="NN" headn="yes" group="I-NP">sssssssssssssss</w> <w l="sssssssss" pws="yes" id="w4151" p="NN" headn="yes" group="I-NP">sssssssss</w></s></p>
+
+</text>
+<standoff>
+<ents source="ner-rb">
+  <ent id="rb1" type="location" lat="51.48819488345327" long="-0.0873480518664991" gazref="unlock:13326794" in-country="GB" feat-type="civila" pop-size="7421209">
+    <parts>
+      <part ew="w197" sw="w197">London</part>
+    </parts>
+  </ent>
+  <ent id="rb2" type="location" lat="53.96568891288376" long="-1.070453705151584" gazref="unlock:13319369" in-country="GB" feat-type="civila" pop-size="144202">
+    <parts>
+      <part ew="w448" sw="w448">York</part>
+    </parts>
+  </ent>
+  <ent id="rb3" type="location" lat="51.76748869992458" long="-3.979534627659739" gazref="unlock:11328811" feat-type="other">
+    <parts>
+      <part ew="w475" sw="w475">Ger</part>
+    </parts>
+  </ent>
+  <ent id="rb4" type="location" lat="51.48819488345327" long="-0.0873480518664991" gazref="unlock:13326794" in-country="GB" feat-type="civila" pop-size="7421209">
+    <parts>
+      <part ew="w570" sw="w570">London</part>
+    </parts>
+  </ent>
+  <ent id="rb5" type="location" lat="51.48819488345327" long="-0.0873480518664991" gazref="unlock:13326794" in-country="GB" feat-type="civila" pop-size="7421209">
+    <parts>
+      <part ew="w1295" sw="w1295">London</part>
+    </parts>
+  </ent>
+  <ent id="rb6" type="location" lat="50.92126868088786" long="0.4955766907860029" gazref="unlock:11096474" feat-type="mtn">
+    <parts>
+      <part ew="w1982" sw="w1982">Caldbec</part>
+    </parts>
+  </ent>
+</ents>
+<ents source="events">
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev1" subtype="want" type="event"><parts><part ew="w18" sw="w18">want</part></parts></ent>
+  <ent tense="inf" voice="act" asp="simple" modal="no" id="ev2" subtype="find" type="event"><parts><part ew="w26" sw="w26">FIND</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev3" subtype="&lt;" type="event"><parts><part ew="w131" sw="w131">&lt;</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev4" subtype="fibri" type="event"><parts><part ew="w147" sw="w147">fibris</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev5" subtype="ssssssssssssssssssssssssssss" type="event"><parts><part ew="w219" sw="w219">ssssssssssssssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev6" subtype="mirus" type="event"><parts><part ew="w260" sw="w260">mirus</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev7" subtype="sssssssssssss" type="event"><parts><part ew="w329" sw="w329">sssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev8" subtype="ssssssssssssssss" type="event"><parts><part ew="w390" sw="w390">ssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev9" subtype="s" type="event"><parts><part ew="w446" sw="w446">s</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev10" subtype="albus" type="event"><parts><part ew="w485" sw="w485">albus</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev11" subtype="ssssssssssssssssssss" type="event"><parts><part ew="w606" sw="w606">ssssssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev12" subtype="sssssssssssss" type="event"><parts><part ew="w696" sw="w696">sssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev13" subtype="ssssssssssssssss" type="event"><parts><part ew="w739" sw="w739">ssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev14" subtype="s" type="event"><parts><part ew="w772" sw="w772">s</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev15" subtype="sssssssssssssssssssssssssssssss" type="event"><parts><part ew="w806" sw="w806">sssssssssssssssssssssssssssssss</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev16" subtype="want" type="event"><parts><part ew="w902" sw="w902">want</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev17" subtype="ssssssssssssssssssssssssssss" type="event"><parts><part ew="w943" sw="w943">ssssssssssssssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev18" subtype="sssssssssssssssssssssssssss" type="event"><parts><part ew="w1007" sw="w1007">sssssssssssssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev19" subtype="sssssssssssssssss" type="event"><parts><part ew="w1060" sw="w1060">sssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev20" subtype="s" type="event"><parts><part ew="w1111" sw="w1111">s</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev21" subtype="sssssssssssssssssssssssssssssss" type="event"><parts><part ew="w1145" sw="w1145">sssssssssssssssssssssssssssssss</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev22" subtype="want" type="event"><parts><part ew="w1242" sw="w1242">want</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev23" subtype="ssssssssssssssssssssssssssss" type="event"><parts><part ew="w1302" sw="w1302">ssssssssssssssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev24" subtype="sssssssssssssssssssssssssss" type="event"><parts><part ew="w1366" sw="w1366">sssssssssssssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev25" subtype="sssssssssssssssss" type="event"><parts><part ew="w1419" sw="w1419">sssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev26" subtype="s" type="event"><parts><part ew="w1470" sw="w1470">s</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev27" subtype="sssssssssssssssssssssssssssssss" type="event"><parts><part ew="w1504" sw="w1504">sssssssssssssssssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev28" subtype="ssssssssssssssssssssssssssss" type="event"><parts><part ew="w1600" sw="w1600">ssssssssssssssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev29" subtype="sssssssssssssssssssssssssss" type="event"><parts><part ew="w1664" sw="w1664">sssssssssssssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev30" subtype="sssssssssssssssss" type="event"><parts><part ew="w1717" sw="w1717">sssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev31" subtype="s" type="event"><parts><part ew="w1768" sw="w1768">s</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev32" subtype="sssssssssssssssssssssssssssssss" type="event"><parts><part ew="w1802" sw="w1802">sssssssssssssssssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev33" subtype="ssssssssssssssssssssssssssss" type="event"><parts><part ew="w2037" sw="w2037">ssssssssssssssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev34" subtype="sssssssssssssssssssssssssss" type="event"><parts><part ew="w2101" sw="w2101">sssssssssssssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev35" subtype="sssssssssssssssss" type="event"><parts><part ew="w2154" sw="w2154">sssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev36" subtype="s" type="event"><parts><part ew="w2205" sw="w2205">s</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev37" subtype="sssssssssssssssssssssssssssssss" type="event"><parts><part ew="w2239" sw="w2239">sssssssssssssssssssssssssssssss</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev38" subtype="correct" type="event"><parts><part ew="w2312" sw="w2312">correct</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev39" subtype="ssssssssssssssssssssssssssss" type="event"><parts><part ew="w2392" sw="w2392">ssssssssssssssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev40" subtype="sssssssssssssssssssssssssss" type="event"><parts><part ew="w2456" sw="w2456">sssssssssssssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev41" subtype="sssssssssssssssss" type="event"><parts><part ew="w2509" sw="w2509">sssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev42" subtype="s" type="event"><parts><part ew="w2560" sw="w2560">s</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev43" subtype="sssssssssssssssssssssssssssssss" type="event"><parts><part ew="w2594" sw="w2594">sssssssssssssssssssssssssssssss</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev44" subtype="|" type="event"><parts><part ew="w2685" sw="w2685">|</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev45" subtype="ssssssssssssssssssssssssssss" type="event"><parts><part ew="w2779" sw="w2779">ssssssssssssssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev46" subtype="sssssssssssssssssssssssssss" type="event"><parts><part ew="w2843" sw="w2843">sssssssssssssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev47" subtype="sssssssssssssssss" type="event"><parts><part ew="w2896" sw="w2896">sssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev48" subtype="s" type="event"><parts><part ew="w2947" sw="w2947">s</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev49" subtype="sssssssssssssssssssssssssssssss" type="event"><parts><part ew="w2981" sw="w2981">sssssssssssssssssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev50" subtype="ssssssssssssssssssssssssssss" type="event"><parts><part ew="w3146" sw="w3146">ssssssssssssssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev51" subtype="sssssssssssssssssssssssssss" type="event"><parts><part ew="w3210" sw="w3210">sssssssssssssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev52" subtype="sssssssssssssssss" type="event"><parts><part ew="w3263" sw="w3263">sssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev53" subtype="s" type="event"><parts><part ew="w3314" sw="w3314">s</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev54" subtype="sssssssssssssssssssssssssssssss" type="event"><parts><part ew="w3348" sw="w3348">sssssssssssssssssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev55" subtype="ssssssssssssssssssssssssssss" type="event"><parts><part ew="w3509" sw="w3509">ssssssssssssssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev56" subtype="sssssssssssssssssssssssssss" type="event"><parts><part ew="w3573" sw="w3573">sssssssssssssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev57" subtype="sssssssssssssssss" type="event"><parts><part ew="w3626" sw="w3626">sssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev58" subtype="s" type="event"><parts><part ew="w3677" sw="w3677">s</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev59" subtype="sssssssssssssssssssssssssssssss" type="event"><parts><part ew="w3711" sw="w3711">sssssssssssssssssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev60" subtype="legionensis" type="event"><parts><part ew="w3812" sw="w3812">legionensis</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev61" subtype="ssssssssssssssssssssssssssss" type="event"><parts><part ew="w3891" sw="w3891">ssssssssssssssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev62" subtype="sssssssssssssssssssssssssss" type="event"><parts><part ew="w3955" sw="w3955">sssssssssssssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev63" subtype="sssssssssssssssss" type="event"><parts><part ew="w4008" sw="w4008">sssssssssssssssss</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev64" subtype="s" type="event"><parts><part ew="w4059" sw="w4059">s</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev65" subtype="sssssssssssssssssssssssssssssss" type="event"><parts><part ew="w4093" sw="w4093">sssssssssssssssssssssssssssssss</part></parts></ent>
+</ents>
+<relations source="temprel">
+</relations></standoff></document>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="3">
+<meta>
+<attr name="docdate" id="docdate" year="2021" month="08" date="08" sdate="2021-08-08" day-number="738009" day="Sunday" wdaynum="7">20210808</attr>
+<attr name="tokeniser_version" date="20151216"/></meta>
+<text>
+<p><s id="s2"><w pws="yes" id="w13" p="DT" group="B-NP">The</w> <w pws="yes" id="w17" p="JJ" group="I-NP">fibrous</w> <w l="root" pws="yes" id="w25" p="NN" headn="yes" group="I-NP">root</w> <w l="throw" pws="yes" id="w30" p="VBZ" headv="yes" group="B-VP">throws</w> <w pws="yes" id="w37" p="RP" group="I-VP">out</w> <w pws="yes" id="w41" p="JJ" group="B-NP">many</w> <w pws="yes" id="w46" p="JJ" group="I-NP">proftrate</w> <w l="fpread" pws="yes" id="w56" p="VBG" group="I-NP">fpreading</w> 
+<w l="branch" pws="yes" id="w67" p="VBN" group="I-NP">branched</w> <w common="true" l="item" pws="yes" id="w76" p="NNS" headn="yes" group="I-NP">Items</w><w pws="no" id="w81" p="," group="O">,</w> <w pws="yes" id="w83" p="WDT" headn="yes" group="B-NP">which</w> <w l="be" pws="yes" id="w89" p="VBP" headv="yes" group="B-VP">are</w> <w l="coniston" pws="yes" id="w93" p="NNP" group="B-NP">Coniston</w> <w common="true" l="water" pws="yes" id="w102" p="NNP" group="I-NP">Water</w> <w l="round" pws="yes" id="w108" p="NN" headn="yes" group="I-NP">round</w><w pws="no" id="w113" p="," group="O">,</w> <w l="hollow" pws="yes" id="w115" p="NN" headn="yes" group="B-NP">hollow</w><w pws="no" id="w121" p="," group="O">,</w> <w l="leafy" pws="yes" id="w123" p="NN" headn="yes" group="B-NP">leafy</w><w pws="no" id="w128" p="," group="O">,</w> <w pws="yes" id="w130" p="CC" group="O">and</w> <w l="clothe" pws="yes" id="w134" p="VBD" headv="yes" group="B-VP">clothed</w> 
+<w pws="yes" id="w143" p="IN" group="B-PP">like</w> <w pws="yes" id="w148" p="DT" group="B-NP">the</w> <w l="leaf" pws="yes" id="w152" p="NNS" headn="yes" group="I-NP">leaves</w> <w pws="yes" id="w159" p="IN" group="B-PP">with</w> <w pws="yes" id="w164" p="JJ" group="B-ADJP">long</w><w pws="no" id="w168" p="," group="O">,</w> <w l="fpread" pws="yes" id="w170" p="VBG" headv="yes" group="B-VP">fpreading</w><w pws="no" id="w179" p="," group="O">,</w> <w pws="yes" id="w181" p="JJ" group="B-NP">foft</w> <w l="hair" pws="yes" id="w186" p="NNS" headn="yes" group="I-NP">hairs</w><w sb="true" pws="no" id="w191" p="." group="O">.</w></s> <s id="s3"><w pws="yes" id="w193" p="DT" group="B-NP">The</w> <w l="footftalk" pws="yes" id="w197" p="NNS" headn="yes" group="I-NP">footftalks</w> 
+<w l="be" pws="yes" id="w209" p="VBP" headv="yes" group="B-VP">are</w> <w pws="yes" id="w213" p="RB" group="B-ADJP">rather</w> <w pws="yes" id="w220" p="JJ" group="I-ADJP">long</w><w pws="no" id="w224" p="," group="O">,</w> <w pws="yes" id="w226" p="CC" group="O">and</w> <w l="dilate" pws="yes" id="w230" p="VBD" headv="yes" group="B-VP">dilated</w> <w pws="yes" id="w238" p="IN" group="B-PP">at</w> <w pws="yes" id="w241" p="PRP$" group="B-NP">their</w> <w l="bafe" pws="yes" id="w247" p="NN" headn="yes" group="I-NP">bafe</w> <w pws="yes" id="w252" p="IN" group="B-PP">into</w> <w pws="yes" id="w257" p="DT" group="B-NP">a</w> <w l="pair" pws="yes" id="w259" p="NN" headn="yes" group="I-NP">pair</w> <w pws="yes" id="w264" p="IN" group="B-PP">of</w> <w l="mem" pws="yes" id="w267" p="NN" headn="yes" group="B-NP">mem</w><w pws="no" id="w270" p=":" group="O">-</w> 
+<w pws="yes" id="w273" p="JJ" group="B-NP">branous</w> <w l="ftipulse" pws="yes" id="w281" p="NN" headn="yes" group="I-NP">ftipulse</w> <w l="*" pws="yes" id="w290" p="NN" headn="yes" group="I-NP">*</w><w pws="no" id="w291" p="," group="O">,</w></s></p> 
+
+<p><s id="s4"><w tmla="true" pws="yes" id="w295" p="JJR" group="B-NP">lower</w> <w l="leaf" pws="yes" id="w301" p="NNS" headn="yes" group="I-NP">leaves</w> <w pws="yes" id="w308" p="RB" group="B-ADVP">flightly</w> <w l="lobe" pws="yes" id="w317" p="VBD" headv="yes" group="B-VP">lobed</w><w pws="no" id="w322" p="," group="O">,</w> <w l="coniston" pws="yes" id="w324" p="NNP" group="B-NP">Coniston</w> <w common="true" l="water" pws="yes" id="w333" p="NNP" group="I-NP">Water</w> <w pws="yes" id="w339" p="JJ" group="I-NP">upper</w> <w l="one" pws="yes" id="w345" p="NNS" headn="yes" group="I-NP">ones</w> <w pws="yes" id="w350" p="RB" group="B-ADVP">deeply</w> 
+<w pws="yes" id="w358" p="RB" group="I-ADVP">fo</w><w pws="no" id="w360" p="," group="O">,</w> <w pws="yes" id="w362" p="CC" group="O">and</w> <w pws="yes" id="w366" p="DT" headn="yes" group="B-NP">all</w> <w l="crenate" pws="yes" id="w370" p="NN" headn="yes" group="I-NP">crenate</w><w sb="true" pws="no" id="w377" p="." group="O">.</w></s> <s id="s5"><w pws="yes" id="w379" p="IN" group="B-PP">On</w> <w l="tuesday" pws="yes" id="w382" p="NNP" day="Tuesday" wdaynum="2" group="B-NP">Tuesday</w> <w pws="yes" id="w390" p="PRP" group="B-NP">I</w> <w l="visit" pws="yes" id="w392" p="VBD" headv="yes" group="B-VP">visited</w> <w l="coniston" pws="yes" id="w400" p="NNP" group="B-NP">Coniston</w> <w common="true" l="water" pws="yes" id="w409" p="NNP" group="I-NP">Water</w> <w pws="yes" id="w415" p="IN" group="B-PP">for</w> <w pws="yes" id="w419" p="DT" group="B-NP">a</w> <w l="swim" pws="yes" id="w421" p="NN" event="true" headn="yes" group="I-NP">swim</w><w sb="true" pws="no" id="w425" p="." group="O">.</w></s>
+<s id="s6"><w pws="yes" id="w427" p="PRP" group="B-NP">I</w> <w l="be" pws="yes" id="w429" p="VBD" headv="yes" group="B-VP">was</w> <w pws="yes" id="w433" p="RB" group="B-ADJP">pretty</w> <w tmla="true" pws="yes" id="w440" p="JJ" group="I-ADJP">happy</w> <w pws="yes" id="w446" p="DT" group="B-NP">the</w> <w l="trail" pws="yes" id="w450" p="VBG" group="I-NP">trailing</w> <w l="branch" pws="yes" id="w459" p="NNS" headn="yes" group="I-NP">branches</w> <w pws="yes" id="w468" p="RB" group="B-ADVP">often</w> <w l="produce" pws="yes" id="w474" p="VBP" headv="yes" group="B-VP">produce</w><w pws="no" id="w481" p="," group="O">,</w> 
+<w pws="yes" id="w484" p="IN" group="B-PP">towards</w> <w pws="yes" id="w492" p="PRP$" group="B-NP">their</w> <w l="extremity" pws="yes" id="w498" p="NNS" headn="yes" group="I-NP">extremities</w><w pws="no" id="w509" p="," group="O">,</w> <w pws="yes" id="w511" p="JJ" group="B-NP">fimple</w> <w pws="yes" id="w518" p="JJ" group="I-NP">lanceolate</w> <w pws="yes" id="w529" p="JJ" group="I-NP">entire</w> <w l="leaf" pws="yes" id="w536" p="NNS" headn="yes" group="I-NP">leaves</w><w sb="true" pws="no" id="w542" p="." group="O">.</w></s> <s id="s7"><w pws="yes" id="w544" p="DT" group="B-NP">The</w> 
+<w l="flower-ftalk" pws="yes" id="w549" p="NNS" headn="yes" group="I-NP">flower-ftalks</w> <w pws="yes" id="w563" p="(" group="O">(</w><w l="land" pws="no" id="w564" p="NN" headn="yes" group="B-NP">land</w> <w l="folitary" pws="yes" id="w569" p="NN" headn="yes" group="I-NP">folitary</w><w pws="no" id="w577" p="," group="O">,</w></s></p> 
+
+<p><s id="s8"><w l="oppofite" pws="yes" id="w581" p="NN" headn="yes" group="B-NP">oppofite</w> <w pws="yes" id="w590" p="TO" group="B-PP">to</w> <w pws="yes" id="w593" p="DT" group="B-NP">the</w> <w l="leaf" pws="yes" id="w597" p="NNS" headn="yes" group="I-NP">leaves</w><w pws="no" id="w603" p="," group="O">,</w> <w pws="yes" id="w605" p="DT" headn="yes" group="B-NP">each</w> <w l="bear" pws="yes" id="w610" p="VBG" headv="yes" group="B-VP">bearing</w> 
+<w pws="yes" id="w619" p="DT" group="B-NP">a</w> <w pws="yes" id="w621" p="RB" group="I-NP">very</w> <w pws="yes" id="w626" p="JJ" group="I-NP">fmall</w> <w pws="yes" id="w632" p="JJ" group="I-NP">yellow</w> <w l="flower" pws="yes" id="w639" p="NN" headn="yes" group="I-NP">flower</w><w pws="no" id="w645" p="," group="O">,</w> <w pws="yes" id="w647" p="JJ" group="B-NP">whole</w> <w l="petal" pws="yes" id="w653" p="NNS" headn="yes" group="I-NP">petals</w> <w l="be" pws="yes" id="w660" p="VBP" headv="yes" group="B-VP">are</w> <w pws="yes" id="w664" p="JJ" group="B-NP">fo</w> <w l="st." pws="yes" id="w667" p="NNP" group="I-NP">St.</w> <w l="helen" pws="yes" id="w671" p="NNP" group="I-NP">Helens</w> <w l="minute" pws="yes" id="w678" p="NN" headn="yes" group="I-NP">minute</w> <w pws="yes" id="w685" p="CC" headn="yes" group="I-NP">and</w> <w l="fu" pws="yes" id="w689" p="NN" headn="yes" group="I-NP">fu</w><w pws="no" id="w691" p=":" group="O">-</w> 
+<w pws="yes" id="w694" p="JJ" group="B-NP">gacious</w><w pws="no" id="w701" p="," group="I-NP">,</w> <w pws="yes" id="w703" p="RB" group="I-NP">poffibly</w> <w pws="yes" id="w712" p="JJ" group="I-NP">fo</w> <w l="imperfect" pws="yes" id="w715" p="NN" headn="yes" group="I-NP">imperfect</w><w pws="no" id="w724" p="," group="O">,</w> <w pws="yes" id="w726" p="PRP" group="B-NP">they</w> <w l="can" pws="yes" id="w731" p="MD" group="B-VP">can</w> <w pws="yes" id="w735" p="RB" group="I-VP">rarely</w> <w l="be" pws="yes" id="w742" p="VB" group="I-VP">be</w> <w l="feen" pws="yes" id="w745" p="VBN" headv="yes" group="I-VP">feen</w> <w pws="yes" id="w750" p="IN" group="B-PP">in</w> <w pws="yes" id="w753" p="PRP$" group="B-NP">their</w> 
+<w pws="yes" id="w760" p="JJ" group="I-NP">proper</w> <w l="form" pws="yes" id="w767" p="NN" headn="yes" group="I-NP">form</w> <w pws="yes" id="w772" p="CC" headn="yes" group="I-NP">and</w> <w l="number" pws="yes" id="w776" p="NN" tmln="true" headn="yes" group="I-NP">number</w><w sb="true" pws="no" id="w782" p="." group="O">.</w></s> <s id="s9"><w pws="yes" id="w784" p="DT" group="B-NP">This</w> <w l="fpecy" pws="yes" id="w789" p="NNS" headn="yes" group="I-NP">fpecies</w> <w l="be" pws="yes" id="w797" p="VBZ" group="B-VP">is</w> <w l="characterize" pws="yes" id="w800" p="VBN" headv="yes" group="I-VP">characterized</w> <w pws="yes" id="w814" p="RB" group="B-ADVP">very</w> 
+<w pws="yes" id="w820" p="RB" group="I-ADVP">clearly</w> <w pws="yes" id="w828" p="IN" group="B-PP">by</w> <w pws="yes" id="w831" p="PRP$" group="B-NP">its</w> <w l="comprefied" pws="yes" id="w835" p="NN" headn="yes" group="I-NP">comprefied</w> <w l="feed" pws="yes" id="w846" p="VBZ" headv="yes" group="B-VP">feeds</w><w pws="no" id="w851" p="," group="O">,</w> <w pws="yes" id="w853" p="JJ" group="B-NP">whofe</w> <w l="fide" pws="yes" id="w859" p="NNS" headn="yes" group="I-NP">fides</w> <w l="be" pws="yes" id="w865" p="VBP" headv="yes" group="B-VP">are</w> <w pws="yes" id="w869" p="JJ" group="B-ADJP">rough</w> <w pws="yes" id="w875" p="IN" group="B-PP">with</w> 
+<w pws="yes" id="w881" p="JJ" group="B-NP">thick-fet</w> <w l="tubercle" pws="yes" id="w891" p="NNS" headn="yes" group="I-NP">tubercles</w><w pws="no" id="w900" p="," group="O">,</w> <w pws="yes" id="w902" p="DT" headn="yes" group="B-NP">each</w> <w pws="yes" id="w907" p="IN" group="B-PP">of</w> <w pws="yes" id="w910" p="WDT" headn="yes" group="B-NP">which</w> <w l="end" pws="yes" id="w916" p="VBZ" class="aspectual" headv="yes" group="B-VP">ends</w> <w pws="yes" id="w921" p="IN" group="B-PP">in</w> <w pws="yes" id="w924" p="DT" group="B-NP">a</w> <w vstem="hook" l="hooked" pws="yes" id="w926" p="JJ" group="I-NP">hooked</w> 
+<w l="point" pws="yes" id="w934" p="NN" headn="yes" group="I-NP">point</w><w sb="true" pws="no" id="w939" p="." group="O">.</w></s> <s id="s10"><w l="walk" pws="yes" id="w941" p="VBG" headv="yes" group="B-VP">Walking</w> <w pws="yes" id="w949" p="IN" group="B-PP">alongside</w> <w l="st." pws="yes" id="w959" p="NNP" group="B-NP">St.</w> <w l="helen" pws="yes" id="w963" p="NNP" group="I-NP">Helens</w> <w pws="yes" id="w970" p="TO" group="B-PP">to</w> <w pws="yes" id="w973" p="DT" group="B-NP">the</w> <w l="shore" pws="yes" id="w977" p="NN" headn="yes" group="I-NP">shore</w> <w pws="yes" id="w983" p="IN" group="B-PP">of</w> <w locname="single" l="coniston" pws="yes" id="w986" p="NNP" group="B-NP">Coniston</w> <w common="true" l="water" pws="yes" id="w995" p="NNP" group="I-NP">Water</w> <w pws="yes" id="w1001" p="PRP" group="B-NP">I</w>
+<w l="feel" pws="yes" id="w1003" p="VBD" headv="yes" group="B-VP">felt</w> <w pws="yes" id="w1008" p="RB" group="B-ADJP">very</w> <w tmla="true" pws="yes" id="w1013" p="JJ" group="I-ADJP">happy</w><w sb="true" pws="no" id="w1018" p="." group="O">.</w></s></p>
+</text>
+<standoff>
+<ents source="ner-rb">
+  <ent id="rb1" type="location" lat="54.34129569776685" long="-3.070522463211718" gazref="unlock:11115206" feat-type="water">
+    <parts>
+      <part ew="w102" sw="w93">Coniston Water</part>
+    </parts>
+  </ent>
+  <ent id="rb2" type="location" lat="54.34129569776685" long="-3.070522463211718" gazref="unlock:11115206" feat-type="water">
+    <parts>
+      <part ew="w333" sw="w324">Coniston Water</part>
+    </parts>
+  </ent>
+  <ent date="03" month="08" year="2021" sdate="2021-08-03" day-number="738004" id="rb3" wdaynum="2" day="Tuesday" type="date">
+    <parts>
+      <part ew="w382" sw="w382">Tuesday</part>
+    </parts>
+  </ent>
+  <ent id="rb4" type="location" lat="54.34129569776685" long="-3.070522463211718" gazref="unlock:11115206" feat-type="water">
+    <parts>
+      <part ew="w409" sw="w400">Coniston Water</part>
+    </parts>
+  </ent>
+  <ent id="rb5" type="location" lat="54.67789572102337" long="-3.529139847135077" gazref="unlock:11276521" feat-type="ppl">
+    <parts>
+      <part ew="w671" sw="w667">St. Helens</part>
+    </parts>
+  </ent>
+  <ent id="rb6" type="location" lat="54.67789572102337" long="-3.529139847135077" gazref="unlock:11276521" feat-type="ppl">
+    <parts>
+      <part ew="w963" sw="w959">St. Helens</part>
+    </parts>
+  </ent>
+  <ent id="rb7" subtype="otf" type="location" lat="54.34129569776685" long="-3.070522463211718" gazref="unlock:11115206" feat-type="water">
+    <parts>
+      <part ew="w995" sw="w986">Coniston Water</part>
+    </parts>
+  </ent>
+</ents>
+<ents source="events">
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev1" subtype="throw" type="event"><parts><part ew="w30" sw="w30">throws</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev2" subtype="clothe" type="event"><parts><part ew="w134" sw="w134">clothed</part></parts></ent>
+  <ent tense="nonfin" voice="act" asp="prog" modal="no" id="ev3" subtype="fpread" type="event"><parts><part ew="w170" sw="w170">fpreading</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev4" subtype="dilate" type="event"><parts><part ew="w230" sw="w230">dilated</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev5" subtype="lobe" type="event"><parts><part ew="w317" sw="w317">lobed</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev6" subtype="visit" type="event"><parts><part ew="w392" sw="w392">visited</part></parts></ent>
+  <ent tense="presorbase" voice="act" asp="simple" modal="no" id="ev7" subtype="produce" type="event"><parts><part ew="w474" sw="w474">produce</part></parts></ent>
+  <ent tense="nonfin" voice="act" asp="prog" modal="no" id="ev8" subtype="bear" type="event"><parts><part ew="w610" sw="w610">bearing</part></parts></ent>
+  <ent tense="pres" voice="pass" asp="simple" modal="yes" id="ev9" subtype="feen" type="event"><parts><part ew="w745" sw="w745">feen</part></parts></ent>
+  <ent tense="pres" voice="pass" asp="simple" modal="no" id="ev10" subtype="characterize" type="event"><parts><part ew="w800" sw="w800">characterized</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev11" subtype="feed" type="event"><parts><part ew="w846" sw="w846">feeds</part></parts></ent>
+  <ent tense="pres" voice="act" asp="simple" modal="no" id="ev12" subtype="end" type="event"><parts><part ew="w916" sw="w916">ends</part></parts></ent>
+  <ent tense="nonfin" voice="act" asp="prog" modal="no" id="ev13" subtype="walk" type="event"><parts><part ew="w941" sw="w941">Walking</part></parts></ent>
+  <ent tense="past" voice="act" asp="simple" modal="no" id="ev14" subtype="feel" type="event"><parts><part ew="w1003" sw="w1003">felt</part></parts></ent>
+</ents>
+<relations source="temprel">
+  <relation id="rbr1" type="beforeorincl" text="clothed">
+    <argument arg1="true" ref="ev2"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr2" type="beforeorincl" text="dilated">
+    <argument arg1="true" ref="ev4"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr3" type="beforeorincl" text="lobed">
+    <argument arg1="true" ref="ev5"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+  <relation id="rbr4" type="simultaneous" text="Tuesday I visited">
+    <argument arg1="true" ref="ev6"/>
+    <argument arg2="true" ref="rb3"/>
+  </relation>
+  <relation id="rbr5" type="beforeorincl" text="felt">
+    <argument arg1="true" ref="ev14"/>
+    <argument arg2="true" ref="docdate"/>
+  </relation>
+</relations></standoff></document>
