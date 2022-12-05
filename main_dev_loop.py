@@ -225,7 +225,7 @@ if __name__ =='__main__':
 		print('---forming collocates---')
 
 
-		plant_finds = load_json_as_dict('./data/all_plant_matches_finds.json') # load all plant finds	
+		plant_finds = load_json_as_dict('./data/all_plant_matches_finds_mapper_mapped.json') # load all plant finds	
 
 		location_finds = load_json_as_dict('./data/raw_corpus_location_finds.json') # load all location finds
 
