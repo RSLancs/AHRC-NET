@@ -8,13 +8,13 @@ import os
 
 ## set parameters 
 
-## geoparse corpus - RUN ONCE
+## geoparse corpus
 clean_for_geoparser = False
 geoparse_corpus = False
 
 
 
-## compile plant list - RUN ONCE
+## compile plant list
 get_powo_plant_names = False
 
 
