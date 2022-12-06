@@ -8,7 +8,7 @@ The scripts further allow for the input corpus to be geoparsed and for matches t
 
 The scripts allow for collocating plant and location finds based on thier proximity to each other.
 
-Running `main_pipe.py` will run the full process, but the Edinbrough Geoparser will need to be downloaded seperatly and placed in the root folder alongside the `main_pipe.py` script within the folder `geoparser-1.2`. The first lines of the script set the parameters of the pipe and should be considered carefully. 
+Running `main_dev_loop.py` will run the full process, but the Edinbrough Geoparser will need to be downloaded seperatly and placed in the root folder alongside the `main_dev_loop.py` script within the folder `geoparser-1.2`. The first lines of the script set the parameters of the pipe and should be considered carefully. 
 
 
 ## Points of Note
